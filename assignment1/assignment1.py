@@ -327,4 +327,4 @@ if __name__ == "__main__":
     print("\nTask 10 - Pig Latin function:")
     print(pig_latin("hello world"))
     print(pig_latin("apple banana"))
-    print(pig_latin("quick question"))
+    print(pig_latin("quick question"))Python: Select Interpreter
