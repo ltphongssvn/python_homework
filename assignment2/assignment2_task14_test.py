@@ -4,7 +4,7 @@ Test module for the minutes list creation functionality in assignment2 package.
 This module verifies that the create_minutes_list function correctly generates
 a list of tuples containing meeting information with proper datetime objects.
 """
-import assignment2 as a2
+import assignment2_task14 as a2
 
 
 def test_create_minutes_list():

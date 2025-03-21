@@ -5,7 +5,7 @@ This module tests the create_minutes_set function to verify it properly
 generates a set data structure containing the expected number of unique
 meeting entries.
 """
-import assignment2 as a2
+import assignment2_task13 as a2
 
 
 def test_create_minutes_set():

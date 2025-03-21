@@ -6,7 +6,7 @@ This module tests the write_sorted_list function which should create
 a sorted CSV file and return the sorted content as a list of tuples.
 """
 import os
-import assignment2 as a2
+import assignment2_task15 as a2
 
 
 def test_write_sorted_list():

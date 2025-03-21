@@ -31,7 +31,7 @@ def read_csv_to_dict(filename):
             # Add rows list to the result dictionary
             result_dict["rows"] = rows_list
 
-    except Exception as e:
+    except Exception as e:  # pylint: disable=broad-except
         trace_back = traceback.extract_tb(e.__traceback__)
         stack_trace = list()
         for trace in trace_back:
