@@ -1,0 +1,13 @@
+It's great! I understand the concept of pytest for the tasks 2 to 15. 
+and also know how to test task 1
+I understand the concept of setting environment variable value in VS Code Terminal session.
+I also learn to fix style warnings from linters in VS Code.
+done for now
+I plan on Google Calenda to attend Dan P session today at 5:00PM.
+I am so excited to learn a lot Python concepts.
+I am excited to see the functions passed the pytest tests.
+done for now
+
+I continue to fix style check errors.
+and complete the pytest tests to stage, commit, and  push changes to the remote GitHub reposiroty.
+done for now
