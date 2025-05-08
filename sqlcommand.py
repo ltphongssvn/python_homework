@@ -1,7 +1,21 @@
-import readline  # Provides command line editing and history
-import sqlite3   # For SQL command execution
+# import readline  # Provides command line editing and history
+# import sqlite3   # For SQL command execution
+# import sys
+
+
 import sys
-conn = sqlite3.connect("./db/lesson.db",isolation_level='IMMEDIATE')
+import sqlite3  # For SQL command execution
+
+# Platform-specific readline handling
+try:
+    import readline  # Unix/Mac
+except ImportError:
+    # For Windows systems
+    pass
+
+
+# conn = sqlite3.connect("db/lesson.db",isolation_level='IMMEDIATE')
+conn = sqlite3.connect("C:/Users/LENOVO/python_homework/db/lesson.db", isolation_level='IMMEDIATE')
 conn.execute("PRAGMA foreign_keys = 1")
 
 cursor = conn.cursor()
