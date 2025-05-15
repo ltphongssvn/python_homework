@@ -1,0 +1,4 @@
+Search result container: cp-search-result-item-content
+Title: h2.cp-title, span.title-content
+Author: span.cp-by-author-block
+Format-Year: span.cp-screen-reader-message
