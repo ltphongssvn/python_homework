@@ -1,0 +1,18 @@
+Which sections of the website are restricted for crawling?
+- Special/Search pages across multiple languages
+- User pages and talk pages
+- Discussion pages (Articles for deletion, copyright problems)
+- Administrative pages (requests for adminship, arbitration)
+- XfD (deletion) discussions and related pages
+- Internal wiki maintenance pages
+- Most non-article namespaces
+
+Are there specific rules for certain user agents?
+- Yes, Wikipedia has specific rules for different crawlers
+- Some bots are completely blocked (MJ12bot, advertising bots, etc.)
+- Some bots have specific permissions (IsraBot, Orthogaffe)
+- Different bots may have different crawl delay requirements
+- Many site copiers and mass downloaders are explicitly blocked
+
+Why websites use robots.txt and how it promotes ethical scraping:
+Websites use robots.txt to communicate boundaries for automated access. This promotes ethical scraping by establishing clear guidelines, reducing server load by preventing excessive requests, protecting sensitive content from unwanted indexing, and preventing duplication of content across search engines. Following robots.txt is essential for maintaining good relationships between website owners and data collectors, ensuring the web remains accessible while respecting site owners' wishes.
