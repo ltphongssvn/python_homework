@@ -1,0 +1,28 @@
+Advanced Data Visualization Assignment - Deployed Applications
+
+=== Dash Application (Primary Requirement) ===
+Render.com Service URL: https://ltphong-gapminder-dashboard.onrender.com
+Application Type: Interactive Gapminder GDP Analysis Dashboard
+Technology Stack: Python, Dash, Plotly, Pandas
+Repository: https://github.com/ltphongssvn/python-assignment11
+Description: Comprehensive economic development dashboard with interactive country selection and GDP per capita visualization over time. Demonstrates professional Dash development practices including callback systems, responsive design, and cloud deployment.
+
+=== Streamlit Application (Optional Assignment) ===
+Streamlit Cloud URL: https://app-economic-dashboard-vkyuk5n3bhrzmddxvedfen.streamlit.app/
+Application Type: Global Economic Development Analysis Platform  
+Technology Stack: Python, Streamlit, Plotly, Pandas, Matplotlib, Seaborn
+Repository: https://github.com/ltphongssvn/streamlit-economic-dashboard
+Description: Advanced interactive dashboard showcasing data cleaning transparency, multiple visualization types, and Streamlit's rapid development capabilities. Includes comparative analysis tools and comprehensive data exploration features.
+
+=== Technical Achievements Demonstrated ===
+- Interactive web application development using two different frameworks
+- Professional data visualization with multiple chart types and interactions
+- Cloud deployment on multiple platforms (Render.com and Streamlit Cloud)
+- Git version control with proper branching strategies
+- Dependency management and environment configuration
+- Responsive design and user experience optimization
+- Data cleaning and preparation with full documentation
+- Professional code organization and documentation practices
+
+=== Learning Outcomes ===
+This assignment demonstrated mastery of the complete software development lifecycle from initial data analysis through interactive visualization development to cloud deployment. The comparative experience with both Dash and Streamlit frameworks provides deep understanding of different approaches to data application development and their respective strengths for different use cases.
