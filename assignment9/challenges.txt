@@ -1,0 +1,13 @@
+Describe any challenges you faced in completing this assignment and how you resolved them
+
+The previous code attempts failed for several key reasons:
+
+1. Incorrect XPath selectors: The earlier versions used selectors like `//div[contains(@class, 'risk-card')]//a` or `//div[contains(@class, 'category-wrapper')]/a` which don't match the actual HTML structure of the page.
+
+2. DOM structure misunderstanding: The page structure is different than assumed - the vulnerabilities are actually listed in a standard unordered list (`<ul>`) with list items containing links, not in special containers.
+
+3. Missing filtering: Previous attempts didn't properly filter for links specifically containing the OWASP Top 10 vulnerability pattern of "A01" through "A10".
+
+4. Unfocused search: Some attempts were too broad, trying to search the entire page rather than focusing on the specific section containing the vulnerability list.
+
+The successful approach uses a more accurate XPath `//ul/li/a[contains(@href, '/Top10/A')]` that targets links within list items that contain "/Top10/A" in their href attribute, which correctly identifies the vulnerability links on the page.

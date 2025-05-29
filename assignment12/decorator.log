@@ -1,0 +1,5 @@
+function: simple_hello positional parameters: none keyword parameters: none return: None
+function: accept_many_args positional parameters: [1, 2, 3, 'hello', [1, 2, 3]] keyword parameters: none return: True
+function: accept_many_args positional parameters: ['single argument'] keyword parameters: none return: True
+function: accept_keyword_args positional parameters: none keyword parameters: {'name': 'Alice', 'age': 30, 'city': 'New York'} return: <function logger_decorator at 0x000002AD300AE0C0>
+function: accept_keyword_args positional parameters: none keyword parameters: {'debug': True, 'level': 'INFO'} return: <function logger_decorator at 0x000002AD300AE0C0>
