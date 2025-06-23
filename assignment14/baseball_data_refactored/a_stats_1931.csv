@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1931,American League,Base on Balls,128,player,1
+Al Simmons,https://www.baseball-almanac.com/players/player.php?p=simmoal01,Philadelphia,,1931,American League,Batting Average,.390,player,1
+Earl Webb,https://www.baseball-almanac.com/players/player.php?p=webbea01,Boston,,1931,American League,Doubles,67,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1931,American League,Hits,211,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1931,American League,Home Runs,46,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1931,American League,Home Runs,46,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1931,American League,On Base Percentage,.495,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1931,American League,RBI,184,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1931,American League,Runs,163,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1931,American League,Slugging Average,.700,player,1
+Ben Chapman,https://www.baseball-almanac.com/players/player.php?p=chapmbe01,New York,,1931,American League,Stolen Bases,61,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1931,American League,Total Bases,410,player,1
+Roy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsro02,Detroit,,1931,American League,Triples,19,player,1
+Wes Ferrell,https://www.baseball-almanac.com/players/player.php?p=ferrewe01,Cleveland,,1931,American League,Complete Games,27,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1931,American League,Complete Games,27,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1931,American League,ERA,2.06,pitcher,1
+Bump Hadley,https://www.baseball-almanac.com/players/player.php?p=hadlebu01,Washington,,1931,American League,Games,55,pitcher,1
+Wilcy Moore,https://www.baseball-almanac.com/players/player.php?p=moorewi01,Boston,,1931,American League,Saves,10,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1931,American League,Shutouts,4,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1931,American League,Strikeouts,175,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1931,American League,Winning Percentage,.886,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1931,American League,Wins,31,pitcher,1

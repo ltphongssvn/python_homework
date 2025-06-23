@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1942,American League,Base on Balls,145,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1942,American League,Batting Average,.356,player,1
+Don Kolloway,https://www.baseball-almanac.com/players/player.php?p=kollodo01,Chicago,,1942,American League,Doubles,40,player,1
+Johnny Pesky,https://www.baseball-almanac.com/players/player.php?p=peskyjo01,Boston,,1942,American League,Hits,205,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1942,American League,Home Runs,36,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1942,American League,On Base Percentage,.499,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1942,American League,RBI,137,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1942,American League,Runs,141,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1942,American League,Slugging Average,.648,player,1
+George Case,https://www.baseball-almanac.com/players/player.php?p=casege01,Washington,,1942,American League,Stolen Bases,44,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1942,American League,Total Bases,338,player,1
+Stan Spence,https://www.baseball-almanac.com/players/player.php?p=spencst01,Washington,,1942,American League,Triples,15,player,1
+Tiny Bonham,https://www.baseball-almanac.com/players/player.php?p=bonhati01,New York,,1942,American League,Complete Games,22,pitcher,1
+Tex Hughson,https://www.baseball-almanac.com/players/player.php?p=hughste01,Boston,,1942,American League,Complete Games,22,pitcher,1
+Ted Lyons,https://www.baseball-almanac.com/players/player.php?p=lyonste01,Chicago,,1942,American League,ERA,2.10,pitcher,1
+Joe Haynes,https://www.baseball-almanac.com/players/player.php?p=haynejo01,Chicago,,1942,American League,Games,40,pitcher,1
+Johnny Murphy,https://www.baseball-almanac.com/players/player.php?p=murphjo04,New York,,1942,American League,Saves,11,pitcher,1
+Tiny Bonham,https://www.baseball-almanac.com/players/player.php?p=bonhati01,New York,,1942,American League,Shutouts,6,pitcher,1
+Tex Hughson,https://www.baseball-almanac.com/players/player.php?p=hughste01,Boston,,1942,American League,Strikeouts,113,pitcher,1
+Bobo Newsom,https://www.baseball-almanac.com/players/player.php?p=newsobo01,Washington,,1942,American League,Strikeouts,113,pitcher,1
+Tiny Bonham,https://www.baseball-almanac.com/players/player.php?p=bonhati01,New York,,1942,American League,Winning Percentage,.808,pitcher,1
+Tex Hughson,https://www.baseball-almanac.com/players/player.php?p=hughste01,Boston,,1942,American League,Wins,22,pitcher,1

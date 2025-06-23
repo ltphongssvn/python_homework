@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Frank Thomas,https://www.baseball-almanac.com/players/player.php?p=thomafr04,Chicago,,1991,American League,Base on Balls,138,player,1
+Julio Franco,https://www.baseball-almanac.com/players/player.php?p=francju01,Texas,,1991,American League,Batting Average,.341,player,1
+Rafael Palmeiro,https://www.baseball-almanac.com/players/player.php?p=palmera01,Texas,,1991,American League,Doubles,49,player,1
+Paul Molitor,https://www.baseball-almanac.com/players/player.php?p=molitpa01,Milwaukee,,1991,American League,Hits,216,player,1
+Jose Canseco,https://www.baseball-almanac.com/players/player.php?p=cansejo01,Oakland,,1991,American League,Home Runs,44,player,1
+Cecil Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldce01,Detroit,,1991,American League,Home Runs,44,player,1
+Frank Thomas,https://www.baseball-almanac.com/players/player.php?p=thomafr04,Chicago,,1991,American League,On Base Percentage,.454,player,1
+Cecil Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldce01,Detroit,,1991,American League,RBI,133,player,1
+Paul Molitor,https://www.baseball-almanac.com/players/player.php?p=molitpa01,Milwaukee,,1991,American League,Runs,133,player,1
+Danny Tartabull,https://www.baseball-almanac.com/players/player.php?p=tartada01,Kansas City,,1991,American League,Slugging Average,.593,player,1
+Rickey Henderson,https://www.baseball-almanac.com/players/player.php?p=henderi01,Oakland,,1991,American League,Stolen Bases,58,player,1
+"Cal Ripken, Jr.",https://www.baseball-almanac.com/players/player.php?p=ripkeca01,Baltimore,,1991,American League,Total Bases,368,player,1
+Lance Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsla03,Chicago,,1991,American League,Triples,12,player,1
+Jack McDowell,https://www.baseball-almanac.com/players/player.php?p=mcdowja01,Chicago,,1991,American League,Complete Games,15,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Boston,,1991,American League,ERA,2.62,pitcher,1
+Duane Ward,https://www.baseball-almanac.com/players/player.php?p=warddu01,Toronto,,1991,American League,Games,81,pitcher,1
+Bryan Harvey,https://www.baseball-almanac.com/players/player.php?p=harvebr01,California,,1991,American League,Saves,46,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Boston,,1991,American League,Shutouts,4,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Boston,,1991,American League,Strikeouts,241,pitcher,1
+Scott Erickson,https://www.baseball-almanac.com/players/player.php?p=ericksc01,Minnesota,,1991,American League,Winning Percentage,.714,pitcher,1
+Scott Erickson,https://www.baseball-almanac.com/players/player.php?p=ericksc01,Minnesota,,1991,American League,Wins,20,pitcher,1
+Bill Gullickson,https://www.baseball-almanac.com/players/player.php?p=gullibi01,Detroit,,1991,American League,Wins,20,pitcher,1

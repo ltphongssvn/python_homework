@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1928,American League,Base on Balls,137,player,1
+Goose Goslin,https://www.baseball-almanac.com/players/player.php?p=gosligo01,Washington,,1928,American League,Batting Average,.379,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1928,American League,Doubles,47,player,1
+Henie Manush,https://www.baseball-almanac.com/players/player.php?p=manushe01,St. Louis,,1928,American League,Doubles,47,player,1
+Henie Manush,https://www.baseball-almanac.com/players/player.php?p=manushe01,St. Louis,,1928,American League,Hits,241,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1928,American League,Home Runs,54,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1928,American League,On Base Percentage,.467,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1928,American League,RBI,142,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1928,American League,RBI,142,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1928,American League,Runs,163,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1928,American League,Slugging Average,.709,player,1
+Buddy Myer,https://www.baseball-almanac.com/players/player.php?p=myerbu01,Boston,,1928,American League,Stolen Bases,30,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1928,American League,Total Bases,380,player,1
+Earle Combs,https://www.baseball-almanac.com/players/player.php?p=combsea01,New York,,1928,American League,Triples,21,player,1
+Red Ruffing,https://www.baseball-almanac.com/players/player.php?p=ruffire01,Boston,,1928,American League,Complete Games,25,pitcher,1
+Garland Braxton,https://www.baseball-almanac.com/players/player.php?p=braxtga01,Washington,,1928,American League,ERA,2.51,pitcher,1
+Firpo Marberry,https://www.baseball-almanac.com/players/player.php?p=marbefi01,Washington,,1928,American League,Games,48,pitcher,1
+Waite Hoyt,https://www.baseball-almanac.com/players/player.php?p=hoytwa01,New York,,1928,American League,Saves,8,pitcher,1
+Herb Pennock,https://www.baseball-almanac.com/players/player.php?p=pennohe01,New York,,1928,American League,Shutouts,5,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1928,American League,Strikeouts,183,pitcher,1
+Alvin Crowder,https://www.baseball-almanac.com/players/player.php?p=crowdal01,St. Louis,,1928,American League,Winning Percentage,.808,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1928,American League,Wins,24,pitcher,1
+George Pipgras,https://www.baseball-almanac.com/players/player.php?p=pipgrge01,New York,,1928,American League,Wins,24,pitcher,1

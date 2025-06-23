@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Eddie Collins,https://www.baseball-almanac.com/players/player.php?p=collied01,Chicago,,1915,American League,Base on Balls,119,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1915,American League,Batting Average,.369,player,1
+Bobby Veach,https://www.baseball-almanac.com/players/player.php?p=veachbo01,Detroit,,1915,American League,Doubles,40,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1915,American League,Hits,208,player,1
+Braggo Roth,https://www.baseball-almanac.com/players/player.php?p=rothbr01,Chicago,,1915,American League,Home Runs,7,player,1
+Braggo Roth,https://www.baseball-almanac.com/players/player.php?p=rothbr01,Cleveland,,1915,American League,Home Runs,7,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1915,American League,On Base Percentage,.486,player,1
+Sam Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfsa01,Detroit,,1915,American League,RBI,112,player,1
+Bobby Veach,https://www.baseball-almanac.com/players/player.php?p=veachbo01,Detroit,,1915,American League,RBI,112,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1915,American League,Runs,144,player,1
+Jack Fournier,https://www.baseball-almanac.com/players/player.php?p=fournja01,Chicago,,1915,American League,Slugging Average,.491,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1915,American League,Stolen Bases,96,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1915,American League,Total Bases,274,player,1
+Sam Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfsa01,Detroit,,1915,American League,Triples,19,player,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1915,American League,Complete Games,35,pitcher,1
+Smoky Joe Wood,https://www.baseball-almanac.com/players/player.php?p=woodjo02,Boston,,1915,American League,ERA,1.49,pitcher,1
+Harry Coveleski,https://www.baseball-almanac.com/players/player.php?p=covelha01,Detroit,,1915,American League,Games,50,pitcher,1
+Red Faber,https://www.baseball-almanac.com/players/player.php?p=faberre01,Chicago,,1915,American League,Games,50,pitcher,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,Boston,,1915,American League,Saves,7,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1915,American League,Shutouts,7,pitcher,1
+Jim Scott,https://www.baseball-almanac.com/players/player.php?p=scottji01,Chicago,,1915,American League,Shutouts,7,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1915,American League,Strikeouts,203,pitcher,1
+Smoky Joe Wood,https://www.baseball-almanac.com/players/player.php?p=woodjo02,Boston,,1915,American League,Winning Percentage,.750,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1915,American League,Wins,27,pitcher,1

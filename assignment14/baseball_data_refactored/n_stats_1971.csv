@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1971,National League,Base on Balls,112,player,1
+Joe Torre,https://www.baseball-almanac.com/players/player.php?p=torrejo01,St. Louis,,1971,National League,Batting Average,.363,player,1
+Cesar Cedeno,https://www.baseball-almanac.com/players/player.php?p=cedence01,Houston,,1971,National League,Doubles,40,player,1
+Joe Torre,https://www.baseball-almanac.com/players/player.php?p=torrejo01,St. Louis,,1971,National League,Hits,230,player,1
+Willie Stargell,https://www.baseball-almanac.com/players/player.php?p=stargwi01,Pittsburgh,,1971,National League,Home Runs,48,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1971,National League,On Base Percentage,.429,player,1
+Joe Torre,https://www.baseball-almanac.com/players/player.php?p=torrejo01,St. Louis,,1971,National League,RBI,137,player,1
+Lou Brock,https://www.baseball-almanac.com/players/player.php?p=brocklo01,St. Louis,,1971,National League,Runs,126,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Atlanta,,1971,National League,Slugging Average,.669,player,1
+Lou Brock,https://www.baseball-almanac.com/players/player.php?p=brocklo01,St. Louis,,1971,National League,Stolen Bases,64,player,1
+Joe Torre,https://www.baseball-almanac.com/players/player.php?p=torrejo01,St. Louis,,1971,National League,Total Bases,352,player,1
+Roger Metzger,https://www.baseball-almanac.com/players/player.php?p=metzgro01,Houston,,1971,National League,Triples,11,player,1
+Joe Morgan,https://www.baseball-almanac.com/players/player.php?p=morgajo02,Houston,,1971,National League,Triples,11,player,1
+Fergie Jenkins,https://www.baseball-almanac.com/players/player.php?p=jenkife01,Chicago,,1971,National League,Complete Games,30,pitcher,1
+Tom Seaver,https://www.baseball-almanac.com/players/player.php?p=seaveto01,New York,,1971,National League,ERA,1.76,pitcher,1
+Wayne Granger,https://www.baseball-almanac.com/players/player.php?p=grangwa01,Cincinnati,,1971,National League,Games,70,pitcher,1
+Dave Giusti,https://www.baseball-almanac.com/players/player.php?p=giustda01,Pittsburgh,,1971,National League,Saves,30,pitcher,1
+Steve Blass,https://www.baseball-almanac.com/players/player.php?p=blassst01,Pittsburgh,,1971,National League,Shutouts,5,pitcher,1
+Al Downing,https://www.baseball-almanac.com/players/player.php?p=downial01,Los Angeles,,1971,National League,Shutouts,5,pitcher,1
+Bob Gibson,https://www.baseball-almanac.com/players/player.php?p=gibsobo01,St. Louis,,1971,National League,Shutouts,5,pitcher,1
+Milt Pappas,https://www.baseball-almanac.com/players/player.php?p=pappami01,Chicago,,1971,National League,Shutouts,5,pitcher,1
+Tom Seaver,https://www.baseball-almanac.com/players/player.php?p=seaveto01,New York,,1971,National League,Strikeouts,289,pitcher,1
+Don Gullett,https://www.baseball-almanac.com/players/player.php?p=gulledo01,Cincinnati,,1971,National League,Winning Percentage,.727,pitcher,1
+Fergie Jenkins,https://www.baseball-almanac.com/players/player.php?p=jenkife01,Chicago,,1971,National League,Wins,24,pitcher,1

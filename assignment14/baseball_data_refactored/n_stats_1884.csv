@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+George Gore,https://www.baseball-almanac.com/players/player.php?p=gorege01,Chicago,,1884,National League,Base on Balls,61,player,1
+King Kelly,https://www.baseball-almanac.com/players/player.php?p=kellyki01,Chicago,,1884,National League,Batting Average,.354,player,1
+Paul Hines,https://www.baseball-almanac.com/players/player.php?p=hinespa01,Providence,,1884,National League,Doubles,36,player,1
+Jim O'Rourke,https://www.baseball-almanac.com/players/player.php?p=orouji01,Buffalo,,1884,National League,Hits,162,player,1
+Ezra Sutton,https://www.baseball-almanac.com/players/player.php?p=suttoez01,Boston,,1884,National League,Hits,162,player,1
+Ned Williamson,https://www.baseball-almanac.com/players/player.php?p=willine01,Chicago,,1884,National League,Home Runs,27,player,1
+King Kelly,https://www.baseball-almanac.com/players/player.php?p=kellyki01,Chicago,,1884,National League,On Base Percentage,.414,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1884,National League,RBI,102,player,1
+King Kelly,https://www.baseball-almanac.com/players/player.php?p=kellyki01,Chicago,,1884,National League,Runs,120,player,1
+Dan Brouthers,https://www.baseball-almanac.com/players/player.php?p=broutda01,Buffalo,,1884,National League,Slugging Average,.563,player,1
+Abner Dalrymple,https://www.baseball-almanac.com/players/player.php?p=dalryab01,Chicago,,1884,National League,Total Bases,263,player,1
+Buck Ewing,https://www.baseball-almanac.com/players/player.php?p=ewingbu01,New York,,1884,National League,Triples,20,player,1
+Old Hoss Radbourn,https://www.baseball-almanac.com/players/player.php?p=radboch01,Providence,,1884,National League,Complete Games,73,pitcher,1
+Old Hoss Radbourn,https://www.baseball-almanac.com/players/player.php?p=radboch01,Providence,,1884,National League,ERA,1.38,pitcher,1
+Old Hoss Radbourn,https://www.baseball-almanac.com/players/player.php?p=radboch01,Providence,,1884,National League,Games,75,pitcher,1
+John Morrill,https://www.baseball-almanac.com/players/player.php?p=morrijo01,Boston,,1884,National League,Saves,2,pitcher,1
+Pud Galvin,https://www.baseball-almanac.com/players/player.php?p=galviji01,Buffalo,,1884,National League,Shutouts,12,pitcher,1
+Old Hoss Radbourn,https://www.baseball-almanac.com/players/player.php?p=radboch01,Providence,,1884,National League,Strikeouts,441,pitcher,1
+Old Hoss Radbourn,https://www.baseball-almanac.com/players/player.php?p=radboch01,Providence,,1884,National League,Winning Percentage,.831,pitcher,1
+Old Hoss Radbourn,https://www.baseball-almanac.com/players/player.php?p=radboch01,Providence,,1884,National League,Wins,59,pitcher,1

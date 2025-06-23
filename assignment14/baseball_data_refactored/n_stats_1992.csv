@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,Pittsburgh,,1992,National League,Base on Balls,127,player,1
+Gary Sheffield,https://www.baseball-almanac.com/players/player.php?p=sheffga01,San Diego,,1992,National League,Batting Average,.330,player,1
+Andy Van Slyke,https://www.baseball-almanac.com/players/player.php?p=vanslan01,Pittsburgh,,1992,National League,Doubles,45,player,1
+Terry Pendleton,https://www.baseball-almanac.com/players/player.php?p=pendlte01,Atlanta,,1992,National League,Hits,199,player,1
+Andy Van Slyke,https://www.baseball-almanac.com/players/player.php?p=vanslan01,Pittsburgh,,1992,National League,Hits,199,player,1
+Fred McGriff,https://www.baseball-almanac.com/players/player.php?p=mcgrifr01,San Diego,,1992,National League,Home Runs,35,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,Pittsburgh,,1992,National League,On Base Percentage,.461,player,1
+Darren Daulton,https://www.baseball-almanac.com/players/player.php?p=daultda01,Philadelphia,,1992,National League,RBI,109,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,Pittsburgh,,1992,National League,Runs,109,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,Pittsburgh,,1992,National League,Slugging Average,.624,player,1
+Marquis Grissom,https://www.baseball-almanac.com/players/player.php?p=grissma02,Montreal,,1992,National League,Stolen Bases,78,player,1
+Gary Sheffield,https://www.baseball-almanac.com/players/player.php?p=sheffga01,San Diego,,1992,National League,Total Bases,323,player,1
+Deion Sanders,https://www.baseball-almanac.com/players/player.php?p=sandede02,Atlanta,,1992,National League,Triples,14,player,1
+Terry Mulholland,https://www.baseball-almanac.com/players/player.php?p=mulhote01,Philadelphia,,1992,National League,Complete Games,12,pitcher,1
+Bill Swift,https://www.baseball-almanac.com/players/player.php?p=swiftbi01,San Francisco,,1992,National League,ERA,2.08,pitcher,1
+Joe Boever,https://www.baseball-almanac.com/players/player.php?p=boevejo01,Houston,,1992,National League,Games,81,pitcher,1
+Lee Smith,https://www.baseball-almanac.com/players/player.php?p=smithle02,St. Louis,,1992,National League,Saves,43,pitcher,1
+David Cone,https://www.baseball-almanac.com/players/player.php?p=coneda01,New York,,1992,National League,Shutouts,5,pitcher,1
+Tom Glavine,https://www.baseball-almanac.com/players/player.php?p=glavito02,Atlanta,,1992,National League,Shutouts,5,pitcher,1
+John Smoltz,https://www.baseball-almanac.com/players/player.php?p=smoltjo01,Atlanta,,1992,National League,Strikeouts,215,pitcher,1
+Bob Tewksbury,https://www.baseball-almanac.com/players/player.php?p=tewksbo01,St. Louis,,1992,National League,Winning Percentage,.762,pitcher,1
+Tom Glavine,https://www.baseball-almanac.com/players/player.php?p=glavito02,Atlanta,,1992,National League,Wins,20,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1992,National League,Wins,20,pitcher,1

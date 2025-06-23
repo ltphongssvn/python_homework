@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Whitey Witt,https://www.baseball-almanac.com/players/player.php?p=wittwh01,New York,,1922,American League,Base on Balls,89,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1922,American League,Batting Average,.420,player,1
+Tris Speaker,https://www.baseball-almanac.com/players/player.php?p=speaktr01,Cleveland,,1922,American League,Doubles,48,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1922,American League,Hits,246,player,1
+Ken Williams,https://www.baseball-almanac.com/players/player.php?p=willike01,St. Louis,,1922,American League,Home Runs,39,player,1
+Tris Speaker,https://www.baseball-almanac.com/players/player.php?p=speaktr01,Cleveland,,1922,American League,On Base Percentage,.474,player,1
+Ken Williams,https://www.baseball-almanac.com/players/player.php?p=willike01,St. Louis,,1922,American League,RBI,155,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1922,American League,Runs,134,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1922,American League,Slugging Average,.672,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1922,American League,Stolen Bases,51,player,1
+Ken Williams,https://www.baseball-almanac.com/players/player.php?p=willike01,St. Louis,,1922,American League,Total Bases,367,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1922,American League,Triples,18,player,1
+Red Faber,https://www.baseball-almanac.com/players/player.php?p=faberre01,Chicago,,1922,American League,Complete Games,31,pitcher,1
+Red Faber,https://www.baseball-almanac.com/players/player.php?p=faberre01,Chicago,,1922,American League,ERA,2.81,pitcher,1
+Eddie Rommel,https://www.baseball-almanac.com/players/player.php?p=rommeed01,Philadelphia,,1922,American League,Games,51,pitcher,1
+Sam Jones,https://www.baseball-almanac.com/players/player.php?p=jonessa01,New York,,1922,American League,Saves,8,pitcher,1
+George Uhle,https://www.baseball-almanac.com/players/player.php?p=uhlege01,Cleveland,,1922,American League,Shutouts,5,pitcher,1
+Urban Shocker,https://www.baseball-almanac.com/players/player.php?p=shockur01,St. Louis,,1922,American League,Strikeouts,149,pitcher,1
+Joe Bush,https://www.baseball-almanac.com/players/player.php?p=bushjo01,New York,,1922,American League,Winning Percentage,.788,pitcher,1
+Eddie Rommel,https://www.baseball-almanac.com/players/player.php?p=rommeed01,Philadelphia,,1922,American League,Wins,27,pitcher,1

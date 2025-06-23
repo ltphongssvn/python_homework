@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1932,American League,Base on Balls,130,player,1
+Dale Alexander,https://www.baseball-almanac.com/players/player.php?p=alexada01,Detroit,,1932,American League,Batting Average,.367,player,1
+Dale Alexander,https://www.baseball-almanac.com/players/player.php?p=alexada01,Boston,,1932,American League,Batting Average,.367,player,1
+Eric McNair,https://www.baseball-almanac.com/players/player.php?p=mcnaier01,Philadelphia,,1932,American League,Doubles,47,player,1
+Al Simmons,https://www.baseball-almanac.com/players/player.php?p=simmoal01,Philadelphia,,1932,American League,Hits,216,player,1
+Jimmie Foxx,https://www.baseball-almanac.com/players/player.php?p=foxxji01,Philadelphia,,1932,American League,Home Runs,58,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1932,American League,On Base Percentage,.489,player,1
+Jimmie Foxx,https://www.baseball-almanac.com/players/player.php?p=foxxji01,Philadelphia,,1932,American League,RBI,169,player,1
+Jimmie Foxx,https://www.baseball-almanac.com/players/player.php?p=foxxji01,Philadelphia,,1932,American League,Runs,151,player,1
+Jimmie Foxx,https://www.baseball-almanac.com/players/player.php?p=foxxji01,Philadelphia,,1932,American League,Slugging Average,.749,player,1
+Ben Chapman,https://www.baseball-almanac.com/players/player.php?p=chapmbe01,New York,,1932,American League,Stolen Bases,38,player,1
+Jimmie Foxx,https://www.baseball-almanac.com/players/player.php?p=foxxji01,Philadelphia,,1932,American League,Total Bases,438,player,1
+Joe Cronin,https://www.baseball-almanac.com/players/player.php?p=cronijo01,Washington,,1932,American League,Triples,18,player,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1932,American League,Complete Games,27,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1932,American League,ERA,2.84,pitcher,1
+Firpo Marberry,https://www.baseball-almanac.com/players/player.php?p=marbefi01,Washington,,1932,American League,Games,54,pitcher,1
+Firpo Marberry,https://www.baseball-almanac.com/players/player.php?p=marbefi01,Washington,,1932,American League,Saves,13,pitcher,1
+Tommy Bridges,https://www.baseball-almanac.com/players/player.php?p=bridgto01,Detroit,,1932,American League,Shutouts,4,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1932,American League,Shutouts,4,pitcher,1
+Red Ruffing,https://www.baseball-almanac.com/players/player.php?p=ruffire01,New York,,1932,American League,Strikeouts,190,pitcher,1
+Johnny Allen,https://www.baseball-almanac.com/players/player.php?p=allenjo02,New York,,1932,American League,Winning Percentage,.810,pitcher,1
+Alvin Crowder,https://www.baseball-almanac.com/players/player.php?p=crowdal01,Washington,,1932,American League,Wins,26,pitcher,1

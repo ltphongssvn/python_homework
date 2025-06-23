@@ -1,0 +1,31 @@
+============================================================
+DATABASE IMPORT REPORT
+============================================================
+Import Date: 2025-06-21 07:56:50
+Duration: 0.08 seconds
+Database: baseball_stats.db
+
+Files Processed: 3
+Records Imported: 245
+Records Skipped: 0
+Errors Encountered: 0
+Success Rate: 100.0%
+
+CLEANING SUMMARY:
+============================================================
+
+PLAYER Data Cleaning:
+  - Original rows: 70
+  - Rows after cleaning: 120
+  - Reduction: -71.4%
+
+PITCHER Data Cleaning:
+  - Original rows: 56
+  - Rows after cleaning: 80
+  - Reduction: -42.9%
+
+STANDINGS Data Cleaning:
+  - Original rows: 45
+  - Rows after cleaning: 45
+  - Reduction: 0.0%
+============================================================

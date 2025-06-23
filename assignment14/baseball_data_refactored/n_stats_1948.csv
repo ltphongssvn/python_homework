@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Bob Elliott,https://www.baseball-almanac.com/players/player.php?p=elliobo01,Boston,,1948,National League,Base on Balls,131,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,Batting Average,.376,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,Doubles,46,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,Hits,230,player,1
+Ralph Kiner,https://www.baseball-almanac.com/players/player.php?p=kinerra01,Pittsburgh,,1948,National League,Home Runs,40,player,1
+Johnny Mize,https://www.baseball-almanac.com/players/player.php?p=mizejo01,New York,,1948,National League,Home Runs,40,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,On Base Percentage,.450,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,RBI,131,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,Runs,135,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,Slugging Average,.702,player,1
+Richie Ashburn,https://www.baseball-almanac.com/players/player.php?p=ashburi01,Philadelphia,,1948,National League,Stolen Bases,32,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,Total Bases,429,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1948,National League,Triples,18,player,1
+Johnny Sain,https://www.baseball-almanac.com/players/player.php?p=sainjo01,Boston,,1948,National League,Complete Games,28,pitcher,1
+Harry Brecheen,https://www.baseball-almanac.com/players/player.php?p=brechha01,St. Louis,,1948,National League,ERA,2.24,pitcher,1
+Harry Gumbert,https://www.baseball-almanac.com/players/player.php?p=gumbeha01,Cincinnati,,1948,National League,Games,61,pitcher,1
+Harry Gumbert,https://www.baseball-almanac.com/players/player.php?p=gumbeha01,Cincinnati,,1948,National League,Saves,17,pitcher,1
+Harry Brecheen,https://www.baseball-almanac.com/players/player.php?p=brechha01,St. Louis,,1948,National League,Shutouts,7,pitcher,1
+Harry Brecheen,https://www.baseball-almanac.com/players/player.php?p=brechha01,St. Louis,,1948,National League,Strikeouts,149,pitcher,1
+Harry Brecheen,https://www.baseball-almanac.com/players/player.php?p=brechha01,St. Louis,,1948,National League,Winning Percentage,.741,pitcher,1
+Johnny Sain,https://www.baseball-almanac.com/players/player.php?p=sainjo01,Boston,,1948,National League,Wins,24,pitcher,1

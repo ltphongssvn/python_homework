@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jim Thome,https://www.baseball-almanac.com/players/player.php?p=thomeji01,Cleveland,,1997,American League,Base on Balls,120,player,1
+Frank Thomas,https://www.baseball-almanac.com/players/player.php?p=thomafr04,Chicago,,1997,American League,Batting Average,.347,player,1
+John Valentin,https://www.baseball-almanac.com/players/player.php?p=valenjo02,Boston,,1997,American League,Doubles,47,player,1
+Nomar Garciaparra,https://www.baseball-almanac.com/players/player.php?p=garcino01,Boston,,1997,American League,Hits,209,player,1
+"Ken Griffey, Jr.",https://www.baseball-almanac.com/players/player.php?p=griffke02,Seattle,,1997,American League,Home Runs,56,player,1
+Frank Thomas,https://www.baseball-almanac.com/players/player.php?p=thomafr04,Chicago,,1997,American League,On Base Percentage,.461,player,1
+"Ken Griffey, Jr.",https://www.baseball-almanac.com/players/player.php?p=griffke02,Seattle,,1997,American League,RBI,147,player,1
+"Ken Griffey, Jr.",https://www.baseball-almanac.com/players/player.php?p=griffke02,Seattle,,1997,American League,Runs,125,player,1
+"Ken Griffey, Jr.",https://www.baseball-almanac.com/players/player.php?p=griffke02,Seattle,,1997,American League,Slugging Average,.646,player,1
+Brian Hunter,https://www.baseball-almanac.com/players/player.php?p=huntebr02,Detroit,,1997,American League,Stolen Bases,74,player,1
+"Ken Griffey, Jr.",https://www.baseball-almanac.com/players/player.php?p=griffke02,Seattle,,1997,American League,Total Bases,393,player,1
+Nomar Garciaparra,https://www.baseball-almanac.com/players/player.php?p=garcino01,Boston,,1997,American League,Triples,11,player,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Toronto,,1997,American League,Complete Games,9,pitcher,1
+Pat Hentgen,https://www.baseball-almanac.com/players/player.php?p=hentgpa01,Toronto,,1997,American League,Complete Games,9,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Toronto,,1997,American League,ERA,2.05,pitcher,1
+Mike Myers,https://www.baseball-almanac.com/players/player.php?p=myersmi01,Detroit,,1997,American League,Games,88,pitcher,1
+Randy Myers,https://www.baseball-almanac.com/players/player.php?p=myersra01,Baltimore,,1997,American League,Saves,45,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Toronto,,1997,American League,Shutouts,3,pitcher,1
+Pat Hentgen,https://www.baseball-almanac.com/players/player.php?p=hentgpa01,Toronto,,1997,American League,Shutouts,3,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Toronto,,1997,American League,Strikeouts,292,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Seattle,,1997,American League,Winning Percentage,.833,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Toronto,,1997,American League,Wins,21,pitcher,1

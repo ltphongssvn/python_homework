@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jack Clark,https://www.baseball-almanac.com/players/player.php?p=clarkja01,St. Louis,,1987,National League,Base on Balls,136,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1987,National League,Batting Average,.370,player,1
+Tim Wallach,https://www.baseball-almanac.com/players/player.php?p=wallati01,Montreal,,1987,National League,Doubles,42,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1987,National League,Hits,218,player,1
+Andre Dawson,https://www.baseball-almanac.com/players/player.php?p=dawsoan01,Chicago,,1987,National League,Home Runs,49,player,1
+Jack Clark,https://www.baseball-almanac.com/players/player.php?p=clarkja01,St. Louis,,1987,National League,On Base Percentage,.461,player,1
+Andre Dawson,https://www.baseball-almanac.com/players/player.php?p=dawsoan01,Chicago,,1987,National League,RBI,137,player,1
+Tim Raines,https://www.baseball-almanac.com/players/player.php?p=raineti01,Montreal,,1987,National League,Runs,123,player,1
+Jack Clark,https://www.baseball-almanac.com/players/player.php?p=clarkja01,St. Louis,,1987,National League,Slugging Average,.597,player,1
+Vince Coleman,https://www.baseball-almanac.com/players/player.php?p=colemvi01,St. Louis,,1987,National League,Stolen Bases,109,player,1
+Andre Dawson,https://www.baseball-almanac.com/players/player.php?p=dawsoan01,Chicago,,1987,National League,Total Bases,353,player,1
+Juan Samuel,https://www.baseball-almanac.com/players/player.php?p=samueju01,Philadelphia,,1987,National League,Triples,15,player,1
+Rick Reuschel,https://www.baseball-almanac.com/players/player.php?p=reuscri01,San Francisco,,1987,National League,Complete Games,12,pitcher,1
+Fernando Valenzuela,https://www.baseball-almanac.com/players/player.php?p=valenfe01,Los Angeles,,1987,National League,Complete Games,12,pitcher,1
+Nolan Ryan,https://www.baseball-almanac.com/players/player.php?p=ryanno01,Houston,,1987,National League,ERA,2.76,pitcher,1
+Kent Tekulve,https://www.baseball-almanac.com/players/player.php?p=tekulke01,Philadelphia,,1987,National League,Games,90,pitcher,1
+Steve Bedrosian,https://www.baseball-almanac.com/players/player.php?p=bedrost01,Philadelphia,,1987,National League,Saves,40,pitcher,1
+Rick Reuschel,https://www.baseball-almanac.com/players/player.php?p=reuscri01,San Francisco,,1987,National League,Shutouts,4,pitcher,1
+Bob Welch,https://www.baseball-almanac.com/players/player.php?p=welchbo01,Los Angeles,,1987,National League,Shutouts,4,pitcher,1
+Nolan Ryan,https://www.baseball-almanac.com/players/player.php?p=ryanno01,Houston,,1987,National League,Strikeouts,270,pitcher,1
+Dwight Gooden,https://www.baseball-almanac.com/players/player.php?p=goodedw01,New York,,1987,National League,Winning Percentage,.682,pitcher,1
+Rick Sutcliffe,https://www.baseball-almanac.com/players/player.php?p=sutclri01,Chicago,,1987,National League,Wins,18,pitcher,1

@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jim Thome,https://www.baseball-almanac.com/players/player.php?p=thomeji01,Cleveland,,2002,American League,Base on Balls,122,player,1
+Manny Ramirez,https://www.baseball-almanac.com/players/player.php?p=ramirma02,Boston,,2002,American League,Batting Average,.349,player,1
+Garret Anderson,https://www.baseball-almanac.com/players/player.php?p=anderga01,Anaheim,,2002,American League,Doubles,56,player,1
+Nomar Garciaparra,https://www.baseball-almanac.com/players/player.php?p=garcino01,Boston,,2002,American League,Doubles,56,player,1
+Alfonso Soriano,https://www.baseball-almanac.com/players/player.php?p=soriaal01,New York,,2002,American League,Hits,209,player,1
+Alex Rodriguez,https://www.baseball-almanac.com/players/player.php?p=rodrial01,Texas,,2002,American League,Home Runs,57,player,1
+Manny Ramirez,https://www.baseball-almanac.com/players/player.php?p=ramirma02,Boston,,2002,American League,On Base Percentage,.450,player,1
+Alex Rodriguez,https://www.baseball-almanac.com/players/player.php?p=rodrial01,Texas,,2002,American League,RBI,142,player,1
+Alfonso Soriano,https://www.baseball-almanac.com/players/player.php?p=soriaal01,New York,,2002,American League,Runs,128,player,1
+Jim Thome,https://www.baseball-almanac.com/players/player.php?p=thomeji01,Cleveland,,2002,American League,Slugging Average,.677,player,1
+Alfonso Soriano,https://www.baseball-almanac.com/players/player.php?p=soriaal01,New York,,2002,American League,Stolen Bases,41,player,1
+Alex Rodriguez,https://www.baseball-almanac.com/players/player.php?p=rodrial01,Texas,,2002,American League,Total Bases,389,player,1
+Johnny Damon,https://www.baseball-almanac.com/players/player.php?p=damonjo01,Boston,,2002,American League,Triples,11,player,1
+Paul Byrd,https://www.baseball-almanac.com/players/player.php?p=byrdpa01,Kansas City,,2002,American League,Complete Games,7,pitcher,1
+Pedro Martinez,https://www.baseball-almanac.com/players/player.php?p=martipe02,Boston,,2002,American League,ERA,2.26,pitcher,1
+Billy Koch,https://www.baseball-almanac.com/players/player.php?p=kochbi01,Oakland,,2002,American League,Games,84,pitcher,1
+Eddie Guardado,https://www.baseball-almanac.com/players/player.php?p=guarded01,Minnesota,,2002,American League,Saves,45,pitcher,1
+Jeff Weaver,https://www.baseball-almanac.com/players/player.php?p=weaveje01,New York,,2002,American League,Shutouts,3,pitcher,1
+Pedro Martinez,https://www.baseball-almanac.com/players/player.php?p=martipe02,Boston,,2002,American League,Strikeouts,239,pitcher,1
+Pedro Martinez,https://www.baseball-almanac.com/players/player.php?p=martipe02,Boston,,2002,American League,Winning Percentage,.833,pitcher,1
+Barry Zito,https://www.baseball-almanac.com/players/player.php?p=zitoba01,Oakland,,2002,American League,Wins,23,pitcher,1

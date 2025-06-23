@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1962,American League,Base on Balls,122,player,1
+Pete Runnels,https://www.baseball-almanac.com/players/player.php?p=runnepe01,Boston,,1962,American League,Batting Average,.326,player,1
+Floyd Robinson,https://www.baseball-almanac.com/players/player.php?p=robinfl01,Chicago,,1962,American League,Doubles,45,player,1
+Bobby Richardson,https://www.baseball-almanac.com/players/player.php?p=richabo01,New York,,1962,American League,Hits,209,player,1
+Harmon Killebrew,https://www.baseball-almanac.com/players/player.php?p=killeha01,Minnesota,,1962,American League,Home Runs,48,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1962,American League,On Base Percentage,.488,player,1
+Harmon Killebrew,https://www.baseball-almanac.com/players/player.php?p=killeha01,MInnesota,,1962,American League,RBI,126,player,1
+Albie Pearson,https://www.baseball-almanac.com/players/player.php?p=pearsal02,Los Angeles,,1962,American League,Runs,115,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1962,American League,Slugging Average,.605,player,1
+Luis Aparicio,https://www.baseball-almanac.com/players/player.php?p=aparilu01,Chicago,,1962,American League,Stolen Bases,31,player,1
+Rocky Colavito,https://www.baseball-almanac.com/players/player.php?p=colavro01,Detroit,,1962,American League,Total Bases,309,player,1
+Gino Cimoli,https://www.baseball-almanac.com/players/player.php?p=cimolgi01,Kansas City,,1962,American League,Triples,15,player,1
+Camilo Pascual,https://www.baseball-almanac.com/players/player.php?p=pascuca02,Minnesota,,1962,American League,Complete Games,18,pitcher,1
+Hank Aguirre,https://www.baseball-almanac.com/players/player.php?p=aguirha01,Detroit,,1962,American League,ERA,2.21,pitcher,1
+Dick Radatz,https://www.baseball-almanac.com/players/player.php?p=radatdi01,Boston,,1962,American League,Games,62,pitcher,1
+Dick Radatz,https://www.baseball-almanac.com/players/player.php?p=radatdi01,Boston,,1962,American League,Saves,24,pitcher,1
+Dick Donovan,https://www.baseball-almanac.com/players/player.php?p=donovdi01,Cleveland,,1962,American League,Shutouts,5,pitcher,1
+Jim Kaat,https://www.baseball-almanac.com/players/player.php?p=kaatji01,Minnesota,,1962,American League,Shutouts,5,pitcher,1
+Camilo Pascual,https://www.baseball-almanac.com/players/player.php?p=pascuca02,Minnesota,,1962,American League,Shutouts,5,pitcher,1
+Camilo Pascual,https://www.baseball-almanac.com/players/player.php?p=pascuca02,Minnesota,,1962,American League,Strikeouts,206,pitcher,1
+Ray Herbert,https://www.baseball-almanac.com/players/player.php?p=herbera01,Chicago,,1962,American League,Winning Percentage,.690,pitcher,1
+Ralph Terry,https://www.baseball-almanac.com/players/player.php?p=terryra01,New York,,1962,American League,Wins,23,pitcher,1

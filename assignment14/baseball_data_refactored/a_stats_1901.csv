@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Dummy Hoy,https://www.baseball-almanac.com/players/player.php?p=hoydu01,Chicago,,1901,American League,Base on Balls,86,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,Batting Average,.426,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,Doubles,48,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,Hits,232,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,Home Runs,14,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,On Base Percentage,.463,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,RBI,125,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,Runs,145,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,Slugging Average,.643,player,1
+Frank Isbell,https://www.baseball-almanac.com/players/player.php?p=isbelfr01,Chicago,,1901,American League,Stolen Bases,52,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1901,American League,Total Bases,350,player,1
+Bill Keister,https://www.baseball-almanac.com/players/player.php?p=keistbi01,Baltimore,,1901,American League,Triples,21,player,1
+Jimmy Williams,https://www.baseball-almanac.com/players/player.php?p=williji01,Baltimore,,1901,American League,Triples,21,player,1
+Joe McGinnity,https://www.baseball-almanac.com/players/player.php?p=mcginjo01,Baltimore,,1901,American League,Complete Games,39,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1901,American League,ERA,1.62,pitcher,1
+Joe McGinnity,https://www.baseball-almanac.com/players/player.php?p=mcginjo01,Baltimore,,1901,American League,Games,48,pitcher,1
+Bill Hoffer,https://www.baseball-almanac.com/players/player.php?p=hoffebi01,Cleveland,,1901,American League,Saves,3,pitcher,1
+Clark Griffith,https://www.baseball-almanac.com/players/player.php?p=griffcl01,Chicago,,1901,American League,Shutouts,5,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1901,American League,Shutouts,5,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1901,American League,Strikeouts,158,pitcher,1
+Clark Griffith,https://www.baseball-almanac.com/players/player.php?p=griffcl01,Chicago,,1901,American League,Winning Percentage,.774,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1901,American League,Wins,33,pitcher,1

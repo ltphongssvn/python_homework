@@ -1,0 +1,22 @@
+
+============================================================
+BASEBALL ALMANAC WEB SCRAPING SUMMARY
+============================================================
+Output Directory: scraped_data
+Total Requests Made: 10
+Failed Requests: 0
+Success Rate: 100.0%
+
+Data Extracted:
+  - Player Statistics: 120
+  - Pitcher Statistics: 80
+  - Team Standings: 45
+  - Total Records: 245
+
+Output Files:
+  - player_statistics.csv (pivoted format)
+  - pitcher_statistics.csv (pivoted format)
+  - team_standings.csv
+  - raw_stats_YYYY.csv (per year)
+  - standings_YYYY.csv (per year)
+============================================================

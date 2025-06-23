@@ -1,0 +1,26 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jose Bautista,https://www.baseball-almanac.com/players/player.php?p=bautijo02,Toronto,,2015,American League,Base on Balls,110,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2015,American League,Batting Average,.338,player,1
+Michael Brantley,https://www.baseball-almanac.com/players/player.php?p=brantmi02,Cleveland,,2015,American League,Doubles,45,player,1
+Jose Altuve,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Houston,,2015,American League,Hits,200,player,1
+Chris Davis,https://www.baseball-almanac.com/players/player.php?p=davisch02,Baltimore,,2015,American League,Home Runs,47,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2015,American League,On Base Percentage,.440,player,1
+Josh Donaldson,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Toronto,,2015,American League,RBI,123,player,1
+Josh Donaldson,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Toronto,,2015,American League,Runs,122,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2015,American League,Slugging Average,.590,player,1
+Jose Altuve,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Houston,,2015,American League,Stolen Bases,38,player,1
+Josh Donaldson,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Toronto,,2015,American League,Total Bases,352,player,1
+Eddie Rosario,https://www.baseball-almanac.com/players/player.php?p=rosared01,Minnesota,,2015,American League,Triples,15,player,1
+Mark Buehrle,https://www.baseball-almanac.com/players/player.php?p=buehrma01,Toronto,,2015,American League,Complete Games,4,pitcher,1
+Corey Kluber,https://www.baseball-almanac.com/players/player.php?p=klubeco01,Cleveland,,2015,American League,Complete Games,4,pitcher,1
+David Price,https://www.baseball-almanac.com/players/player.php?p=priceda01,Detroit / Toronto,,2015,American League,ERA,2.45,pitcher,1
+Kevin Jepsen,https://www.baseball-almanac.com/players/player.php?p=jepseke01,Tampa Bay / Minnesota,,2015,American League,Games,75,pitcher,1
+Brad Boxberger,https://www.baseball-almanac.com/players/player.php?p=boxbebr01,Tampa Bay,,2015,American League,Saves,41,pitcher,1
+Sonny Gray,https://www.baseball-almanac.com/players/player.php?p=grayso01,Oakland,,2015,American League,Shutouts,2,pitcher,1
+Felix Hernandez,https://www.baseball-almanac.com/players/player.php?p=hernafe02,Seattle,,2015,American League,Shutouts,2,pitcher,1
+Dallas Keuchel,https://www.baseball-almanac.com/players/player.php?p=keuchda01,Houston,,2015,American League,Shutouts,2,pitcher,1
+Mike Montgomery,https://www.baseball-almanac.com/players/player.php?p=montgmi01,Seattle,,2015,American League,Shutouts,2,pitcher,1
+Jeff Samardzija,https://www.baseball-almanac.com/players/player.php?p=samarje01,Chicago,,2015,American League,Shutouts,2,pitcher,1
+Chris Sale,https://www.baseball-almanac.com/players/player.php?p=salech01,Chicago,,2015,American League,Strikeouts,274,pitcher,1
+David Price,https://www.baseball-almanac.com/players/player.php?p=priceda01,Detroit / Toronto,,2015,American League,Winning Percentage,.783,pitcher,1
+Dallas Keuchel,https://www.baseball-almanac.com/players/player.php?p=keuchda01,Houston,,2015,American League,Wins,20,pitcher,1

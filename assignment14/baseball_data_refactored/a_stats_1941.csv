@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1941,American League,Base on Balls,147,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1941,American League,Batting Average,.406,player,1
+Lou Boudreau,https://www.baseball-almanac.com/players/player.php?p=boudrlo01,Cleveland,,1941,American League,Doubles,45,player,1
+Cecil Travis,https://www.baseball-almanac.com/players/player.php?p=travice01,Washington,,1941,American League,Hits,218,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1941,American League,Home Runs,37,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1941,American League,On Base Percentage,.551,player,1
+Joe DiMaggio,https://www.baseball-almanac.com/players/player.php?p=dimagjo01,New York,,1941,American League,RBI,125,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1941,American League,Runs,135,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1941,American League,Slugging Average,.735,player,1
+George Case,https://www.baseball-almanac.com/players/player.php?p=casege01,Washington,,1941,American League,Stolen Bases,33,player,1
+Joe DiMaggio,https://www.baseball-almanac.com/players/player.php?p=dimagjo01,New York,,1941,American League,Total Bases,348,player,1
+Jeff Heath,https://www.baseball-almanac.com/players/player.php?p=heathje01,Cleveland,,1941,American League,Triples,20,player,1
+Thornton Lee,https://www.baseball-almanac.com/players/player.php?p=leeth01,Chicago,,1941,American League,Complete Games,30,pitcher,1
+Thornton Lee,https://www.baseball-almanac.com/players/player.php?p=leeth01,Chicago,,1941,American League,ERA,2.37,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1941,American League,Games,44,pitcher,1
+Johnny Murphy,https://www.baseball-almanac.com/players/player.php?p=murphjo04,New York,,1941,American League,Saves,15,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1941,American League,Shutouts,6,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1941,American League,Strikeouts,260,pitcher,1
+Lefty Gomez,https://www.baseball-almanac.com/players/player.php?p=gomezle01,New York,,1941,American League,Winning Percentage,.750,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1941,American League,Wins,25,pitcher,1

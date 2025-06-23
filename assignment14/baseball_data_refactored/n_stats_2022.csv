@@ -1,0 +1,30 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,Washington Nationals,,2022,National League,Base on Balls,135,player,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,San Diego Padres,,2022,National League,Base on Balls,135,player,1
+Jeff McNeil,https://www.baseball-almanac.com/players/player.php?p=mcneije01,New York Mets,,2022,National League,Batting Average,.326,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Los Angeles Dodgers,,2022,National League,Doubles,44,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Los Angeles Dodgers,,2022,National League,Hits,11,player,1
+Kyle Schwarber,https://www.baseball-almanac.com/players/player.php?p=schwaky01,Philadelphia Phillies,,2022,National League,Home Runs,46,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Los Angeles Dodgers,,2022,National League,On Base Percentage,.407,player,1
+Pete Alonso,https://www.baseball-almanac.com/players/player.php?p=alonspe01,New York Mets,,2022,National League,RBI,131,player,1
+Mookie Betts,https://www.baseball-almanac.com/players/player.php?p=bettsmo01,Los Angeles Dodgers,,2022,National League,Runs,117,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Los Angeles Dodgers,,2022,National League,Runs,117,player,1
+Paul Goldschmidt,https://www.baseball-almanac.com/players/player.php?p=goldspa01,St. Louis Cardinals,,2022,National League,Slugging Average,.578,player,1
+Jon Berti,https://www.baseball-almanac.com/players/player.php?p=bertijo01,Miami Marlins,,2022,National League,Stolen Bases,41,player,1
+Austin Riley,https://www.baseball-almanac.com/players/player.php?p=rileyau01,Atlanta Braves,,2022,National League,Total Bases,325,player,1
+Gavin Lux,https://www.baseball-almanac.com/players/player.php?p=luxga01,Los Angeles Dodgers,,2022,National League,Triples,7,player,1
+Brandon Nimmo,https://www.baseball-almanac.com/players/player.php?p=nimmobr01,New York Mets,,2022,National League,Triples,7,player,1
+Sandy Alcantara,https://www.baseball-almanac.com/players/player.php?p=alcansa01,Miami Marlins,,2022,National League,Complete Games,6,pitcher,1
+Julio Urías,https://www.baseball-almanac.com/players/player.php?p=uriasju01,Los Angeles Dodgers,,2022,National League,ERA,2.16,pitcher,1
+John Brebbia,https://www.baseball-almanac.com/players/player.php?p=brebbjo01,San Francisco Giants,,2022,National League,Games,76,pitcher,1
+Kenley Jansen,https://www.baseball-almanac.com/players/player.php?p=janseke01,Atlanta Braves,,2022,National League,Saves,41,pitcher,1
+Sandy Alcantara,https://www.baseball-almanac.com/players/player.php?p=alcansa01,Miami Marlins,,2022,National League,Shutouts,1,pitcher,1
+Walker Buehler,https://www.baseball-almanac.com/players/player.php?p=buehlwa01,Los Angeles Dodgers,,2022,National League,Shutouts,1,pitcher,1
+Bryce Elder,https://www.baseball-almanac.com/players/player.php?p=elderbr01,Atlanta Braves,,2022,National League,Shutouts,1,pitcher,1
+Hunter Greene,https://www.baseball-almanac.com/players/player.php?p=greenhu01,Cincinnati Reds,,2022,National League,Shutouts,1,pitcher,1
+Chad Kuhl,https://www.baseball-almanac.com/players/player.php?p=kuhlch01,Colorado Rockies,,2022,National League,Shutouts,1,pitcher,1
+Jordan Montgomery,https://www.baseball-almanac.com/players/player.php?p=montgjo01,St. Louis Cardinals,,2022,National League,Shutouts,1,pitcher,1
+Aaron Nola,https://www.baseball-almanac.com/players/player.php?p=nolaaa01,Philadelphia Phillies,,2022,National League,Shutouts,1,pitcher,1
+Corbin Burnes,https://www.baseball-almanac.com/players/player.php?p=burneco01,Milwaukee Brewers,,2022,National League,Strikeouts,243,pitcher,1
+Kyle Wright,https://www.baseball-almanac.com/yearly/top25.php?s=WP&l=NL&y=2022,Atlanta Braves,,2022,National League,Winning Percentage,.808,pitcher,1
+Kyle Wright,https://www.baseball-almanac.com/yearly/top25.php?s=WP&l=NL&y=2022,Atlanta Braves,,2022,National League,Wins,21,pitcher,1

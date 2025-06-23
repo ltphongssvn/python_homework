@@ -1,0 +1,41 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYA,2022,American League,Base on Balls,111,player,1
+Luis Arraez,https://www.baseball-almanac.com/players/player.php?p=arraelu01,Minnesota Twins,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=MIN,2022,American League,Batting Average,.316,player,1
+José Ramírez,https://www.baseball-almanac.com/players/player.php?p=ramirjo01,Cleveland Guardians,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=CLG,2022,American League,Doubles,44,player,1
+Bo Bichette,https://www.baseball-almanac.com/players/player.php?p=bichebo01,Toronto Blue Jays,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=TOR,2022,American League,Hits,189,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYA,2022,American League,Home Runs,62,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYA,2022,American League,On Base Percentage,.425,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYA,2022,American League,RBI,131,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYA,2022,American League,Runs,133,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYA,2022,American League,Slugging Average,.686,player,1
+Jorge Mateo,https://www.baseball-almanac.com/players/player.php?p=mateojo01,Baltimore Orioles,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=BAL,2022,American League,Stolen Bases,35,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYA,2022,American League,Total Bases,391,player,1
+Amed Rosario,https://www.baseball-almanac.com/players/player.php?p=rosarar01,Cleveland Guardians,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=CLG,2022,American League,Triples,9,player,1
+Framber Valdez,https://www.baseball-almanac.com/players/player.php?p=valdefr01,Houston Astros,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=HOA,2022,American League,Complete Games,3,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Houston Astros,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=HOA,2022,American League,ERA,1.75,pitcher,1
+Adam Cimber,https://www.baseball-almanac.com/players/player.php?p=cimbead01,Toronto Blue Jays,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=TOR,2022,American League,Games,77,pitcher,1
+Emmanuel Clase,https://www.baseball-almanac.com/players/player.php?p=claseem01,Cleveland Guardians,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=CLG,2022,American League,Saves,42,pitcher,1
+Dylan Cease,https://www.baseball-almanac.com/players/player.php?p=ceasedy01,Chicago White Sox,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=CHA,2022,American League,Shutouts,1,pitcher,1
+Corbin Burnes,https://www.baseball-almanac.com/players/player.php?p=burneco01,Milwaukee Brewers,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=ML4,2022,American League,Strikeouts,243,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Houston Astros,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=HOA,2022,American League,Winning Percentage,.818,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Houston Astros,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=HOA,2022,American League,Wins,18,pitcher,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,Washington Nationals,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=WS0,2022,National League,Base on Balls,135,player,1
+Jeff McNeil,https://www.baseball-almanac.com/players/player.php?p=mcneije01,New York Mets,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYN,2022,National League,Batting Average,.326,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Los Angeles Dodgers,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=LAN,2022,National League,Doubles,44,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Los Angeles Dodgers,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=LAN,2022,National League,Hits,11,player,1
+Kyle Schwarber,https://www.baseball-almanac.com/players/player.php?p=schwaky01,Philadelphia Phillies,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=PHI,2022,National League,Home Runs,46,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Los Angeles Dodgers,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=LAN,2022,National League,On Base Percentage,.407,player,1
+Pete Alonso,https://www.baseball-almanac.com/players/player.php?p=alonspe01,New York Mets,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=NYN,2022,National League,RBI,131,player,1
+Mookie Betts,https://www.baseball-almanac.com/players/player.php?p=bettsmo01,Los Angeles Dodgers,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=LAN,2022,National League,Runs,117,player,1
+Paul Goldschmidt,https://www.baseball-almanac.com/players/player.php?p=goldspa01,St. Louis Cardinals,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=SLN,2022,National League,Slugging Average,.578,player,1
+Jon Berti,https://www.baseball-almanac.com/players/player.php?p=bertijo01,Miami Marlins,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=MIA,2022,National League,Stolen Bases,41,player,1
+Austin Riley,https://www.baseball-almanac.com/players/player.php?p=rileyau01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=ATL,2022,National League,Total Bases,325,player,1
+Gavin Lux,https://www.baseball-almanac.com/players/player.php?p=luxga01,Los Angeles Dodgers,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=LAN,2022,National League,Triples,7,player,1
+Sandy Alcantara,https://www.baseball-almanac.com/players/player.php?p=alcansa01,Miami Marlins,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=MIA,2022,National League,Complete Games,6,pitcher,1
+Julio Urías,https://www.baseball-almanac.com/players/player.php?p=uriasju01,Los Angeles Dodgers,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=LAN,2022,National League,ERA,2.16,pitcher,1
+John Brebbia,https://www.baseball-almanac.com/players/player.php?p=brebbjo01,San Francisco Giants,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=SFN,2022,National League,Games,76,pitcher,1
+Kenley Jansen,https://www.baseball-almanac.com/players/player.php?p=janseke01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=ATL,2022,National League,Saves,41,pitcher,1
+Sandy Alcantara,https://www.baseball-almanac.com/players/player.php?p=alcansa01,Miami Marlins,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=MIA,2022,National League,Shutouts,1,pitcher,1
+Corbin Burnes,https://www.baseball-almanac.com/players/player.php?p=burneco01,Milwaukee Brewers,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=ML4,2022,National League,Strikeouts,243,pitcher,1
+Kyle Wright,https://www.baseball-almanac.com/yearly/top25.php?s=WP&l=NL&y=2022,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=ATL,2022,National League,Winning Percentage,.808,pitcher,1
+Kyle Wright,https://www.baseball-almanac.com/yearly/top25.php?s=WP&l=NL&y=2022,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2022&t=ATL,2022,National League,Wins,21,pitcher,1

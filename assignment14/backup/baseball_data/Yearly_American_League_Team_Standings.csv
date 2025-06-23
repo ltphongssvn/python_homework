@@ -1,0 +1,348 @@
+year,league,division,team,w,l,wp,gb
+2000,American,Central,Minnesota Twins,69,93,,"$16,519,500"
+2000,American,Central,Kansas City Royals,77,85,,"$23,433,000"
+2000,American,Central,Chicago White Sox,95,67,,"$31,133,500"
+2000,American,Central,Detroit Tigers,79,83,,"$58,265,167"
+2000,American,Central,Cleveland Indians,90,72,,"$75,880,971"
+2000,American,East,Toronto Blue Jays,83,79,,"$46,238,333"
+2000,American,East,Tampa Bay Devil Rays,69,92,,"$62,765,129"
+2000,American,East,Boston Red Sox,85,77,,"$77,940,333"
+2000,American,East,Baltimore Orioles,74,88,,"$81,447,435"
+2000,American,East,New York Yankees,87,74,,"$92,538,260"
+2000,American,West,Oakland Athletics,91,70,,"$31,971,333"
+2000,American,West,Anaheim Angels,82,80,,"$51,464,167"
+2000,American,West,Seattle Mariners,91,71,,"$58,915,000"
+2000,American,West,Texas Rangers,71,91,,"$70,795,921"
+2001,American,Central,Minnesota Twins,85,77,,"$24,350,000"
+2001,American,Central,Kansas City Royals,65,97,,"$35,643,000"
+2001,American,Central,Detroit Tigers,66,96,,"$49,831,167"
+2001,American,Central,Chicago White Sox,83,79,,"$62,363,000"
+2001,American,Central,Cleveland Indians,91,71,,"$91,974,979"
+2001,American,East,Tampa Bay Devil Rays,62,100,,"$54,798,500"
+2001,American,East,Baltimore Orioles,63,98,,"$72,426,328"
+2001,American,East,Toronto Blue Jays,80,82,,"$75,798,500"
+2001,American,East,Boston Red Sox,82,79,,"$109,558,908"
+2001,American,East,New York Yankees,95,65,,"$109,791,893"
+2001,American,West,Oakland Athletics,102,60,,"$33,810,750"
+2001,American,West,Anaheim Angels,75,87,,"$46,568,180"
+2001,American,West,Texas Rangers,73,89,,"$88,504,421"
+2002,American,Central,Minnesota Twins,94,67,,"$40,225,000"
+2002,American,Central,Kansas City Royals,62,100,,"$47,257,000"
+2002,American,Central,Detroit Tigers,55,106,,"$55,048,000"
+2002,American,Central,Chicago White Sox,81,81,,"$57,052,833"
+2002,American,Central,Cleveland Indians,74,88,,"$78,909,448"
+2002,American,East,Tampa Bay Devil Rays,55,106,,"$34,380,000"
+2002,American,East,Baltimore Orioles,67,95,,"$60,493,487"
+2002,American,East,Toronto Blue Jays,78,84,,"$76,864,333"
+2002,American,East,Boston Red Sox,93,69,,"$108,366,060"
+2002,American,East,New York Yankees,103,58,,"$125,928,583"
+2002,American,West,Oakland Athletics,103,59,,"$39,679,746"
+2002,American,West,Anaheim Angels,99,63,,"$61,721,667"
+2002,American,West,Seattle Mariners,93,69,,"$80,282,668"
+2002,American,West,Texas Rangers,72,90,,"$105,302,124"
+2003,American,Central,Minnesota Twins,90,72,.556,--
+2003,American,Central,Chicago White Sox,86,76,.531,4
+2003,American,Central,Kansas City Royals,83,79,.512,7
+2003,American,Central,Cleveland Indians,68,94,.420,22
+2003,American,Central,Detroit Tigers,43,119,.265,47
+2003,American,East,New York Yankees,101,61,.623,--
+2003,American,East,Boston Red Sox,95,67,.586,6
+2003,American,East,Toronto Blue Jays,86,76,.531,15
+2003,American,East,Baltimore Orioles,71,91,.438,30
+2003,American,East,Tampa Bay Devil Rays,63,99,.389,38
+2003,American,West,Oakland Athletics,96,66,.593,--
+2003,American,West,Seattle Mariners,93,69,.574,3
+2003,American,West,Anaheim Angels,77,85,.475,19
+2003,American,West,Texas Rangers,71,91,.438,25
+2004,American,Central,Minnesota Twins,92,70,.568,--
+2004,American,Central,Chicago White Sox,83,79,.512,9
+2004,American,Central,Cleveland Indians,80,82,.494,12
+2004,American,Central,Detroit Tigers,72,90,.444,20
+2004,American,Central,Kansas City Royals,58,104,.358,34
+2004,American,East,New York Yankees,101,61,.623,--
+2004,American,East,Boston Red Sox,98,64,.605,3
+2004,American,East,Baltimore Orioles,78,84,.481,23
+2004,American,East,Tampa Bay Devil Rays,70,91,.435,30½
+2004,American,East,Toronto Blue Jays,67,94,.416,33½
+2004,American,West,Anaheim Angels,92,70,.568,--
+2004,American,West,Oakland Athletics,91,71,.562,1
+2004,American,West,Texas Rangers,89,73,.549,3
+2004,American,West,Seattle Mariners,63,99,.389,29
+2005,American,Central,Chicago White Sox,99,63,.611,--
+2005,American,Central,Cleveland Indians,93,69,.574,6
+2005,American,Central,Minnesota Twins,83,79,.512,16
+2005,American,Central,Detroit Tigers,71,91,.438,28
+2005,American,Central,Kansas City Royals,56,106,.346,43
+2005,American,East,New York Yankees,95,67,.586,--
+2005,American,East,Boston Red Sox,95,67,.586,--
+2005,American,East,Toronto Blue Jays,80,82,.494,15
+2005,American,East,Baltimore Orioles,74,88,.457,21
+2005,American,East,Tampa Bay Devil Rays,67,95,.414,28
+2005,American,West,Los Angeles Angels of Anaheim,95,67,.586,--
+2005,American,West,Oakland Athletics,88,74,.543,7
+2005,American,West,Texas Rangers,79,83,.488,16
+2005,American,West,Seattle Mariners,69,93,.426,26
+2006,American,Central,Minnesota Twins,96,66,.593,--
+2006,American,Central,Detroit Tigers,95,67,.586,1
+2006,American,Central,Chicago White Sox,90,72,.556,6
+2006,American,Central,Cleveland Indians,78,84,.481,18
+2006,American,Central,Kansas City Royals,62,100,.383,34
+2006,American,East,New York Yankees,97,65,.599,--
+2006,American,East,Toronto Blue Jays,87,75,.537,10
+2006,American,East,Boston Red Sox,86,76,.531,11
+2006,American,East,Baltimore Orioles,70,92,.432,27
+2006,American,East,Tampa Bay Devil Rays,61,101,.377,36
+2006,American,West,Oakland Athletics,93,69,.574,--
+2006,American,West,Los Angeles Angels,89,73,.549,4
+2006,American,West,Texas Rangers,80,82,.494,13
+2006,American,West,Seattle Mariners,78,84,.481,15
+2007,American,Central,Cleveland Indians,96,66,.593,--
+2007,American,Central,Detroit Tigers,88,74,.543,8
+2007,American,Central,Minnesota Twins,79,83,.488,17
+2007,American,Central,Chicago White Sox,72,90,.444,24
+2007,American,Central,Kansas City Royals,69,93,.426,27
+2007,American,East,Boston Red Sox,96,66,.593,--
+2007,American,East,New York Yankees,94,68,.580,2
+2007,American,East,Toronto Blue Jays,83,79,.512,13
+2007,American,East,Baltimore Orioles,69,93,.426,27
+2007,American,East,Tampa Bay Devil Rays,66,96,.407,30
+2007,American,West,Los Angeles Angels,94,68,.580,--
+2007,American,West,Seattle Mariners,88,74,.543,6
+2007,American,West,Oakland Athletics,76,86,.469,18
+2007,American,West,Texas Rangers,75,87,.463,19
+2008,American,Central,Chicago White Sox,89,74,.546,--
+2008,American,Central,Minnesota Twins,88,75,.540,1
+2008,American,Central,Cleveland Indians,81,81,.500,7½
+2008,American,Central,Kansas City Royals,75,87,.463,13½
+2008,American,Central,Detroit Tigers,74,88,.457,14½
+2008,American,East,Tampa Bay Rays,97,65,.599,--
+2008,American,East,Boston Red Sox,95,67,.586,2
+2008,American,East,New York Yankees,89,73,.549,8
+2008,American,East,Toronto Blue Jays,86,76,.531,11
+2008,American,East,Baltimore Orioles,68,93,.422,28½
+2008,American,West,Los Angeles Angels,100,62,.617,--
+2008,American,West,Texas Rangers,79,83,.488,21
+2008,American,West,Oakland Athletics,75,86,.466,24½
+2008,American,West,Seattle Mariners,61,101,.377,39
+2009,American,Central,Minnesota Twins,87,76,.534,--
+2009,American,Central,Detroit Tigers,86,77,.528,1
+2009,American,Central,Chicago White Sox,79,83,.488,7½
+2009,American,Central,Cleveland Indians,65,97,.401,21½
+2009,American,Central,Kansas City Royals,65,97,.401,21½
+2009,American,East,New York Yankees,103,59,.636,--
+2009,American,East,Boston Red Sox,95,67,.586,8
+2009,American,East,Tampa Bay Rays,84,78,.519,19
+2009,American,East,Toronto Blue Jays,75,87,.463,28
+2009,American,East,Baltimore Orioles,64,98,.395,39
+2009,American,West,Los Angeles Angels,97,65,.599,--
+2009,American,West,Texas Rangers,87,75,.537,10
+2009,American,West,Seattle Mariners,85,77,.525,12
+2009,American,West,Oakland Athletics,75,87,.463,22
+2010,American,Central,Minnesota Twins,94,68,.580,--
+2010,American,Central,Chicago White Sox,88,74,.543,6
+2010,American,Central,Detroit Tigers,81,81,.500,13
+2010,American,Central,Cleveland Indians,69,93,.426,25
+2010,American,Central,Kansas City Royals,67,95,.414,27
+2010,American,East,Tampa Bay Rays,96,66,.593,--
+2010,American,East,New York Yankees,95,67,.586,1
+2010,American,East,Boston Red Sox,89,73,.549,7
+2010,American,East,Toronto Blue Jays,85,77,.525,11
+2010,American,East,Baltimore Orioles,66,96,.407,30
+2010,American,West,Texas Rangers,90,72,.556,--
+2010,American,West,Oakland Athletics,81,81,.500,9
+2010,American,West,Los Angeles Angels,80,82,.494,10
+2010,American,West,Seattle Mariners,61,101,.377,29
+2011,American,Central,Detroit Tigers,95,67,.586,--
+2011,American,Central,Cleveland Indians,80,82,.494,15
+2011,American,Central,Chicago White Sox,79,83,.488,16
+2011,American,Central,Kansas City Royals,71,91,.438,24
+2011,American,Central,Minnesota Twins,63,99,.389,32
+2011,American,East,New York Yankees,97,65,.599,--
+2011,American,East,Tampa Bay Rays,91,71,.562,6
+2011,American,East,Boston Red Sox,90,72,.556,7
+2011,American,East,Toronto Blue Jays,81,81,.500,16
+2011,American,East,Baltimore Orioles,69,93,.426,28
+2011,American,West,Texas Rangers,96,66,.593,--
+2011,American,West,Los Angeles Angels,86,76,.531,10
+2011,American,West,Oakland Athletics,74,88,.457,22
+2011,American,West,Seattle Mariners,67,95,.414,29
+2012,American,Central,Detroit Tigers,88,74,.543,--
+2012,American,Central,Chicago White Sox,85,77,.525,3
+2012,American,Central,Kansas City Royals,72,90,.444,16
+2012,American,Central,Cleveland Indians,68,94,.420,20
+2012,American,Central,Minnesota Twins,66,96,.407,22
+2012,American,East,New York Yankees,95,67,.586,--
+2012,American,East,Baltimore Orioles,93,69,.574,2
+2012,American,East,Tampa Bay Rays,90,72,.556,5
+2012,American,East,Toronto Blue Jays,73,89,.451,22
+2012,American,East,Boston Red Sox,69,93,.426,26
+2012,American,West,Oakland Athletics,94,68,.580,--
+2012,American,West,Texas Rangers,93,69,.574,1
+2012,American,West,Los Angeles Angels,89,73,.549,5
+2012,American,West,Seattle Mariners,75,87,.463,19
+2013,American,Central,Detroit Tigers,93,69,.574,--
+2013,American,Central,Cleveland Indians,92,70,.568,1
+2013,American,Central,Kansas City Royals,86,76,.531,7
+2013,American,Central,Minnesota Twins,66,96,.407,27
+2013,American,Central,Chicago White Sox,63,99,.389,30
+2013,American,East,Boston Red Sox,97,65,.599,--
+2013,American,East,Tampa Bay Rays,92,71,.564,5½
+2013,American,East,Baltimore Orioles,85,77,.525,12
+2013,American,East,New York Yankees,85,77,.525,12
+2013,American,East,Toronto Blue Jays,74,88,.457,23
+2013,American,West,Oakland Athletics,96,66,.593,--
+2013,American,West,Texas Rangers,91,72,.558,5½
+2013,American,West,Los Angeles Angels,78,84,.481,18
+2013,American,West,Seattle Mariners,71,91,.438,25
+2013,American,West,Houston Astros,51,111,.315,45
+2014,American,Central,Detroit Tigers,90,72,.556,--
+2014,American,Central,Kansas City Royals,89,73,.549,1
+2014,American,Central,Cleveland Indians,85,77,.525,5
+2014,American,Central,Chicago White Sox,73,89,.451,17
+2014,American,Central,Minnesota Twins,70,92,.432,20
+2014,American,East,Baltimore Orioles,96,66,.593,--
+2014,American,East,New York Yankees,84,78,.518,12
+2014,American,East,Toronto Blue Jays,83,79,.512,13
+2014,American,East,Tampa Bay Rays,77,85,.475,19
+2014,American,East,Boston Red Sox,71,91,.438,25
+2014,American,West,Los Angeles Angels,98,64,.605,--
+2014,American,West,Oakland Athletics,88,74,.543,10
+2014,American,West,Seattle Mariners,87,75,.537,11
+2014,American,West,Houston Astros,70,92,.432,28
+2014,American,West,Texas Rangers,67,95,.414,31
+2015,American,Central,Kansas City Royals,95,67,.586,--
+2015,American,Central,Minnesota Twins,83,79,.512,12
+2015,American,Central,Cleveland Indians,81,80,.503,13½
+2015,American,Central,Chicago White Sox,76,86,.469,19
+2015,American,Central,Detroit Tigers,74,87,.460,20½
+2015,American,East,Toronto Blue Jays,93,69,.574,--
+2015,American,East,New York Yankees,87,75,.537,6
+2015,American,East,Baltimore Orioles,81,81,.500,12
+2015,American,East,Tampa Bay Rays,80,82,.494,13
+2015,American,East,Boston Red Sox,78,84,.481,15
+2015,American,West,Texas Rangers,88,74,.543,--
+2015,American,West,Houston Astros,86,76,.531,2
+2015,American,West,Los Angeles Angels,85,77,.525,3
+2015,American,West,Seattle Mariners,76,86,.469,12
+2015,American,West,Oakland Athletics,68,94,.420,20
+2016,American,Central,Cleveland Indians,94,67,.584,--
+2016,American,Central,Detroit Tigers,86,75,.534,8
+2016,American,Central,Kansas City Royals,81,81,.500,13.5
+2016,American,Central,Chicago White Sox,78,84,.481,16.5
+2016,American,Central,Minnesota Twins,59,103,.364,35.5
+2016,American,East,Boston Red Sox,93,69,.574,--
+2016,American,East,Baltimore Orioles,89,73,.549,4
+2016,American,East,Toronto Blue Jays,89,73,.549,4
+2016,American,East,New York Yankees,84,78,.519,9
+2016,American,East,Tampa Bay Rays,68,94,.420,25
+2016,American,West,Texas Rangers,95,67,.586,--
+2016,American,West,Seattle Mariners,86,76,.531,9
+2016,American,West,Houston Astros,84,78,.519,11
+2016,American,West,Los Angeles Angels,74,88,.457,21
+2016,American,West,Oakland Athletics,69,93,.426,26
+2017,American,Central,Cleveland Indians,102,60,.630,--
+2017,American,Central,Minnesota Twins,85,77,.525,17.0
+2017,American,Central,Kansas City Royals,80,82,.494,22.0
+2017,American,Central,Chicago White Sox,67,95,.414,35.0
+2017,American,Central,Detroit Tigers,64,98,.395,38.0
+2017,American,East,Boston Red Sox,93,69,.574,--
+2017,American,East,New York Yankees,91,71,.562,2.0
+2017,American,East,Tampa Bay Rays,80,82,.494,13.0
+2017,American,East,Toronto Blue Jays,76,86,.469,17.0
+2017,American,East,Baltimore Orioles,75,87,.463,18.0
+2017,American,West,Houston Astros,101,61,.623,--
+2017,American,West,Los Angeles Angels,80,82,.494,21.0
+2017,American,West,Seattle Mariners,78,84,.481,23.0
+2017,American,West,Texas Rangers,78,84,.481,23.0
+2017,American,West,Oakland Athletics,75,87,.463,26.0
+2018,American,Central,Cleveland Indians,91,71,.562,--
+2018,American,Central,Minnesota Twins,78,84,.481,13.0
+2018,American,Central,Detroit Tigers,64,98,.395,27.0
+2018,American,Central,Chicago White Sox,62,100,.383,29.0
+2018,American,Central,Kansas City Royals,58,104,.358,33.0
+2018,American,East,Boston Red Sox,108,54,.667,--
+2018,American,East,New York Yankees,100,62,.617,8.0
+2018,American,East,Tampa Bay Rays,90,72,.556,18.0
+2018,American,East,Toronto Blue Jays,73,89,.451,35.0
+2018,American,East,Baltimore Orioles,47,115,.290,61.0
+2018,American,West,Houston Astros,103,59,.636,--
+2018,American,West,Oakland Athletics,97,65,.599,6.0
+2018,American,West,Seattle Mariners,89,73,.549,14.0
+2018,American,West,Los Angeles Angels,80,82,.494,23.0
+2018,American,West,Texas Rangers,67,95,.414,36.0
+2019,American,Central,Minnesota Twins,101,61,.623,--
+2019,American,Central,Cleveland Indians,93,69,.574,8.0
+2019,American,Central,Chicago White Sox,72,89,.447,28.5
+2019,American,Central,Kansas City Royals,59,103,.364,42.0
+2019,American,Central,Detroit Tigers,47,114,.292,53.5
+2019,American,East,New York Yankees,103,59,.636,--
+2019,American,East,Tampa Bay Rays,96,66,.593,7.0
+2019,American,East,Boston Red Sox,84,78,.519,19.0
+2019,American,East,Toronto Blue Jays,67,95,.414,36.0
+2019,American,East,Baltimore Orioles,54,108,.333,49.0
+2019,American,West,Houston Astros,107,55,.660,--
+2019,American,West,Oakland Athletics,97,65,.599,10.0
+2019,American,West,Texas Rangers,78,84,.481,29.0
+2019,American,West,Los Angeles Angels,72,90,.444,35.0
+2019,American,West,Seattle Mariners,68,94,.420,39.0
+2020,American,East,Tampa Bay Rays,40,20,.667,--
+2021,American,Central,Chicago White Sox,93,69,.586,--
+2021,American,Central,Cleveland Indians,80,82,.494,13.0
+2021,American,Central,Detroit Tigers,77,85,.475,16.0
+2021,American,Central,Kansas City Royals,74,88,.457,19.0
+2021,American,Central,Minnesota Twins,73,89,.451,20.0
+2021,American,East,Tampa Bay Rays,100,62,.617,--
+2021,American,East,Boston Red Sox,92,70,.568,8.0
+2021,American,East,New York Yankees,92,70,.568,8.0
+2021,American,East,Toronto Blue Jays,91,71,.562,9.0
+2021,American,East,Baltimore Orioles,52,110,.321,48.0
+2021,American,West,Houston Astros,95,67,.586,--
+2021,American,West,Seattle Mariners,90,72,.556,5.0
+2021,American,West,Oakland Athletics,86,76,.531,9.0
+2021,American,West,Los Angeles Angels,77,85,.754,18.0
+2021,American,West,Texas Rangers,60,102,.370,35.0
+2022,American,Central,Cleveland Guardians,92,70,.568,-
+2022,American,Central,Chicago White Sox,81,81,.500,11.0
+2022,American,Central,Minnesota Twins,78,84,.481,14.0
+2022,American,Central,Detroit Tigers,66,96,.407,26.0
+2022,American,Central,Kansas City Royals,65,97,.401,27.0
+2022,American,East,New York Yankees,99,63,.611,-
+2022,American,East,Toronto Blue Jays,92,70,.568,7.0
+2022,American,East,Tampa Bay Rays,86,76,.531,13.0
+2022,American,East,Baltimore Orioles,83,79,.512,16.0
+2022,American,East,Boston Red Sox,78,84,.481,21.0
+2022,American,West,Houston Astros,106,56,.654,-
+2022,American,West,Seattle Mariners,90,72,.556,16.0
+2022,American,West,Los Angeles Angels,73,89,.451,33.0
+2022,American,West,Texas Rangers,68,94,.420,38.0
+2022,American,West,Oakland Athletics,60,102,.370,46.0
+2023,American,Central,Minnesota Twins,87,75,.537,-
+2023,American,Central,Detroit Tigers,78,84,.481,9.0
+2023,American,Central,Cleveland Guardians,76,86,.469,11.0
+2023,American,Central,Chicago White Sox,61,101,.377,26.0
+2023,American,Central,Kansas City Royals,56,106,.346,31.0
+2023,American,East,Baltimore Orioles,101,61,.623,-
+2023,American,East,Tampa Bay Rays,99,63,.611,2.0
+2023,American,East,Toronto Blue Jays,89,73,.549,12.0
+2023,American,East,New York Yankees,82,80,.506,19.0
+2023,American,East,Boston Red Sox,78,84,.481,23.0
+2023,American,West,Houston Astros,90,72,.556,-
+2023,American,West,Texas Rangers,90,72,.556,-
+2023,American,West,Seattle Mariners,88,74,.543,2.0
+2023,American,West,Los Angeles Angels,73,89,.451,17.0
+2023,American,West,Oakland Athletics,50,112,.309,40.0
+2024,American,Central,Cleveland Guardians,92,69,.571,-
+2024,American,Central,Kansas City Royals,86,76,.531,6.5
+2024,American,Central,Detroit Tigers,86,76,.531,6.5
+2024,American,Central,Minnesota Twins,82,80,.506,10.5
+2024,American,Central,Chicago White Sox,41,121,.253,51.5
+2024,American,East,New York Yankees,94,68,.580,-
+2024,American,East,Baltimore Orioles,91,71,.562,3.0
+2024,American,East,Boston Red Sox,81,81,.500,13.0
+2024,American,East,Tampa Bay Rays,80,82,.494,14.0
+2024,American,East,Toronto Blue Jays,74,88,.457,20.0
+2024,American,West,Houston Astros,88,73,.547,-
+2024,American,West,Seattle Mariners,85,77,.525,3.5
+2024,American,West,Texas Rangers,78,84,.481,10.5
+2024,American,West,Oakland Athletics,69,93,.426,19.5
+2024,American,West,Los Angeles Angels,63,99,.389,25.5

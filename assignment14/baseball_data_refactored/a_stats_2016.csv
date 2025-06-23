@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2016,American League,Base on Balls,116,player,1
+Jose Altuve,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Houston,,2016,American League,Batting Average,.338,player,1
+David Ortiz,https://www.baseball-almanac.com/players/player.php?p=ortizda01,Boston,,2016,American League,Doubles,48,player,1
+Jose Altuve,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Houston,,2016,American League,Hits,216,player,1
+Mark Trumbo,https://www.baseball-almanac.com/players/player.php?p=trumbma01,Baltimore,,2016,American League,Home Runs,47,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2016,American League,On Base Percentage,.441,player,1
+Edwin Encarnacion,https://www.baseball-almanac.com/players/player.php?p=encared01,Toronto,,2016,American League,RBI,127,player,1
+David Ortiz,https://www.baseball-almanac.com/players/player.php?p=ortizda01,Boston,,2016,American League,RBI,127,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2016,American League,Runs,123,player,1
+David Ortiz,https://www.baseball-almanac.com/players/player.php?p=ortizda01,Boston,,2016,American League,Slugging Average,.620,player,1
+Rajai Davis,https://www.baseball-almanac.com/players/player.php?p=davisra01,Cleveland,,2016,American League,Stolen Bases,43,player,1
+Mookie Betts,https://www.baseball-almanac.com/players/player.php?p=bettsmo01,Boston,,2016,American League,Total Bases,359,player,1
+Adam Eaton,https://www.baseball-almanac.com/players/player.php?p=eatonad02,Chicago,,2016,American League,Triples,9,player,1
+Chris Sale,https://www.baseball-almanac.com/players/player.php?p=salech01,Chicago,,2016,American League,Complete Games,6,pitcher,1
+Aaron Sanchez,https://www.baseball-almanac.com/players/player.php?p=sanchaa01,Toronto,,2016,American League,ERA,3.00,pitcher,1
+Bryan Shaw,https://www.baseball-almanac.com/players/player.php?p=shawbr01,Cleveland,,2016,American League,Games,75,pitcher,1
+Zach Britton,https://www.baseball-almanac.com/players/player.php?p=brittza01,Baltimore,,2016,American League,Saves,47,pitcher,1
+Corey Kluber,https://www.baseball-almanac.com/players/player.php?p=klubeco01,Cleveland,,2016,American League,Shutouts,2,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=klubeco01,Detroit,,2016,American League,Strikeouts,254,pitcher,1
+Aaron Sanchez,https://www.baseball-almanac.com/players/player.php?p=sanchaa01,Toronto,,2016,American League,Winning Percentage,.882,pitcher,1
+Rick Porcello,https://www.baseball-almanac.com/players/player.php?p=porceri01,Boston,,2016,American League,Wins,22,pitcher,1

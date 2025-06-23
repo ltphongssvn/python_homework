@@ -1,0 +1,27 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+John McGraw,https://www.baseball-almanac.com/players/player.php?p=mcgrajo01,Baltimore,,1898,National League,Base on Balls,112,player,1
+Willie Keeler,https://www.baseball-almanac.com/players/player.php?p=keelewi01,Baltimore,,1898,National League,Batting Average,.385,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1898,National League,Doubles,43,player,1
+Willie Keeler,https://www.baseball-almanac.com/players/player.php?p=keelewi01,Baltimore,,1898,National League,Hits,216,player,1
+Jimmy Collins,https://www.baseball-almanac.com/players/player.php?p=colliji01,Boston,,1898,National League,Home Runs,15,player,1
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Boston,,1898,National League,On Base Percentage,.480,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Philadelphia,,1898,National League,RBI,127,player,1
+John McGraw,https://www.baseball-almanac.com/players/player.php?p=mcgrajo01,Baltimore,,1898,National League,Runs,143,player,1
+John Anderson,https://www.baseball-almanac.com/players/player.php?p=anderjo01,Brooklyn,,1898,National League,Slugging Average,.494,player,1
+John Anderson,https://www.baseball-almanac.com/players/player.php?p=anderjo01,Washington,,1898,National League,Slugging Average,.494,player,1
+John Anderson,https://www.baseball-almanac.com/players/player.php?p=anderjo01,Brooklyn,,1898,National League,Slugging Average,.494,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1898,National League,Stolen Bases,58,player,1
+Jimmy Collins,https://www.baseball-almanac.com/players/player.php?p=colliji01,Boston,,1898,National League,Total Bases,286,player,1
+John Anderson,https://www.baseball-almanac.com/players/player.php?p=anderjo01,Brooklyn,,1898,National League,Triples,22,player,1
+John Anderson,https://www.baseball-almanac.com/players/player.php?p=anderjo01,Washington,,1898,National League,Triples,22,player,1
+John Anderson,https://www.baseball-almanac.com/players/player.php?p=anderjo01,Brooklyn,,1898,National League,Triples,22,player,1
+Jack Taylor,https://www.baseball-almanac.com/players/player.php?p=tayloja01,St. Louis,,1898,National League,Complete Games,42,pitcher,1
+Clark Griffith,https://www.baseball-almanac.com/players/player.php?p=griffcl01,Chicago,,1898,National League,ERA,1.88,pitcher,1
+Kid Nichols,https://www.baseball-almanac.com/players/player.php?p=nichoki01,Boston,,1898,National League,Games,50,pitcher,1
+Jack Taylor,https://www.baseball-almanac.com/players/player.php?p=tayloja01,St. Louis,,1898,National League,Games,50,pitcher,1
+Kid Nichols,https://www.baseball-almanac.com/players/player.php?p=nichoki01,Boston,,1898,National League,Saves,4,pitcher,1
+Wiley Piatt,https://www.baseball-almanac.com/players/player.php?p=piattwi01,Philadelphia,,1898,National League,Shutouts,6,pitcher,1
+Jack Powell,https://www.baseball-almanac.com/players/player.php?p=powelja01,Cleveland,,1898,National League,Shutouts,6,pitcher,1
+Cy Seymour,https://www.baseball-almanac.com/players/player.php?p=seymocy01,New York,,1898,National League,Strikeouts,239,pitcher,1
+Ted Lewis,https://www.baseball-almanac.com/players/player.php?p=lewiste01,Boston,,1898,National League,Winning Percentage,.765,pitcher,1
+Kid Nichols,https://www.baseball-almanac.com/players/player.php?p=nichoki01,Boston,,1898,National League,Wins,31,pitcher,1

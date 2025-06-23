@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jason Giambi,https://www.baseball-almanac.com/players/player.php?p=giambja01,Oakland,,2000,American League,Base on Balls,137,player,1
+Nomar Garciaparra,https://www.baseball-almanac.com/players/player.php?p=garcino01,Boston,,2000,American League,Batting Average,.372,player,1
+Carlos Delgado,https://www.baseball-almanac.com/players/player.php?p=delgaca01,Toronto,,2000,American League,Doubles,57,player,1
+Darin Erstad,https://www.baseball-almanac.com/players/player.php?p=erstada01,Anaheim,,2000,American League,Hits,240,player,1
+Troy Glaus,https://www.baseball-almanac.com/players/player.php?p=glaustr01,Anaheim,,2000,American League,Home Runs,47,player,1
+Jason Giambi,https://www.baseball-almanac.com/players/player.php?p=giambja01,Oakland,,2000,American League,On Base Percentage,.476,player,1
+Edgar Martinez,https://www.baseball-almanac.com/players/player.php?p=martied01,Seattle,,2000,American League,RBI,145,player,1
+Johnny Damon,https://www.baseball-almanac.com/players/player.php?p=damonjo01,Kansas City,,2000,American League,Runs,136,player,1
+Manny Ramirez,https://www.baseball-almanac.com/players/player.php?p=ramirma02,Cleveland,,2000,American League,Slugging Average,.697,player,1
+Johnny Damon,https://www.baseball-almanac.com/players/player.php?p=damonjo01,Kansas City,,2000,American League,Stolen Bases,46,player,1
+Carlos Delgado,https://www.baseball-almanac.com/players/player.php?p=delgaca01,Toronto,,2000,American League,Total Bases,378,player,1
+Cristian Guzman,https://www.baseball-almanac.com/players/player.php?p=guzmacr01,Minnesota,,2000,American League,Triples,20,player,1
+David Wells,https://www.baseball-almanac.com/players/player.php?p=wellsda01,Toronto,,2000,American League,Complete Games,9,pitcher,1
+Pedro Martinez,https://www.baseball-almanac.com/players/player.php?p=martipe02,Boston,,2000,American League,ERA,1.74,pitcher,1
+Kelly Wunsch,https://www.baseball-almanac.com/players/player.php?p=wunscke01,Chicago,,2000,American League,Games,83,pitcher,1
+Todd Jones,https://www.baseball-almanac.com/players/player.php?p=jonesto02,Detroit,,2000,American League,Saves,42,pitcher,1
+Derek Lowe,https://www.baseball-almanac.com/players/player.php?p=lowede01,Boston,,2000,American League,Saves,42,pitcher,1
+Pedro Martinez,https://www.baseball-almanac.com/players/player.php?p=martipe02,Boston,,2000,American League,Shutouts,4,pitcher,1
+Pedro Martinez,https://www.baseball-almanac.com/players/player.php?p=martipe02,Boston,,2000,American League,Strikeouts,284,pitcher,1
+Tim Hudson,https://www.baseball-almanac.com/players/player.php?p=hudsoti01,Oakland,,2000,American League,Winning Percentage,.769,pitcher,1
+Tim Hudson,https://www.baseball-almanac.com/players/player.php?p=hudsoti01,Oakland,,2000,American League,Wins,20,pitcher,1
+David Wells,https://www.baseball-almanac.com/players/player.php?p=wellsda01,Toronto,,2000,American League,Wins,20,pitcher,1

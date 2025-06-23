@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jimmy Sheckard,https://www.baseball-almanac.com/players/player.php?p=sheckji01,Chicago,,1911,National League,Base on Balls,147,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1911,National League,Batting Average,.334,player,1
+Ed Konetchy,https://www.baseball-almanac.com/players/player.php?p=koneted01,St. Louis,,1911,National League,Doubles,38,player,1
+Doc Miller,https://www.baseball-almanac.com/players/player.php?p=milledo03,Boston,,1911,National League,Hits,192,player,1
+Frank Schulte,https://www.baseball-almanac.com/players/player.php?p=schulfr01,Chicago,,1911,National League,Home Runs,21,player,1
+Jimmy Sheckard,https://www.baseball-almanac.com/players/player.php?p=sheckji01,Chicago,,1911,National League,On Base Percentage,.434,player,1
+Frank Schulte,https://www.baseball-almanac.com/players/player.php?p=schulfr01,Chicago,,1911,National League,RBI,107,player,1
+Chief Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsoch01,Pittsburgh,,1911,National League,RBI,107,player,1
+Jimmy Sheckard,https://www.baseball-almanac.com/players/player.php?p=sheckji01,Chicago,,1911,National League,Runs,121,player,1
+Frank Schulte,https://www.baseball-almanac.com/players/player.php?p=schulfr01,Chicago,,1911,National League,Slugging Average,.534,player,1
+Bob Bescher,https://www.baseball-almanac.com/players/player.php?p=beschbo01,Cincinnati,,1911,National League,Stolen Bases,81,player,1
+Frank Schulte,https://www.baseball-almanac.com/players/player.php?p=schulfr01,Chicago,,1911,National League,Total Bases,308,player,1
+Larry Doyle,https://www.baseball-almanac.com/players/player.php?p=doylela01,New York,,1911,National League,Triples,25,player,1
+Grover Alexander,https://www.baseball-almanac.com/players/player.php?p=alexape01,Philadelphia,,1911,National League,Complete Games,31,pitcher,1
+Christy Mathewson,https://www.baseball-almanac.com/players/player.php?p=mathech01,New York,,1911,National League,ERA,1.99,pitcher,1
+Mordecai Brown,https://www.baseball-almanac.com/players/player.php?p=brownmo01,Chicago,,1911,National League,Games,53,pitcher,1
+Mordecai Brown,https://www.baseball-almanac.com/players/player.php?p=brownmo01,Chicago,,1911,National League,Saves,13,pitcher,1
+Grover Alexander,https://www.baseball-almanac.com/players/player.php?p=alexape01,Philadelphia,,1911,National League,Shutouts,7,pitcher,1
+Rube Marquard,https://www.baseball-almanac.com/players/player.php?p=marquru01,New York,,1911,National League,Strikeouts,237,pitcher,1
+Rube Marquard,https://www.baseball-almanac.com/players/player.php?p=marquru01,New York,,1911,National League,Winning Percentage,.774,pitcher,1
+Grover Alexander,https://www.baseball-almanac.com/players/player.php?p=alexape01,Philadelphia,,1911,National League,Wins,28,pitcher,1

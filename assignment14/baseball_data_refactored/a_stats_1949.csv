@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1949,American League,Base on Balls,162,player,1
+George Kell,https://www.baseball-almanac.com/players/player.php?p=kellge01,Detroit,,1949,American League,Batting Average,.343,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1949,American League,Doubles,39,player,1
+Dale Mitchell,https://www.baseball-almanac.com/players/player.php?p=mitchda01,Cleveland,,1949,American League,Hits,203,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1949,American League,Home Runs,43,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1949,American League,On Base Percentage,.490,player,1
+Vern Stephens,https://www.baseball-almanac.com/players/player.php?p=stephve01,Boston,,1949,American League,RBI,159,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1949,American League,RBI,159,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1949,American League,Runs,150,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1949,American League,Slugging Average,.650,player,1
+Bob Dillinger,https://www.baseball-almanac.com/players/player.php?p=dillibo01,St. Louis,,1949,American League,Stolen Bases,20,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1949,American League,Total Bases,368,player,1
+Dale Mitchell,https://www.baseball-almanac.com/players/player.php?p=mitchda01,Cleveland,,1949,American League,Triples,23,player,1
+Mel Parnell,https://www.baseball-almanac.com/players/player.php?p=parneme01,Boston,,1949,American League,Complete Games,27,pitcher,1
+Mike Garcia,https://www.baseball-almanac.com/players/player.php?p=garcimi01,Cleveland,,1949,American League,ERA,2.36,pitcher,1
+Joe Page,https://www.baseball-almanac.com/players/player.php?p=pagejo01,New York,,1949,American League,Games,60,pitcher,1
+Joe Page,https://www.baseball-almanac.com/players/player.php?p=pagejo01,New York,,1949,American League,Saves,27,pitcher,1
+Ellis Kinder,https://www.baseball-almanac.com/players/player.php?p=kindeel01,Boston,,1949,American League,Shutouts,6,pitcher,1
+Virgil Trucks,https://www.baseball-almanac.com/players/player.php?p=truckvi01,Detroit,,1949,American League,Shutouts,6,pitcher,1
+Virgil Trucks,https://www.baseball-almanac.com/players/player.php?p=truckvi01,Detroit,,1949,American League,Strikeouts,153,pitcher,1
+Ellis Kinder,https://www.baseball-almanac.com/players/player.php?p=kindeel01,Boston,,1949,American League,Winning Percentage,.793,pitcher,1
+Mel Parnell,https://www.baseball-almanac.com/players/player.php?p=parneme01,Boston,,1949,American League,Wins,25,pitcher,1

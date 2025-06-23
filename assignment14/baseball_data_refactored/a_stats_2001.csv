@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jason Giambi,https://www.baseball-almanac.com/players/player.php?p=giambja01,Oakland,,2001,American League,Base on Balls,129,player,1
+Ichiro Suzuki,https://www.baseball-almanac.com/players/player.php?p=suzukic01,Seattle,,2001,American League,Batting Average,.350,player,1
+Jason Giambi,https://www.baseball-almanac.com/players/player.php?p=giambja01,Oakland,,2001,American League,Doubles,47,player,1
+Ichiro Suzuki,https://www.baseball-almanac.com/players/player.php?p=suzukic01,Seattle,,2001,American League,Hits,242,player,1
+Alex Rodriguez,https://www.baseball-almanac.com/players/player.php?p=rodrial01,Texas,,2001,American League,Home Runs,52,player,1
+Jason Giambi,https://www.baseball-almanac.com/players/player.php?p=giambja01,Oakland,,2001,American League,On Base Percentage,.477,player,1
+Bret Boone,https://www.baseball-almanac.com/players/player.php?p=boonebr01,Seattle,,2001,American League,RBI,141,player,1
+Alex Rodriguez,https://www.baseball-almanac.com/players/player.php?p=rodrial01,Texas,,2001,American League,Runs,133,player,1
+Jason Giambi,https://www.baseball-almanac.com/players/player.php?p=giambja01,Oakland,,2001,American League,Slugging Average,.660,player,1
+Ichiro Suzuki,https://www.baseball-almanac.com/players/player.php?p=suzukic01,Seattle,,2001,American League,Stolen Bases,56,player,1
+Alex Rodriguez,https://www.baseball-almanac.com/players/player.php?p=rodrial01,Texas,,2001,American League,Total Bases,393,player,1
+Cristian Guzman,https://www.baseball-almanac.com/players/player.php?p=guzmacr01,Minnesota,,2001,American League,Triples,14,player,1
+Steve Sparks,https://www.baseball-almanac.com/players/player.php?p=sparkst01,Detroit,,2001,American League,Complete Games,8,pitcher,1
+Freddy Garcia,https://www.baseball-almanac.com/players/player.php?p=garcifr02,Seattle,,2001,American League,ERA,3.05,pitcher,1
+Paul Quantrill,https://www.baseball-almanac.com/players/player.php?p=quantpa01,Toronto,,2001,American League,Games,80,pitcher,1
+Mariano Rivera,https://www.baseball-almanac.com/players/player.php?p=riverma01,New York,,2001,American League,Saves,50,pitcher,1
+Mark Mulder,https://www.baseball-almanac.com/players/player.php?p=muldema01,Oakland,,2001,American League,Shutouts,4,pitcher,1
+Hideo Nomo,https://www.baseball-almanac.com/players/player.php?p=nomohi01,Boston,,2001,American League,Strikeouts,220,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,New York,,2001,American League,Winning Percentage,.870,pitcher,1
+Mark Mulder,https://www.baseball-almanac.com/players/player.php?p=muldema01,Oakland,,2001,American League,Wins,21,pitcher,1

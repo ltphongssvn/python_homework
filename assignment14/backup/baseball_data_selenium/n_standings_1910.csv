@@ -1,0 +1,9 @@
+year,league,division,team,wins,losses,winning_percentage,games_back,ties,payroll
+1910,National League,League,Chicago Cubs,104,50,0.675,.675,0,
+1910,National League,League,New York Giants,91,63,0.591,.591,0,
+1910,National League,League,Pittsburgh Pirates,86,67,0.562,.562,0,
+1910,National League,League,Philadelphia Phillies,78,75,0.51,.510,0,
+1910,National League,League,Cincinnati Reds,75,79,0.487,.487,0,
+1910,National League,League,Brooklyn Superbas,64,90,0.416,.416,0,
+1910,National League,League,St. Louis Cardinals,63,90,0.412,.412,0,
+1910,National League,League,Boston Doves,53,100,0.346,.346,0,

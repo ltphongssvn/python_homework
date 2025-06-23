@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jack Clark,https://www.baseball-almanac.com/players/player.php?p=clarkja01,San Diego,,1990,National League,Base on Balls,104,player,1
+Willie McGee,https://www.baseball-almanac.com/players/player.php?p=mcgeewi01,St. Louis,,1990,National League,Batting Average,.335,player,1
+Gregg Jefferies,https://www.baseball-almanac.com/players/player.php?p=jeffegr01,New York,,1990,National League,Doubles,40,player,1
+Brett Butler,https://www.baseball-almanac.com/players/player.php?p=butlebr01,San Francisco,,1990,National League,Hits,192,player,1
+Lenny Dykstra,https://www.baseball-almanac.com/players/player.php?p=dykstle01,Philadelphia,,1990,National League,Hits,192,player,1
+Ryne Sandberg,https://www.baseball-almanac.com/players/player.php?p=sandbry01,Chicago,,1990,National League,Home Runs,40,player,1
+Dave Magadan,https://www.baseball-almanac.com/players/player.php?p=magadda01,New York,,1990,National League,On Base Percentage,.425,player,1
+Matt Williams,https://www.baseball-almanac.com/players/player.php?p=willima04,San Francisco,,1990,National League,RBI,122,player,1
+Ryne Sandberg,https://www.baseball-almanac.com/players/player.php?p=sandbry01,Chicago,,1990,National League,Runs,116,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,Pittsburgh,,1990,National League,Slugging Average,.565,player,1
+Vince Coleman,https://www.baseball-almanac.com/players/player.php?p=colemvi01,St. Louis,,1990,National League,Stolen Bases,77,player,1
+Ryne Sandberg,https://www.baseball-almanac.com/players/player.php?p=sandbry01,Chicago,,1990,National League,Total Bases,344,player,1
+Mariano Duncan,https://www.baseball-almanac.com/players/player.php?p=duncama01,Cincinnati,,1990,National League,Triples,11,player,1
+Ramon Martinez,https://www.baseball-almanac.com/players/player.php?p=martira02,Los Angeles,,1990,National League,Complete Games,12,pitcher,1
+Danny Darwin,https://www.baseball-almanac.com/players/player.php?p=darwida01,Houston,,1990,National League,ERA,2.21,pitcher,1
+Juan Agosto,https://www.baseball-almanac.com/players/player.php?p=agostju01,Houston,,1990,National League,Games,82,pitcher,1
+John Franco,https://www.baseball-almanac.com/players/player.php?p=francjo01,New York,,1990,National League,Saves,33,pitcher,1
+Bruce Hurst,https://www.baseball-almanac.com/players/player.php?p=hurstbr01,San Diego,,1990,National League,Shutouts,4,pitcher,1
+Mike Morgan,https://www.baseball-almanac.com/players/player.php?p=morgami01,Los Angeles,,1990,National League,Shutouts,4,pitcher,1
+David Cone,https://www.baseball-almanac.com/players/player.php?p=coneda01,New York,,1990,National League,Strikeouts,233,pitcher,1
+Doug Drabek,https://www.baseball-almanac.com/players/player.php?p=drabedo01,Pittsburgh,,1990,National League,Winning Percentage,.786,pitcher,1
+Doug Drabek,https://www.baseball-almanac.com/players/player.php?p=drabedo01,Pittsburgh,,1990,National League,Wins,22,pitcher,1

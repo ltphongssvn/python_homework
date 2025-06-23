@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1920,American League,Base on Balls,150,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1920,American League,Batting Average,.407,player,1
+Tris Speaker,https://www.baseball-almanac.com/players/player.php?p=speaktr01,Cleveland,,1920,American League,Doubles,50,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1920,American League,Hits,257,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1920,American League,Home Runs,54,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1920,American League,On Base Percentage,.532,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1920,American League,RBI,137,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1920,American League,Runs,158,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1920,American League,Slugging Average,.847,player,1
+Sam Rice,https://www.baseball-almanac.com/players/player.php?p=ricesa01,Washington,,1920,American League,Stolen Bases,63,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1920,American League,Total Bases,399,player,1
+Joe Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksjo01,Chicago,,1920,American League,Triples,20,player,1
+Jim Bagby,https://www.baseball-almanac.com/players/player.php?p=bagbyji01,Cleveland,,1920,American League,Complete Games,30,pitcher,1
+Bob Shawkey,https://www.baseball-almanac.com/players/player.php?p=shawkbo01,New York,,1920,American League,ERA,2.45,pitcher,1
+Jim Bagby,https://www.baseball-almanac.com/players/player.php?p=bagbyji01,Cleveland,,1920,American League,Games,48,pitcher,1
+Dickie Kerr,https://www.baseball-almanac.com/players/player.php?p=kerrdi01,Chicago,,1920,American League,Saves,5,pitcher,1
+Urban Shocker,https://www.baseball-almanac.com/players/player.php?p=shockur01,St. Louis,,1920,American League,Saves,5,pitcher,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,New York,,1920,American League,Shutouts,6,pitcher,1
+Stan Coveleski,https://www.baseball-almanac.com/players/player.php?p=covelst01,Cleveland,,1920,American League,Strikeouts,133,pitcher,1
+Jim Bagby,https://www.baseball-almanac.com/players/player.php?p=bagbyji01,Cleveland,,1920,American League,Winning Percentage,.721,pitcher,1
+Jim Bagby,https://www.baseball-almanac.com/players/player.php?p=bagbyji01,Cleveland,,1920,American League,Wins,31,pitcher,1

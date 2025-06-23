@@ -1,0 +1,8 @@
+year,league,division,team,wins,losses,winning_percentage,games_back,ties,payroll,pattern_used
+2010,National League,Central,Cincinnati Reds,91,71,562.0,0,0,"$72,386,544",National League 2005-2013
+2010,National League,Central,Houston Astros,76,86,469.0,15,0,"$92,355,500",National League 2005-2013
+2010,National League,Central,Chicago Cubs,75,87,463.0,16,0,"$146,859,000",National League 2005-2013
+2010,National League,Central,Pittsburgh Pirates,57,105,352.0,34,0,"$34,943,000",National League 2005-2013
+2010,National League,West,San Francisco Giants,92,70,568.0,0,0,"$97,828,833",National League 2005-2013
+2010,National League,West,San Diego Padres,90,72,556.0,2,0,"$37,799,300",National League 2005-2013
+2010,National League,West,Arizona Diamondbacks,65,97,401.0,27,0,"$60,718,167",National League 2005-2013

@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Rhys Hoskins,https://www.baseball-almanac.com/players/player.php?p=hoskirh01,Philadelphia Phillies,,2019,National League,Base on Balls,116,player,1
+Christian Yelich,https://www.baseball-almanac.com/players/player.php?p=yelicch01,Milwaukee Brewers,,2019,National League,Batting Average,.329,player,1
+Anthony Rendon,https://www.baseball-almanac.com/players/player.php?p=rendoan01,Washington Nationals,,2019,National League,Doubles,44,player,1
+Corey Seager,https://www.baseball-almanac.com/players/player.php?p=seageco01,Los Angeles Dodgers,,2019,National League,Doubles,44,player,1
+Ozzie Albies,https://www.baseball-almanac.com/players/player.php?p=albieoz01,Atlanta Braves,,2019,National League,Hits,189,player,1
+Pete Alonso,https://www.baseball-almanac.com/players/player.php?p=alonspe01,New York Mets,,2019,National League,Home Runs,53,player,1
+Christian Yelich,https://www.baseball-almanac.com/players/player.php?p=yelicch01,Milwaukee Brewers,,2019,National League,On Base Percentage,.429,player,1
+Anthony Rendon,https://www.baseball-almanac.com/players/player.php?p=rendoan01,Washington Nationals,,2019,National League,RBI,126,player,1
+Ronald Acuna Jr.,https://www.baseball-almanac.com/players/player.php?p=acunaro01,Atlanta Braves,,2019,National League,Runs,127,player,1
+Christian Yelich,https://www.baseball-almanac.com/players/player.php?p=yelicch01,Milwaukee Brewers,,2019,National League,Slugging Average,.671,player,1
+Ronald Acuna Jr.,https://www.baseball-almanac.com/players/player.php?p=acunaro01,Atlanta Braves,,2019,National League,Stolen Bases,37,player,1
+Cody Bellinger,https://www.baseball-almanac.com/players/player.php?p=bellico01,Los Angeles Dodgers,,2019,National League,Total Bases,351,player,1
+Eduardo Escobar,https://www.baseball-almanac.com/players/player.php?p=escobed01,Arizona Diamondbacks,,2019,National League,Triples,10,player,1
+Sandy Alcantara,https://www.baseball-almanac.com/players/player.php?p=alcansa01,Miami Marlins,,2019,National League,Complete Games,2,pitcher,1
+Walker Buehler,https://www.baseball-almanac.com/players/player.php?p=buehlwa01,Los Angeles Dodgers,,2019,National League,Complete Games,2,pitcher,1
+Zach Eflin,https://www.baseball-almanac.com/players/player.php?p=eflinza01,Philadelphia Phillies,,2019,National League,Complete Games,2,pitcher,1
+Hyun-Jin Ryu,https://www.baseball-almanac.com/players/player.php?p=ryuhy01,Los Angeles Dodgers,,2019,National League,ERA,2.32,pitcher,1
+Alex Claudio,https://www.baseball-almanac.com/players/player.php?p=claudal01,Milwaukee Brewers,,2019,National League,Games,83,pitcher,1
+Kirby Yates,https://www.baseball-almanac.com/players/player.php?p=yateski01,San Diego Padres,,2019,National League,Saves,41,pitcher,1
+Sandy Alcantara,https://www.baseball-almanac.com/players/player.php?p=alcansa01,Miami Marlins,,2019,National League,Shutouts,2,pitcher,1
+Jacob deGrom,https://www.baseball-almanac.com/players/player.php?p=degroja01,New York Mets,,2019,National League,Strikeouts,255,pitcher,1
+Walker Buehler,https://www.baseball-almanac.com/players/player.php?p=buehlwa01,Los Angeles Dodgers,,2019,National League,Winning Percentage,.778,pitcher,1
+Stephen Strasburg,https://www.baseball-almanac.com/players/player.php?p=strasst01,Washington Nationals,,2019,National League,Wins,18,pitcher,1

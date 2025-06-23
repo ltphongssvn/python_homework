@@ -1,0 +1,26 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Eddie Stanky,https://www.baseball-almanac.com/players/player.php?p=stanked01,New York,,1950,National League,Base on Balls,144,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1950,National League,Batting Average,.346,player,1
+Red Schoendienst,https://www.baseball-almanac.com/players/player.php?p=schoere01,St. Louis,,1950,National League,Doubles,43,player,1
+Duke Snider,https://www.baseball-almanac.com/players/player.php?p=snidedu01,Brooklyn,,1950,National League,Hits,199,player,1
+Ralph Kiner,https://www.baseball-almanac.com/players/player.php?p=kinerra01,Pittsburgh,,1950,National League,Home Runs,47,player,1
+Eddie Stanky,https://www.baseball-almanac.com/players/player.php?p=stanked01,New York,,1950,National League,On Base Percentage,.460,player,1
+Del Ennis,https://www.baseball-almanac.com/players/player.php?p=ennisde01,Philadelphia,,1950,National League,RBI,126,player,1
+Earl Torgeson,https://www.baseball-almanac.com/players/player.php?p=torgeea01,Boston,,1950,National League,Runs,120,player,1
+Stan Musial,https://www.baseball-almanac.com/players/player.php?p=musiast01,St. Louis,,1950,National League,Slugging Average,.596,player,1
+Sam Jethroe,https://www.baseball-almanac.com/players/player.php?p=jethrsa01,Boston,,1950,National League,Stolen Bases,35,player,1
+Duke Snider,https://www.baseball-almanac.com/players/player.php?p=snidedu01,Brooklyn,,1950,National League,Total Bases,343,player,1
+Richie Ashburn,https://www.baseball-almanac.com/players/player.php?p=ashburi01,Philadelphia,,1950,National League,Triples,14,player,1
+Vern Bickford,https://www.baseball-almanac.com/players/player.php?p=bickfve01,Boston,,1950,National League,Complete Games,27,pitcher,1
+Jim Hearn,https://www.baseball-almanac.com/players/player.php?p=hearnji01,St. Louis,,1950,National League,ERA,2.49,pitcher,1
+Jim Hearn,https://www.baseball-almanac.com/players/player.php?p=hearnji01,New York,,1950,National League,ERA,2.49,pitcher,1
+Jim Konstanty,https://www.baseball-almanac.com/players/player.php?p=konstji01,Philadelphia,,1950,National League,Games,74,pitcher,1
+Jim Konstanty,https://www.baseball-almanac.com/players/player.php?p=konstji01,Philadelphia,,1950,National League,Saves,22,pitcher,1
+Jim Hearn,https://www.baseball-almanac.com/players/player.php?p=hearnji01,St. Louis,,1950,National League,Shutouts,5,pitcher,1
+Jim Hearn,https://www.baseball-almanac.com/players/player.php?p=hearnji01,New York,,1950,National League,Shutouts,5,pitcher,1
+Larry Jansen,https://www.baseball-almanac.com/players/player.php?p=jansela01,New York,,1950,National League,Shutouts,5,pitcher,1
+Sal Maglie,https://www.baseball-almanac.com/players/player.php?p=maglisa01,New York,,1950,National League,Shutouts,5,pitcher,1
+Robin Roberts,https://www.baseball-almanac.com/players/player.php?p=roberro01,Philadelphia,,1950,National League,Shutouts,5,pitcher,1
+Warren Spahn,https://www.baseball-almanac.com/players/player.php?p=spahnwa01,Boston,,1950,National League,Strikeouts,191,pitcher,1
+Sal Maglie,https://www.baseball-almanac.com/players/player.php?p=maglisa01,New York,,1950,National League,Winning Percentage,.818,pitcher,1
+Warren Spahn,https://www.baseball-almanac.com/players/player.php?p=spahnwa01,Boston,,1950,National League,Wins,21,pitcher,1

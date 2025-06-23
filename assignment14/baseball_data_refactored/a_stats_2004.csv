@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Eric Chavez,https://www.baseball-almanac.com/players/player.php?p=chaveer01,Oakland,,2004,American League,Base on Balls,95,player,1
+Ichiro Suzuki,https://www.baseball-almanac.com/players/player.php?p=suzukic01,Seattle,,2004,American League,Batting Average,.372,player,1
+Brian Roberts,https://www.baseball-almanac.com/players/player.php?p=roberbr01,Baltimore,,2004,American League,Doubles,50,player,1
+Ichiro Suzuki,https://www.baseball-almanac.com/players/player.php?p=suzukic01,Seattle,,2004,American League,Hits,262,player,1
+Manny Ramirez,https://www.baseball-almanac.com/players/player.php?p=ramirma02,Boston,,2004,American League,Home Runs,43,player,1
+Melvin Mora,https://www.baseball-almanac.com/players/player.php?p=morame01,Baltimore,,2004,American League,On Base Percentage,.419,player,1
+Miguel Tejada,https://www.baseball-almanac.com/players/player.php?p=tejadmi01,Baltimore,,2004,American League,RBI,150,player,1
+Vladimir Guerrero,https://www.baseball-almanac.com/players/player.php?p=guerrvl01,Anaheim,,2004,American League,Runs,124,player,1
+Manny Ramirez,https://www.baseball-almanac.com/players/player.php?p=ramirma02,Boston,,2004,American League,Slugging Average,.613,player,1
+Carl Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfca02,Tampa Bay,,2004,American League,Stolen Bases,59,player,1
+Vladimir Guerrero,https://www.baseball-almanac.com/players/player.php?p=guerrvl01,Anaheim,,2004,American League,Total Bases,366,player,1
+Carl Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfca02,Tampa Bay,,2004,American League,Triples,19,player,1
+Mark Mulder,https://www.baseball-almanac.com/players/player.php?p=muldema01,Oakland,,2004,American League,Complete Games,5,pitcher,1
+Sidney Ponson,https://www.baseball-almanac.com/players/player.php?p=ponsosi01,Baltimore,,2004,American League,Complete Games,5,pitcher,1
+Jake Westbrook,https://www.baseball-almanac.com/players/player.php?p=westbja01,Cleveland,,2004,American League,Complete Games,5,pitcher,1
+Johan Santana,https://www.baseball-almanac.com/players/player.php?p=santajo02,Minnesota,,2004,American League,ERA,2.61,pitcher,1
+Paul Quantrill,https://www.baseball-almanac.com/players/player.php?p=quantpa01,New York,,2004,American League,Games,86,pitcher,1
+Mariano Rivera,https://www.baseball-almanac.com/players/player.php?p=riverma01,New York,,2004,American League,Saves,53,pitcher,1
+Jeremy Bonderman,https://www.baseball-almanac.com/players/player.php?p=bondeje01,Detroit,,2004,American League,Shutouts,2,pitcher,1
+Tim Hudson,https://www.baseball-almanac.com/players/player.php?p=hudsoti01,Oakland,,2004,American League,Shutouts,2,pitcher,1
+Sidney Ponson,https://www.baseball-almanac.com/players/player.php?p=ponsosi01,Baltimore,,2004,American League,Shutouts,2,pitcher,1
+Johan Santana,https://www.baseball-almanac.com/players/player.php?p=santajo02,Minnesota,,2004,American League,Strikeouts,265,pitcher,1
+Curt Schilling,https://www.baseball-almanac.com/players/player.php?p=schilcu01,Boston,,2004,American League,Winning Percentage,.778,pitcher,1
+Curt Schilling,https://www.baseball-almanac.com/players/player.php?p=schilcu01,Boston,,2004,American League,Wins,21,pitcher,1

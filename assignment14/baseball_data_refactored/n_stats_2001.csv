@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2001,National League,Base on Balls,177,player,1
+Larry Walker,https://www.baseball-almanac.com/players/player.php?p=walkela01,Colorado,,2001,National League,Batting Average,.350,player,1
+Lance Berkman,https://www.baseball-almanac.com/players/player.php?p=berkmla01,Houston,,2001,National League,Doubles,55,player,1
+Rich Aurilia,https://www.baseball-almanac.com/players/player.php?p=aurilri01,San Francisco,,2001,National League,Hits,206,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2001,National League,Home Runs,73,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2001,National League,On Base Percentage,.515,player,1
+Sammy Sosa,https://www.baseball-almanac.com/players/player.php?p=sosasa01,Chicago,,2001,National League,RBI,160,player,1
+Sammy Sosa,https://www.baseball-almanac.com/players/player.php?p=sosasa01,Chicago,,2001,National League,Runs,146,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2001,National League,Slugging Average,.863,player,1
+Juan Pierre,https://www.baseball-almanac.com/players/player.php?p=pierrju01,Colorado,,2001,National League,Stolen Bases,46,player,1
+Jimmy Rollins,https://www.baseball-almanac.com/players/player.php?p=rolliji01,Philadelphia,,2001,National League,Stolen Bases,46,player,1
+Sammy Sosa,https://www.baseball-almanac.com/players/player.php?p=sosasa01,Chicago,,2001,National League,Total Bases,425,player,1
+Jimmy Rollins,https://www.baseball-almanac.com/players/player.php?p=rolliji01,Philadelphia,,2001,National League,Triples,12,player,1
+Curt Schilling,https://www.baseball-almanac.com/players/player.php?p=schilcu01,Arizona,,2001,National League,Complete Games,6,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2001,National League,ERA,2.49,pitcher,1
+Steve Kline,https://www.baseball-almanac.com/players/player.php?p=klinest02,St. Louis,,2001,National League,Games,89,pitcher,1
+Robb Nen,https://www.baseball-almanac.com/players/player.php?p=nenro01,San Francisco,,2001,National League,Saves,45,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,2001,National League,Shutouts,3,pitcher,1
+Javier Vazquez,https://www.baseball-almanac.com/players/player.php?p=vazquja01,Montreal,,2001,National League,Shutouts,3,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2001,National League,Strikeouts,372,pitcher,1
+Roy Oswalt,https://www.baseball-almanac.com/players/player.php?p=oswalro01,Houston,,2001,National League,Winning Percentage,.824,pitcher,1
+Curt Schilling,https://www.baseball-almanac.com/players/player.php?p=schilcu01,Arizona,,2001,National League,Wins,22,pitcher,1
+Matt Morris,https://www.baseball-almanac.com/players/player.php?p=morrima01,St. Louis,,2001,National League,Wins,22,pitcher,1

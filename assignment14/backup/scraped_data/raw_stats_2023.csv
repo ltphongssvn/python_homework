@@ -1,0 +1,41 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+J.P. Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfjp01,Seattle Mariners,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=SEA,2023,American League,Base on Balls,94,player,1
+Yandy Díaz,https://www.baseball-almanac.com/players/player.php?p=diazya01,Tampa Bay Rays,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=TBR,2023,American League,Batting Average,.330,player,1
+Corey Seager,https://www.baseball-almanac.com/players/player.php?p=seageco01,Texas Rangers,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=TEX,2023,American League,Doubles,42,player,1
+Marcus Semien,https://www.baseball-almanac.com/players/player.php?p=semiema01,Texas Rangers,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=TEX,2023,American League,Hits,185,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles Angels,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ANG,2023,American League,Home Runs,44,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles Angels,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ANG,2023,American League,On Base Percentage,.412,player,1
+Kyle Tucker,https://www.baseball-almanac.com/players/player.php?p=tuckeky01,Houston Astros,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=HOA,2023,American League,RBI,112,player,1
+Marcus Semien,https://www.baseball-almanac.com/players/player.php?p=semiema01,Texas Rangers,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=TEX,2023,American League,Runs,122,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles Angels,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ANG,2023,American League,Slugging Average,.654,player,1
+Esteury Ruiz,https://www.baseball-almanac.com/players/player.php?p=ruizes01,Oakland Athletics,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=OAK,2023,American League,Stolen Bases,67,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles Angels,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ANG,2023,American League,Total Bases,325,player,1
+Bobby Witt Jr.,https://www.baseball-almanac.com/players/player.php?p=wittbo02,Kansas City Royals,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=KCA,2023,American League,Triples,11,player,1
+Jordan Lyles,https://www.baseball-almanac.com/players/player.php?p=lylesjo01,Kansas City Royals,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=KCA,2023,American League,Complete Games,3,pitcher,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=NYA,2023,American League,ERA,2.63,pitcher,1
+Matt Brash,https://www.baseball-almanac.com/players/player.php?p=brashma01,Seattle Mariners,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=SEA,2023,American League,Games,78,pitcher,1
+Emmanuel Clase,https://www.baseball-almanac.com/players/player.php?p=claseem01,Cleveland Guardians,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=CLG,2023,American League,Saves,44,pitcher,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=NYA,2023,American League,Shutouts,2,pitcher,1
+Kevin Gausman,https://www.baseball-almanac.com/players/player.php?p=gausmke01,Toronto Blue Jays,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=TOR,2023,American League,Strikeouts,237,pitcher,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=NYA,2023,American League,Winning Percentage,.789,pitcher,1
+Chris Bassitt,https://www.baseball-almanac.com/players/player.php?p=bassich01,Toronto Blue Jays,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=TOR,2023,American League,Wins,16,pitcher,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,San Diego Padres,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=SDN,2023,National League,Base on Balls,132,player,1
+Luis Arraez,https://www.baseball-almanac.com/players/player.php?p=arraelu01,Miami Marlins,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=MIA,2023,National League,Batting Average,.354,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Los Angeles Dodgers,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=LAN,2023,National League,Doubles,59,player,1
+Ronald Acuña Jr.,https://www.baseball-almanac.com/players/player.php?p=acunaro01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Hits,217,player,1
+Matt Olson,https://www.baseball-almanac.com/players/player.php?p=olsonma02,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Home Runs,54,player,1
+Ronald Acuña Jr.,https://www.baseball-almanac.com/players/player.php?p=acunaro01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,On Base Percentage,.416,player,1
+Matt Olson,https://www.baseball-almanac.com/players/player.php?p=olsonma02,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,RBI,139,player,1
+Ronald Acuña Jr.,https://www.baseball-almanac.com/players/player.php?p=acunaro01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Runs,149,player,1
+Matt Olson,https://www.baseball-almanac.com/players/player.php?p=olsonma02,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Slugging Average,.604,player,1
+Ronald Acuña Jr.,https://www.baseball-almanac.com/players/player.php?p=acunaro01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Stolen Bases,73,player,1
+Ronald Acuña Jr.,https://www.baseball-almanac.com/players/player.php?p=acunaro01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Total Bases,383,player,1
+Corbin Carroll,https://www.baseball-almanac.com/players/player.php?p=carroco02,Arizona Diamondbacks,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ARI,2023,National League,Triples,10,player,1
+Sandy Alcantara,https://www.baseball-almanac.com/players/player.php?p=alcansa01,Miami Marlins,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=MIA,2023,National League,Complete Games,3,pitcher,1
+Blake Snell,https://www.baseball-almanac.com/players/player.php?p=snellbl01,San Diego Padres,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=SDN,2023,National League,ERA,2.25,pitcher,1
+Miguel Castro,https://www.baseball-almanac.com/players/player.php?p=castrmi01,Arizona Diamondbacks,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ARI,2023,National League,Games,75,pitcher,1
+David Bednar,https://www.baseball-almanac.com/players/player.php?p=bednada01,Pittsburgh Pirates,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=PIT,2023,National League,Saves,39,pitcher,1
+Sandy Alcantara,https://www.baseball-almanac.com/players/player.php?p=alcansa01,Miami Marlins,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=MIA,2023,National League,Shutouts,1,pitcher,1
+Spencer Strider,https://www.baseball-almanac.com/players/player.php?p=stridsp01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Strikeouts,281,pitcher,1
+Spencer Strider,https://www.baseball-almanac.com/players/player.php?p=stridsp01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Winning Percentage,.800,pitcher,1
+Spencer Strider,https://www.baseball-almanac.com/players/player.php?p=stridsp01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2023&t=ATL,2023,National League,Wins,20,pitcher,1

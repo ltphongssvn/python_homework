@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+John Mayberry,https://www.baseball-almanac.com/players/player.php?p=maybejo01,Kansas City,,1973,American League,Base on Balls,122,player,1
+Rod Carew,https://www.baseball-almanac.com/players/player.php?p=carewro01,Minnesota,,1973,American League,Batting Average,.350,player,1
+Sal Bando,https://www.baseball-almanac.com/players/player.php?p=bandosa01,Oakland,,1973,American League,Doubles,32,player,1
+Pedro Garcia,https://www.baseball-almanac.com/players/player.php?p=garcipe01,Milwaukee,,1973,American League,Doubles,32,player,1
+Rod Carew,https://www.baseball-almanac.com/players/player.php?p=carewro01,Minnesota,,1973,American League,Hits,203,player,1
+Reggie Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksre01,Oakland,,1973,American League,Home Runs,32,player,1
+John Mayberry,https://www.baseball-almanac.com/players/player.php?p=maybejo01,Kansas City,,1973,American League,On Base Percentage,.420,player,1
+Reggie Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksre01,Oakland,,1973,American League,RBI,117,player,1
+Reggie Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksre01,Oakland,,1973,American League,Runs,99,player,1
+Reggie Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksre01,Oakland,,1973,American League,Slugging Average,.531,player,1
+Tommy Harper,https://www.baseball-almanac.com/players/player.php?p=harpeto01,Boston,,1973,American League,Stolen Bases,54,player,1
+Sal Bando,https://www.baseball-almanac.com/players/player.php?p=bandosa01,Oakland,,1973,American League,Total Bases,295,player,1
+Dave May,https://www.baseball-almanac.com/players/player.php?p=mayda01,Milwaukee,,1973,American League,Total Bases,295,player,1
+George Scott,https://www.baseball-almanac.com/players/player.php?p=scottge02,Milwaukee,,1973,American League,Total Bases,295,player,1
+Al Bumbry,https://www.baseball-almanac.com/players/player.php?p=bumbral01,Baltimore,,1973,American League,Triples,11,player,1
+Rod Carew,https://www.baseball-almanac.com/players/player.php?p=carewro01,Minnesota,,1973,American League,Triples,11,player,1
+Gaylord Perry,https://www.baseball-almanac.com/players/player.php?p=perryga01,Cleveland,,1973,American League,Complete Games,29,pitcher,1
+Jim Palmer,https://www.baseball-almanac.com/players/player.php?p=palmeji01,Baltimore,,1973,American League,ERA,2.40,pitcher,1
+John Hiller,https://www.baseball-almanac.com/players/player.php?p=hillejo01,Detroit,,1973,American League,Games,65,pitcher,1
+John Hiller,https://www.baseball-almanac.com/players/player.php?p=hillejo01,Detroit,,1973,American League,Saves,38,pitcher,1
+Bert Blyleven,https://www.baseball-almanac.com/players/player.php?p=blylebe01,Minnesota,,1973,American League,Shutouts,9,pitcher,1
+Nolan Ryan,https://www.baseball-almanac.com/players/player.php?p=ryanno01,California,,1973,American League,Strikeouts,383,pitcher,1
+Catfish Hunter,https://www.baseball-almanac.com/players/player.php?p=hunteca01,Oakland,,1973,American League,Winning Percentage,.808,pitcher,1
+Wilbur Wood,https://www.baseball-almanac.com/players/player.php?p=woodwi01,Chicago,,1973,American League,Wins,24,pitcher,1

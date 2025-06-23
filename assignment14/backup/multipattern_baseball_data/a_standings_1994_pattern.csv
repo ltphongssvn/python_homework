@@ -1,0 +1,4 @@
+year,league,division,team,wins,losses,winning_percentage,games_back,ties,payroll,pattern_used
+1994,American League,East,Boston Red Sox,54,61,470.0,17,,,American League 1901-2001
+1994,American League,East,Detroit Tigers,53,62,461.0,18,,,American League 1901-2001
+1994,American League,West,Texas Rangers,52,62,456.0,0,,,American League 1901-2001

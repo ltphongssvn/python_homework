@@ -1,0 +1,22 @@
+year,league,division,teams,avg_wins,avg_losses
+2024,American League,Central,1,86.0,76.0
+2024,American League,East,2,80.5,81.5
+2024,American League,West,2,83.0,78.5
+2024,National League,Central,3,78.66666666666667,83.33333333333333
+2024,National League,West,3,87.33333333333333,74.66666666666667
+2023,American League,Central,1,78.0,84.0
+2023,American League,East,2,88.5,73.5
+2023,American League,West,2,90.0,72.0
+2023,National League,Central,3,80.33333333333333,81.66666666666667
+2023,National League,West,3,81.66666666666667,80.33333333333333
+2022,American League,Central,1,66.0,96.0
+2022,American League,East,2,82.0,80.0
+2022,American League,West,2,87.0,75.0
+2022,National League,Central,3,66.0,96.0
+2022,National League,West,3,81.33333333333333,80.66666666666667
+2021,American League,Central,1,77.0,85.0
+2021,American League,East,2,96.0,66.0
+2021,American League,West,2,77.5,84.5
+2021,National League,Central,3,71.66666666666667,90.33333333333333
+2021,National League,West,3,79.33333333333333,82.66666666666667
+2020,American League,East,1,40.0,20.0

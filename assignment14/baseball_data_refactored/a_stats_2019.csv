@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Alex Bregman,https://www.baseball-almanac.com/players/player.php?p=bregmal01,Houston Astros,,2019,American League,Base on Balls,119,player,1
+Tim Anderson,https://www.baseball-almanac.com/players/player.php?p=anderti01,Chicago White Sox,,2019,American League,Batting Average,.335,player,1
+Rafael Devers,https://www.baseball-almanac.com/players/player.php?p=deverra01,Boston Red Sox,,2019,American League,Doubles,54,player,1
+Whit Merrifield,https://www.baseball-almanac.com/players/player.php?p=merriwh01,Kansas City Royals,,2019,American League,Hits,206,player,1
+Jorge Soler,https://www.baseball-almanac.com/players/player.php?p=solerjo01,Kansas City Royals,,2019,American League,Home Runs,48,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles Angels,,2019,American League,On Base Percentage,.438,player,1
+Jose Abreu,https://www.baseball-almanac.com/players/player.php?p=abreujo02,Chicago White Sox,,2019,American League,RBI,123,player,1
+Mookie Betts,https://www.baseball-almanac.com/players/player.php?p=bettsmo01,Boston Red Sox,,2019,American League,Runs,135,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles Angels,,2019,American League,Slugging Average,.645,player,1
+Mallex Smith,https://www.baseball-almanac.com/players/player.php?p=smithma05,Tampa Bay Rays,,2019,American League,Stolen Bases,46,player,1
+Rafael Devers,https://www.baseball-almanac.com/players/player.php?p=deverra01,Boston Red Sox,,2019,American League,Total Bases,359,player,1
+Hunter Dozier,https://www.baseball-almanac.com/players/player.php?p=doziehu01,Kansas City Royals,,2019,American League,Triples,10,player,1
+Whit Merrifield,https://www.baseball-almanac.com/players/player.php?p=merriwh01,Kansas City Royals,,2019,American League,Triples,10,player,1
+Adalberto Mondesi,https://www.baseball-almanac.com/players/player.php?p=mondera02,Kansas City Royals,,2019,American League,Triples,10,player,1
+Shane Bieber,https://www.baseball-almanac.com/players/player.php?p=biebesh01,Cleveland Indians,,2019,American League,Complete Games,3,pitcher,1
+Lucas Giolito,https://www.baseball-almanac.com/players/player.php?p=giolilu01,Chicago White Sox,,2019,American League,Complete Games,3,pitcher,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,Houston Astros,,2019,American League,ERA,2.50,pitcher,1
+Yusmeiro Petit,https://www.baseball-almanac.com/players/player.php?p=petityu01,Oakland Athletics,,2019,American League,Games,80,pitcher,1
+Roberto Osuna,https://www.baseball-almanac.com/players/player.php?p=osunaro01,Houston Astros,,2019,American League,Saves,38,pitcher,1
+Shane Bieber,https://www.baseball-almanac.com/players/player.php?p=biebesh01,Cleveland Indians,,2019,American League,Shutouts,2,pitcher,1
+Lucas Giolito,https://www.baseball-almanac.com/players/player.php?p=giolilu01,Chicago White Sox,,2019,American League,Shutouts,2,pitcher,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,Houston Astros,,2019,American League,Strikeouts,326,pitcher,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,Houston Astros,,2019,American League,Winning Percentage,.800,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Houston Astros,,2019,American League,Wins,21,pitcher,1

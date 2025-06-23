@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2007,National League,Base on Balls,132,player,1
+Matt Holliday,https://www.baseball-almanac.com/players/player.php?p=hollima01,Colorado,,2007,National League,Batting Average,.340,player,1
+Matt Holliday,https://www.baseball-almanac.com/players/player.php?p=hollima01,Colorado,,2007,National League,Doubles,50,player,1
+Matt Holliday,https://www.baseball-almanac.com/players/player.php?p=hollima01,Colorado,,2007,National League,Hits,216,player,1
+Prince Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldpr01,Milwaukee,,2007,National League,Home Runs,50,player,1
+Todd Helton,https://www.baseball-almanac.com/players/player.php?p=heltoto01,Colorado,,2007,National League,On Base Percentage,.434,player,1
+Matt Holliday,https://www.baseball-almanac.com/players/player.php?p=hollima01,Colorado,,2007,National League,RBI,137,player,1
+Jimmy Rollins,https://www.baseball-almanac.com/players/player.php?p=rolliji01,Philadelphia,,2007,National League,Runs,139,player,1
+Prince Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldpr01,Milwaukee,,2007,National League,Slugging Average,.618,player,1
+Jose Reyes,https://www.baseball-almanac.com/players/player.php?p=reyesjo01,New York,,2007,National League,Stolen Bases,78,player,1
+Matt Holliday,https://www.baseball-almanac.com/players/player.php?p=hollima01,Colorado,,2007,National League,Total Bases,386,player,1
+Jimmy Rollins,https://www.baseball-almanac.com/players/player.php?p=rolliji01,Philadelphia,,2007,National League,Triples,20,player,1
+Brandon Webb,https://www.baseball-almanac.com/players/player.php?p=webbbr01,Arizona,,2007,National League,Complete Games,4,pitcher,1
+Jake Peavy,https://www.baseball-almanac.com/players/player.php?p=peavyja01,San Diego,,2007,National League,ERA,2.54,pitcher,1
+Jon Rauch,https://www.baseball-almanac.com/players/player.php?p=rauchjo01,Washington,,2007,National League,Games,88,pitcher,1
+Jose Valverde,https://www.baseball-almanac.com/players/player.php?p=valvejo01,Arizona,,2007,National League,Saves,47,pitcher,1
+Brandon Webb,https://www.baseball-almanac.com/players/player.php?p=webbbr01,Arizona,,2007,National League,Shutouts,3,pitcher,1
+Jake Peavy,https://www.baseball-almanac.com/players/player.php?p=peavyja01,San Diego,,2007,National League,Strikeouts,240,pitcher,1
+Brad Penny,https://www.baseball-almanac.com/players/player.php?p=pennybr01,Los Angeles,,2007,National League,Winning Percentage,.800,pitcher,1
+Jake Peavy,https://www.baseball-almanac.com/players/player.php?p=peavyja01,San Diego,,2007,National League,Wins,19,pitcher,1

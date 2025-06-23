@@ -1,0 +1,27 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jimmy Barrett,https://www.baseball-almanac.com/players/player.php?p=barreji01,Detroit,,1903,American League,Base on Balls,74,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Cleveland,,1903,American League,Batting Average,.344,player,1
+Socks Seybold,https://www.baseball-almanac.com/players/player.php?p=seyboso01,Philadelphia,,1903,American League,Doubles,45,player,1
+Patsy Dougherty,https://www.baseball-almanac.com/players/player.php?p=doughpa01,Boston,,1903,American League,Hits,195,player,1
+Buck Freeman,https://www.baseball-almanac.com/players/player.php?p=freembu01,Boston,,1903,American League,Home Runs,13,player,1
+Jimmy Barrett,https://www.baseball-almanac.com/players/player.php?p=barreji01,Detroit,,1903,American League,On Base Percentage,.407,player,1
+Buck Freeman,https://www.baseball-almanac.com/players/player.php?p=freembu01,Boston,,1903,American League,RBI,104,player,1
+Patsy Dougherty,https://www.baseball-almanac.com/players/player.php?p=doughpa01,Boston,,1903,American League,Runs,107,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Cleveland,,1903,American League,Slugging Average,.518,player,1
+Harry Bay,https://www.baseball-almanac.com/players/player.php?p=bayha01,Cleveland,,1903,American League,Stolen Bases,45,player,1
+Buck Freeman,https://www.baseball-almanac.com/players/player.php?p=freembu01,Boston,,1903,American League,Total Bases,281,player,1
+Sam Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfsa01,Detroit,,1903,American League,Triples,25,player,1
+Bill Donovan,https://www.baseball-almanac.com/players/player.php?p=donovbi01,Detroit,,1903,American League,Complete Games,34,pitcher,1
+Rube Waddell,https://www.baseball-almanac.com/players/player.php?p=wadderu01,Philadelphia,,1903,American League,Complete Games,34,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1903,American League,Complete Games,34,pitcher,1
+Earl Moore,https://www.baseball-almanac.com/players/player.php?p=mooreea01,Cleveland,,1903,American League,ERA,1.74,pitcher,1
+Eddie Plank,https://www.baseball-almanac.com/players/player.php?p=planked01,Philadelphia,,1903,American League,Games,43,pitcher,1
+Bill Dinneen,https://www.baseball-almanac.com/players/player.php?p=dinnebi01,Boston,,1903,American League,Saves,2,pitcher,1
+George Mullin,https://www.baseball-almanac.com/players/player.php?p=mullige01,Detroit,,1903,American League,Saves,2,pitcher,1
+Al Orth,https://www.baseball-almanac.com/players/player.php?p=orthal01,Washington,,1903,American League,Saves,2,pitcher,1
+Jack Powell,https://www.baseball-almanac.com/players/player.php?p=powelja01,St. Louis,,1903,American League,Saves,2,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1903,American League,Saves,2,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1903,American League,Shutouts,7,pitcher,1
+Rube Waddell,https://www.baseball-almanac.com/players/player.php?p=wadderu01,Philadelphia,,1903,American League,Strikeouts,302,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1903,American League,Winning Percentage,.757,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Boston,,1903,American League,Wins,28,pitcher,1

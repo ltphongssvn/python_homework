@@ -1,0 +1,26 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Joey Gallo,https://www.baseball-almanac.com/players/player.php?p=gallojo01,Texas Rangers,,2021,American League,Base on Balls,111,player,1
+Joey Gallo,https://www.baseball-almanac.com/players/player.php?p=gallojo01,New York Yankees,,2021,American League,Base on Balls,111,player,1
+Yuli Gurriel,https://www.baseball-almanac.com/players/player.php?p=gurriyu01,Houston Astros,,2021,American League,Batting Average,.319,player,1
+Jeimer Candelario,https://www.baseball-almanac.com/players/player.php?p=candeje01,Detroit Tigers,,2021,American League,Doubles,42,player,1
+J.D. Martinez,https://www.baseball-almanac.com/players/player.php?p=martijd02,Boston Red Sox,,2021,American League,Doubles,42,player,1
+Whit Merrifield,https://www.baseball-almanac.com/players/player.php?p=merriwh01,Kansas City Royals,,2021,American League,Doubles,42,player,1
+Bo Bichette,https://www.baseball-almanac.com/players/player.php?p=bichebo01,Toronto Blue Jays,,2021,American League,Hits,191,player,1
+Vladimir Guerrero Jr.,https://www.baseball-almanac.com/players/player.php?p=guerrvl02,Toronto Blue Jays,,2021,American League,Home Runs,48,player,1
+Salvador Perez,https://www.baseball-almanac.com/players/player.php?p=perezsa02,Kansas City Royals,,2021,American League,Home Runs,48,player,1
+Vladimir Guerrero Jr.,https://www.baseball-almanac.com/players/player.php?p=guerrvl02,Toronto Blue Jays,,2021,American League,On Base Percentage,.401,player,1
+Salvador Perez,https://www.baseball-almanac.com/players/player.php?p=perezsa02,Kansas City Royals,,2021,American League,RBI,121,player,1
+Vladimir Guerrero Jr.,https://www.baseball-almanac.com/players/player.php?p=guerrvl02,Toronto Blue Jays,,2021,American League,Runs,123,player,1
+Vladimir Guerrero Jr.,https://www.baseball-almanac.com/players/player.php?p=guerrvl02,Toronto Blue Jays,,2021,American League,Slugging Average,.601,player,1
+Whit Merrifield,https://www.baseball-almanac.com/players/player.php?p=merriwh01,Kansas City Royals,,2021,American League,Stolen Bases,40,player,1
+Vladimir Guerrero Jr.,https://www.baseball-almanac.com/players/player.php?p=guerrvl02,Toronto Blue Jays,,2021,American League,Total Bases,363,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles Angels,,2021,American League,Triples,8,player,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,New York Yankees,,2021,American League,Complete Games,2,pitcher,1
+Sean Manaea,https://www.baseball-almanac.com/players/player.php?p=manaese01,Oakland Athletics,,2021,American League,Complete Games,2,pitcher,1
+Robbie Ray,https://www.baseball-almanac.com/players/player.php?p=rayro01,Toronto Blue Jays,,2021,American League,ERA,2.84,pitcher,1
+Bryan Shaw,https://www.baseball-almanac.com/players/player.php?p=shawbr01,Cleveland Indians,,2021,American League,Games,81,pitcher,1
+Liam Hendriks,https://www.baseball-almanac.com/players/player.php?p=hendrli01,Chicago White Sox,,2021,American League,Saves,38,pitcher,1
+Sean Manaea,https://www.baseball-almanac.com/players/player.php?p=manaese01,Oakland Athletics,,2021,American League,Shutouts,2,pitcher,1
+Robbie Ray,https://www.baseball-almanac.com/players/player.php?p=rayro01,Toronto Blue Jays,,2021,American League,Strikeouts,248,pitcher,1
+"Lance McCullers, Jr.",https://www.baseball-almanac.com/players/player.php?p=mcculla02,Houston Astros,,2021,American League,Winning Percentage,.722,pitcher,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,New York Yankees,,2021,American League,Wins,16,pitcher,1

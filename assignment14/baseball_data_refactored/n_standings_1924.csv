@@ -1,0 +1,9 @@
+year,league,division,team,wins,losses,winning_percentage,games_back,ties,payroll
+1924,National League,League,New York Giants,93,60,0.608,0,0,
+1924,National League,League,Brooklyn Robins,92,62,0.597,0,0,
+1924,National League,League,Pittsburgh Pirates,90,63,0.588,0,0,
+1924,National League,League,Cincinnati Reds,83,70,0.542,0,0,
+1924,National League,League,Chicago Cubs,81,72,0.529,0,0,
+1924,National League,League,St. Louis Cardinals,65,89,0.422,0,0,
+1924,National League,League,Philadelphia Phillies,55,96,0.364,1,0,
+1924,National League,League,Boston Braves,53,100,0.346,1,0,

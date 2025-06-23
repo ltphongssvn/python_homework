@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Donie Bush,https://www.baseball-almanac.com/players/player.php?p=bushdo01,Detroit,,1910,American League,Base on Balls,78,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Detroit,,1910,American League,Batting Average*,.384,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Cleveland,,1910,American League,Doubles,51,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Cleveland,,1910,American League,Hits,227,player,1
+Jake Stahl,https://www.baseball-almanac.com/players/player.php?p=stahlja01,Boston,,1910,American League,Home Runs,10,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1910,American League,On Base Percentage,.455,player,1
+Sam Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfsa01,Detroit,,1910,American League,RBI,120,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1910,American League,Runs,106,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1910,American League,Slugging Average,.549,player,1
+Eddie Collins,https://www.baseball-almanac.com/players/player.php?p=collied01,Philadelphia,,1910,American League,Stolen Bases,81,player,1
+Nap Lajoie,https://www.baseball-almanac.com/players/player.php?p=lajoina01,Cleveland,,1910,American League,Total Bases,304,player,1
+Sam Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfsa01,Detroit,,1910,American League,Triples,19,player,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1910,American League,Complete Games,38,pitcher,1
+Ed Walsh,https://www.baseball-almanac.com/players/player.php?p=walshed01,Chicago,,1910,American League,ERA,1.27,pitcher,1
+Ed Walsh,https://www.baseball-almanac.com/players/player.php?p=walshed01,Chicago,,1910,American League,Games,45,pitcher,1
+Jack Coombs,https://www.baseball-almanac.com/players/player.php?p=coombja01,Philadelphia,,1910,American League,Games,45,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1910,American League,Games,45,pitcher,1
+Ed Walsh,https://www.baseball-almanac.com/players/player.php?p=walshed01,Chicago,,1910,American League,Saves,5,pitcher,1
+Jack Coombs,https://www.baseball-almanac.com/players/player.php?p=coombja01,Philadelphia,,1910,American League,Shutouts,13,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1910,American League,Strikeouts,313,pitcher,1
+Chief Bender,https://www.baseball-almanac.com/players/player.php?p=bendech01,Philadelphia,,1910,American League,Winning Percentage,.821,pitcher,1
+Jack Coombs,https://www.baseball-almanac.com/players/player.php?p=coombja01,Philadelphia,,1910,American League,Wins,31,pitcher,1

@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1961,American League,Base on Balls,126,player,1
+Norm Cash,https://www.baseball-almanac.com/players/player.php?p=cashno01,Detroit,,1961,American League,Batting Average,.361,player,1
+Al Kaline,https://www.baseball-almanac.com/players/player.php?p=kalinal01,Detroit,,1961,American League,Doubles,41,player,1
+Norm Cash,https://www.baseball-almanac.com/players/player.php?p=cashno01,Detroit,,1961,American League,Hits,193,player,1
+Roger Maris,https://www.baseball-almanac.com/players/player.php?p=marisro01,New York,,1961,American League,Home Runs,61,player,1
+Norm Cash,https://www.baseball-almanac.com/players/player.php?p=cashno01,Detroit,,1961,American League,On Base Percentage,.488,player,1
+Jim Gentile,https://www.baseball-almanac.com/players/player.php?p=gentiji01,Baltimore,,1961,American League,RBI,141,player,1
+Roger Maris,https://www.baseball-almanac.com/players/player.php?p=marisro01,New York,,1961,American League,RBI,141,player,1
+Roger Maris,https://www.baseball-almanac.com/players/player.php?p=marisro01,New York,,1961,American League,Runs,132,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1961,American League,Slugging Average,.687,player,1
+Luis Aparacio,https://www.baseball-almanac.com/players/player.php?p=aparilu01,Chicago,,1961,American League,Stolen Bases,53,player,1
+Roger Maris,https://www.baseball-almanac.com/players/player.php?p=marisro01,New York,,1961,American League,Total Bases,366,player,1
+Jake Wood,https://www.baseball-almanac.com/players/player.php?p=woodja01,Detroit,,1961,American League,Triples,14,player,1
+Frank Lary,https://www.baseball-almanac.com/players/player.php?p=laryfr01,Detroit,,1961,American League,Complete Games,22,pitcher,1
+Dick Donovan,https://www.baseball-almanac.com/players/player.php?p=donovdi01,Washington,,1961,American League,ERA,2.40,pitcher,1
+Luis Arroyo,https://www.baseball-almanac.com/players/player.php?p=arroylu01,New York,,1961,American League,Games,65,pitcher,1
+Luis Arroyo,https://www.baseball-almanac.com/players/player.php?p=arroylu01,New York,,1961,American League,Saves,29,pitcher,1
+Steve Barber,https://www.baseball-almanac.com/players/player.php?p=barbest01,Baltimore,,1961,American League,Shutouts,8,pitcher,1
+Camilo Pascual,https://www.baseball-almanac.com/players/player.php?p=pascuca02,Minnesota,,1961,American League,Shutouts,8,pitcher,1
+Camilo Pascual,https://www.baseball-almanac.com/players/player.php?p=pascuca02,Minnesota,,1961,American League,Strikeouts,221,pitcher,1
+Whitey Ford,https://www.baseball-almanac.com/players/player.php?p=fordwh01,New York,,1961,American League,Winning Percentage,.862,pitcher,1
+Whitey Ford,https://www.baseball-almanac.com/players/player.php?p=fordwh01,New York,,1961,American League,Wins,25,pitcher,1

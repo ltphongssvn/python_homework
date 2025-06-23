@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Roy Thomas,https://www.baseball-almanac.com/players/player.php?p=thomaro01,Philadelphia,,1903,National League,Base on Balls,107,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1903,National League,Batting Average,.355,player,1
+Fred Clarke,https://www.baseball-almanac.com/players/player.php?p=clarkfr01,Pittsburgh,,1903,National League,Doubles,32,player,1
+Sam Mertes,https://www.baseball-almanac.com/players/player.php?p=mertesa01,New York,,1903,National League,Doubles,32,player,1
+Harry Steinfeldt,https://www.baseball-almanac.com/players/player.php?p=steinha01,Cincinnati,,1903,National League,Doubles,32,player,1
+Ginger Beaumont,https://www.baseball-almanac.com/players/player.php?p=beaumgi01,Pittsburgh,,1903,National League,Hits,209,player,1
+Jimmy Sheckard,https://www.baseball-almanac.com/players/player.php?p=sheckji01,Brooklyn,,1903,National League,Home Runs,9,player,1
+Roy Thomas,https://www.baseball-almanac.com/players/player.php?p=thomaro01,Philadelphia,,1903,National League,On Base Percentage,.453,player,1
+Sam Mertes,https://www.baseball-almanac.com/players/player.php?p=mertesa01,New York,,1903,National League,RBI,104,player,1
+Ginger Beaumont,https://www.baseball-almanac.com/players/player.php?p=beaumgi01,Pittsburgh,,1903,National League,Runs,137,player,1
+Fred Clarke,https://www.baseball-almanac.com/players/player.php?p=clarkfr01,Pittsburgh,,1903,National League,Slugging Average,.532,player,1
+Frank Chance,https://www.baseball-almanac.com/players/player.php?p=chancfr01,Chicago,,1903,National League,Stolen Bases,67,player,1
+Jimmy Sheckard,https://www.baseball-almanac.com/players/player.php?p=sheckji01,Brooklyn,,1903,National League,Stolen Bases,67,player,1
+Ginger Beaumont,https://www.baseball-almanac.com/players/player.php?p=beaumgi01,Pittsburgh,,1903,National League,Total Bases,272,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1903,National League,Triples,19,player,1
+Joe McGinnity,https://www.baseball-almanac.com/players/player.php?p=mcginjo01,New York,,1903,National League,Complete Games,44,pitcher,1
+Sam Leever,https://www.baseball-almanac.com/players/player.php?p=leevesa01,Pittsburgh,,1903,National League,ERA,2.06,pitcher,1
+Joe McGinnity,https://www.baseball-almanac.com/players/player.php?p=mcginjo01,New York,,1903,National League,Games,55,pitcher,1
+Carl Lundgren,https://www.baseball-almanac.com/players/player.php?p=lundgca01,Chicago,,1903,National League,Saves,3,pitcher,1
+Roscoe Miller,https://www.baseball-almanac.com/players/player.php?p=millero01,New York,,1903,National League,Saves,3,pitcher,1
+Sam Leever,https://www.baseball-almanac.com/players/player.php?p=leevesa01,Pittsburgh,,1903,National League,Shutouts,7,pitcher,1
+Christy Mathewson,https://www.baseball-almanac.com/players/player.php?p=mathech01,New York,,1903,National League,Strikeouts,267,pitcher,1
+Sam Leever,https://www.baseball-almanac.com/players/player.php?p=leevesa01,Pittsburgh,,1903,National League,Winning Percentage,.781,pitcher,1
+Joe McGinnity,https://www.baseball-almanac.com/players/player.php?p=mcginjo01,New York,,1903,National League,Wins,31,pitcher,1

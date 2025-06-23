@@ -1,0 +1,26 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Frank Howard,https://www.baseball-almanac.com/players/player.php?p=howarfr01,Washington,,1970,American League,Base on Balls,132,player,1
+Alex Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsal01,California,,1970,American League,Batting Average,.329,player,1
+Tony Oliva,https://www.baseball-almanac.com/players/player.php?p=olivato01,Minnesota,,1970,American League,Doubles,36,player,1
+Amos Otis,https://www.baseball-almanac.com/players/player.php?p=otisam01,Kansas City,,1970,American League,Doubles,36,player,1
+Cesar Tovar,https://www.baseball-almanac.com/players/player.php?p=tovarce01,Minnesota,,1970,American League,Doubles,36,player,1
+Tony Oliva,https://www.baseball-almanac.com/players/player.php?p=olivato01,Minnesota,,1970,American League,Hits,204,player,1
+Frank Howard,https://www.baseball-almanac.com/players/player.php?p=howarfr01,Washington,,1970,American League,Home Runs,44,player,1
+Carl Yastrzemski,https://www.baseball-almanac.com/players/player.php?p=yastrca01,Boston,,1970,American League,On Base Percentage,.453,player,1
+Frank Howard,https://www.baseball-almanac.com/players/player.php?p=howarfr01,Washington,,1970,American League,RBI,126,player,1
+Carl Yastrzemski,https://www.baseball-almanac.com/players/player.php?p=yastrca01,Boston,,1970,American League,Runs,125,player,1
+Carl Yastrzemski,https://www.baseball-almanac.com/players/player.php?p=yastrca01,Boston,,1970,American League,Slugging Average,.592,player,1
+Bert Campaneris,https://www.baseball-almanac.com/players/player.php?p=campabe01,Oakland,,1970,American League,Stolen Bases,42,player,1
+Carl Yastrzemski,https://www.baseball-almanac.com/players/player.php?p=yastrca01,Boston,,1970,American League,Total Bases,335,player,1
+Cesar Tovar,https://www.baseball-almanac.com/players/player.php?p=tovarce01,Minnesota,,1970,American League,Triples,13,player,1
+Mike Cuellar,https://www.baseball-almanac.com/players/player.php?p=cuellmi01,Baltimore,,1970,American League,Complete Games,21,pitcher,1
+Diego Segui,https://www.baseball-almanac.com/players/player.php?p=seguidi01,Oakland,,1970,American League,ERA,2.56,pitcher,1
+Wilbur Wood,https://www.baseball-almanac.com/players/player.php?p=woodwi01,Chicago,,1970,American League,Games,77,pitcher,1
+Ron Perranoski,https://www.baseball-almanac.com/players/player.php?p=perraro01,Minnesota,,1970,American League,Saves,34,pitcher,1
+Chuck Dobson,https://www.baseball-almanac.com/players/player.php?p=dobsoch01,Oakland,,1970,American League,Shutouts,5,pitcher,1
+Jim Palmer,https://www.baseball-almanac.com/players/player.php?p=palmeji01,Baltimore,,1970,American League,Shutouts,5,pitcher,1
+Sam McDowell,https://www.baseball-almanac.com/players/player.php?p=mcdowsa01,Cleveland,,1970,American League,Strikeouts,304,pitcher,1
+Mike Cuellar,https://www.baseball-almanac.com/players/player.php?p=cuellmi01,Baltimore,,1970,American League,Winning Percentage,.750,pitcher,1
+Mike Cuellar,https://www.baseball-almanac.com/players/player.php?p=cuellmi01,Baltimore,,1970,American League,Wins,24,pitcher,1
+Dave McNally,https://www.baseball-almanac.com/players/player.php?p=mcnalda01,Baltimore,,1970,American League,Wins,24,pitcher,1
+Jim Perry,https://www.baseball-almanac.com/players/player.php?p=perryji01,Minnesota,,1970,American League,Wins,24,pitcher,1

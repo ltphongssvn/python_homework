@@ -1,0 +1,26 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+John McGraw,https://www.baseball-almanac.com/players/player.php?p=mcgrajo01,Baltimore,,1899,National League,Base on Balls,124,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1899,National League,Batting Average,.410,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1899,National League,Doubles,55,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1899,National League,Hits,238,player,1
+Buck Freeman,https://www.baseball-almanac.com/players/player.php?p=freembu01,Washington,,1899,National League,Home Runs,25,player,1
+John McGraw,https://www.baseball-almanac.com/players/player.php?p=mcgrajo01,Baltimore,,1899,National League,On Base Percentage,.547,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1899,National League,RBI,137,player,1
+Willie Keeler,https://www.baseball-almanac.com/players/player.php?p=keelewi01,Brooklyn,,1899,National League,Runs,140,player,1
+John McGraw,https://www.baseball-almanac.com/players/player.php?p=mcgrajo01,Baltimore,,1899,National League,Runs,140,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1899,National League,Slugging Average,.582,player,1
+Jimmy Sheckard,https://www.baseball-almanac.com/players/player.php?p=sheckji01,Baltimore,,1899,National League,Stolen Bases,77,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1899,National League,Total Bases,338,player,1
+Jimmy Williams,https://www.baseball-almanac.com/players/player.php?p=williji01,Pittsburgh,,1899,National League,Triples,27,player,1
+Bill Carrick,https://www.baseball-almanac.com/players/player.php?p=carribi01,New York,,1899,National League,Complete Games,40,pitcher,1
+Jack Powell,https://www.baseball-almanac.com/players/player.php?p=powelja01,St. Louis,,1899,National League,Complete Games,40,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,St. Louis,,1899,National League,Complete Games,40,pitcher,1
+Vic Willis,https://www.baseball-almanac.com/players/player.php?p=willivi01,Boston,,1899,National League,ERA,2.50,pitcher,1
+Sam Leever,https://www.baseball-almanac.com/players/player.php?p=leevesa01,Pittsburgh,,1899,National League,Games,51,pitcher,1
+Sam Leever,https://www.baseball-almanac.com/players/player.php?p=leevesa01,Pittsburgh,,1899,National League,Saves,3,pitcher,1
+Vic Willis,https://www.baseball-almanac.com/players/player.php?p=willivi01,Boston,,1899,National League,Shutouts,5,pitcher,1
+Noodles Hahn,https://www.baseball-almanac.com/players/player.php?p=hahnno01,Cincinnati,,1899,National League,Strikeouts,145,pitcher,1
+Jay Hughes,https://www.baseball-almanac.com/players/player.php?p=hugheja01,Brooklyn,,1899,National League,Winning Percentage,.824,pitcher,1
+Al Orth,https://www.baseball-almanac.com/players/player.php?p=orthal01,Philadelphia,,1899,National League,Winning Percentage,.824,pitcher,1
+Jay Hughes,https://www.baseball-almanac.com/players/player.php?p=hugheja01,Brooklyn,,1899,National League,Wins,28,pitcher,1
+Joe McGinnity,https://www.baseball-almanac.com/players/player.php?p=mcginjo01,Baltimore,,1899,National League,Wins,28,pitcher,1

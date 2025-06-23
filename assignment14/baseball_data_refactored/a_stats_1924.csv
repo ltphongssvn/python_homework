@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1924,American League,Base on Balls,142,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1924,American League,Batting Average,.378,player,1
+Harry Heilmann,https://www.baseball-almanac.com/players/player.php?p=heilmha01,Detroit,,1924,American League,Doubles,45,player,1
+Joe Sewell,https://www.baseball-almanac.com/players/player.php?p=seweljo01,Cleveland,,1924,American League,Doubles,45,player,1
+Sam Rice,https://www.baseball-almanac.com/players/player.php?p=ricesa01,Washington,,1924,American League,Hits,216,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1924,American League,Home Runs,46,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1924,American League,On Base Percentage,.513,player,1
+Goose Goslin,https://www.baseball-almanac.com/players/player.php?p=gosligo01,Washington,,1924,American League,RBI,129,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1924,American League,Runs,143,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1924,American League,Slugging Average,.739,player,1
+Eddie Collins,https://www.baseball-almanac.com/players/player.php?p=collied01,Chicago,,1924,American League,Stolen Bases,42,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1924,American League,Total Bases,391,player,1
+Wally Pipp,https://www.baseball-almanac.com/players/player.php?p=pippwa01,New York,,1924,American League,Triples,19,player,1
+Sloppy Thurston,https://www.baseball-almanac.com/players/player.php?p=thurssl01,Chicago,,1924,American League,Complete Games,28,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1924,American League,ERA,2.72,pitcher,1
+Firpo Marberry,https://www.baseball-almanac.com/players/player.php?p=marbefi01,Washington,,1924,American League,Games,50,pitcher,1
+Firpo Marberry,https://www.baseball-almanac.com/players/player.php?p=marbefi01,Washington,,1924,American League,Saves,15,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1924,American League,Shutouts,6,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1924,American League,Strikeouts,158,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1924,American League,Winning Percentage,.767,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1924,American League,Wins,23,pitcher,1

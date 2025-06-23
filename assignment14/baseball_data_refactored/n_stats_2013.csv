@@ -1,0 +1,26 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Joey Votto,https://www.baseball-almanac.com/players/player.php?p=vottojo01,Cincinnati,,2013,National League,Base on Balls,135,player,1
+Michael Cuddyer,https://www.baseball-almanac.com/players/player.php?p=cuddymi01,Colorado,,2013,National League,Batting Average,.331,player,1
+Matt Carpenter,https://www.baseball-almanac.com/players/player.php?p=carpema01,St. Louis,,2013,National League,Doubles,55,player,1
+Matt Carpenter,https://www.baseball-almanac.com/players/player.php?p=carpema01,St. Louis,,2013,National League,Hits,199,player,1
+Pedro Alvarez,https://www.baseball-almanac.com/players/player.php?p=alvarpe01,Pittsburgh,,2013,National League,Home Runs,36,player,1
+Paul Goldschmidt,https://www.baseball-almanac.com/players/player.php?p=goldspa01,Arizona,,2013,National League,Home Runs,36,player,1
+Joey Votto,https://www.baseball-almanac.com/players/player.php?p=vottojo01,Cincinnati,,2013,National League,On Base Percentage,.435,player,1
+Paul Goldschmidt,https://www.baseball-almanac.com/players/player.php?p=goldspa01,Arizona,,2013,National League,RBI,125,player,1
+Matt Carpenter,https://www.baseball-almanac.com/players/player.php?p=carpema01,St. Louis,,2013,National League,Runs,126,player,1
+Paul Goldschmidt,https://www.baseball-almanac.com/players/player.php?p=goldspa01,Arizona,,2013,National League,Slugging Average,.552,player,1
+Eric Young,https://www.baseball-almanac.com/players/player.php?p=younger03,Colorado / New York,,2013,National League,Stolen Bases,46,player,1
+Paul Goldschmidt,https://www.baseball-almanac.com/players/player.php?p=goldspa01,Arizona,,2013,National League,Total Bases,332,player,1
+Denard Span,https://www.baseball-almanac.com/players/player.php?p=spande01,Washington,,2013,National League,Triples,11,player,1
+Adam Wainwright,https://www.baseball-almanac.com/players/player.php?p=wainwad01,St. Louis,,2013,National League,Complete Games,4,pitcher,1
+Jordan Zimmermann,https://www.baseball-almanac.com/players/player.php?p=zimmejo02,Washington,,2013,National League,Complete Games,4,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles,,2013,National League,ERA,1.83,pitcher,1
+Brad Ziegler,https://www.baseball-almanac.com/players/player.php?p=zieglbr01,Arizona,,2013,National League,Games,78,pitcher,1
+Craig Kimbrel,https://www.baseball-almanac.com/players/player.php?p=kimbrcr01,Atlanta,,2013,National League,Saves,50,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles,,2013,National League,Shutouts,3,pitcher,1
+Adam Wainwright,https://www.baseball-almanac.com/players/player.php?p=wainwad01,St. Louis,,2013,National League,Shutouts,3,pitcher,1
+Jordan Zimmermann,https://www.baseball-almanac.com/players/player.php?p=zimmejo02,Washington,,2013,National League,Shutouts,3,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles,,2013,National League,Strikeouts,232,pitcher,1
+Zack Greinke,https://www.baseball-almanac.com/players/player.php?p=greinza01,Los Angeles,,2013,National League,Winning Percentage,.789,pitcher,1
+Adam Wainwright,https://www.baseball-almanac.com/players/player.php?p=wainwad01,St. Louis,,2013,National League,Wins,19,pitcher,1
+Jordan Zimmermann,https://www.baseball-almanac.com/players/player.php?p=zimmejo02,Washington,,2013,National League,Wins,19,pitcher,1

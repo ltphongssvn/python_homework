@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Charlie Keller,https://www.baseball-almanac.com/players/player.php?p=kellech01,New York,,1940,American League,Base on Balls,106,player,1
+Joe DiMaggio,https://www.baseball-almanac.com/players/player.php?p=dimagjo01,New York,,1940,American League,Batting Average,.352,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1940,American League,Doubles,50,player,1
+Doc Cramer,https://www.baseball-almanac.com/players/player.php?p=cramedo01,Boston,,1940,American League,Hits,200,player,1
+Barney McCosky,https://www.baseball-almanac.com/players/player.php?p=mccosba01,Detroit,,1940,American League,Hits,200,player,1
+Rip Radcliff,https://www.baseball-almanac.com/players/player.php?p=radclri01,St. Louis,,1940,American League,Hits,200,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1940,American League,Home Runs,41,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1940,American League,On Base Percentage,.442,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1940,American League,RBI,150,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1940,American League,Runs,134,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1940,American League,Slugging Average,.670,player,1
+George Case,https://www.baseball-almanac.com/players/player.php?p=casege01,Washington,,1940,American League,Stolen Bases,35,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1940,American League,Total Bases,384,player,1
+Barney McCosky,https://www.baseball-almanac.com/players/player.php?p=mccosba01,Detroit,,1940,American League,Triples,19,player,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1940,American League,Complete Games,31,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1940,American League,ERA,2.61,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1940,American League,Games,43,pitcher,1
+Al Benton,https://www.baseball-almanac.com/players/player.php?p=bentoal01,Detroit,,1940,American League,Saves,17,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1940,American League,Shutouts,4,pitcher,1
+Ted Lyons,https://www.baseball-almanac.com/players/player.php?p=lyonste01,Chicago,,1940,American League,Shutouts,4,pitcher,1
+Al Milnar,https://www.baseball-almanac.com/players/player.php?p=milnaal01,Cleveland,,1940,American League,Shutouts,4,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1940,American League,Strikeouts,261,pitcher,1
+Schoolboy Rowe,https://www.baseball-almanac.com/players/player.php?p=rowesc01,Detroit,,1940,American League,Winning Percentage,.842,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1940,American League,Wins,27,pitcher,1

@@ -1,0 +1,41 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=NYA,2024,American League,Base on Balls,133,player,1
+Bobby Witt Jr.,https://www.baseball-almanac.com/players/player.php?p=wittbo02,Kansas City,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=KCA,2024,American League,Batting Average,.332,player,1
+Jarren Duran,https://www.baseball-almanac.com/players/player.php?p=duranja01,Boston,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=BOS,2024,American League,Doubles,48,player,1
+Bobby Witt Jr.,https://www.baseball-almanac.com/players/player.php?p=wittbo02,Kansas City,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=KCA,2024,American League,Hits,211,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=NYA,2024,American League,Home Runs,58,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=NYA,2024,American League,On Base Percentage,.458,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=NYA,2024,American League,RBI,144,player,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,New York,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=NYA,2024,American League,Runs,128,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=NYA,2024,American League,Slugging Average,.701,player,1
+Jose Caballero,https://www.baseball-almanac.com/players/player.php?p=cabaljo01,Tampa Bay,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=TBR,2024,American League,Stolen Bases,44,player,1
+Aaron Judge,https://www.baseball-almanac.com/players/player.php?p=judgeaa01,New York,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=NYA,2024,American League,Total Bases,392,player,1
+Jarren Duran,https://www.baseball-almanac.com/players/player.php?p=duranja01,Boston,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=BOS,2024,American League,Triples,14,player,1
+Kevin Gausman,https://www.baseball-almanac.com/players/player.php?p=gausmke01,Toronto,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=TOR,2024,American League,Complete Games,2,pitcher,1
+Tarik Skubal,https://www.baseball-almanac.com/players/player.php?p=skubata01,Detroit,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=DET,2024,American League,ERA,2.39,pitcher,1
+T.J. McFarland,https://www.baseball-almanac.com/players/player.php?p=mcfartj01,Oakland,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=OAK,2024,American League,Games,79,pitcher,1
+Emmanuel Clase,https://www.baseball-almanac.com/players/player.php?p=claseem01,Cleveland,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=CLG,2024,American League,Saves,47,pitcher,1
+Ronel Blanco,https://www.baseball-almanac.com/players/player.php?p=blancro01,Houston,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=HOA,2024,American League,Shutouts,1,pitcher,1
+Tarik Skubal,https://www.baseball-almanac.com/players/player.php?p=skubata01,Detroit,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=DET,2024,American League,Strikeouts,228,pitcher,1
+Tarik Skubal,https://www.baseball-almanac.com/players/player.php?p=skubata01,Detroit,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=DET,2024,American League,Winning Percentage,.818,pitcher,1
+Tarik Skubal,https://www.baseball-almanac.com/players/player.php?p=skubata01,Detroit,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=DET,2024,American League,Wins,18,pitcher,1
+Kyle Schwarber,https://www.baseball-almanac.com/players/player.php?p=schwaky01,Philadelphia,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=PHI,2024,National League,Base on Balls,105,player,1
+Luis Arraez,https://www.baseball-almanac.com/players/player.php?p=arraelu01,Miami,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=MIA,2024,National League,Batting Average,.314,player,1
+Ezequiel Tovar,https://www.baseball-almanac.com/players/player.php?p=tovarez01,Colorado,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=COL,2024,National League,Doubles,45,player,1
+Luis Arraez,https://www.baseball-almanac.com/players/player.php?p=arraelu01,Miami,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=MIA,2024,National League,Hits,200,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=LAN,2024,National League,Home Runs,54,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=LAN,2024,National League,On Base Percentage,.390,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=LAN,2024,National League,RBI,130,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=LAN,2024,National League,Runs,134,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=LAN,2024,National League,Slugging Average,.646,player,1
+Elly De La Cruz,https://www.baseball-almanac.com/players/player.php?p=delacel01,Cincinnati,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=CN5,2024,National League,Stolen Bases,67,player,1
+Shohei Ohtani,https://www.baseball-almanac.com/players/player.php?p=ohtansh01,Los Angeles,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=LAN,2024,National League,Total Bases,411,player,1
+Corbin Carroll,https://www.baseball-almanac.com/players/player.php?p=carroco02,Arizona,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=ARI,2024,National League,Triples,14,player,1
+Max Fried,https://www.baseball-almanac.com/players/player.php?p=friedma01,Atlanta,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=ATL,2024,National League,Complete Games,2,pitcher,1
+Chris Sale,https://www.baseball-almanac.com/players/player.php?p=salech01,Atlanta,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=ATL,2024,National League,ERA,2.38,pitcher,1
+Tyler Rogers,https://www.baseball-almanac.com/players/player.php?p=rogerty01,San Francisco,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=SFN,2024,National League,Games,77,pitcher,1
+Ryan Helsley,https://www.baseball-almanac.com/players/player.php?p=helslry01,St. Louis,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=SLN,2024,National League,Saves,49,pitcher,1
+Dylan Cease,https://www.baseball-almanac.com/players/player.php?p=ceasedy01,San Diego,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=SDN,2024,National League,Shutouts,1,pitcher,1
+Chris Sale,https://www.baseball-almanac.com/players/player.php?p=salech01,Atlanta,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=ATL,2024,National League,Strikeouts,225,pitcher,1
+Chris Sale,https://www.baseball-almanac.com/players/player.php?p=salech01,Atlanta,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=ATL,2024,National League,Winning Percentage,.857,pitcher,1
+Chris Sale,https://www.baseball-almanac.com/players/player.php?p=salech01,Atlanta,https://www.baseball-almanac.com/teamstats/roster.php?y=2024&t=ATL,2024,National League,Wins,18,pitcher,1

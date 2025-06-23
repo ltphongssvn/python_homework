@@ -1,0 +1,27 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Joey Votto,https://www.baseball-almanac.com/players/player.php?p=vottojo01,Cincinnati,,2015,National League,Base on Balls,143,player,1
+Dee Gordon,https://www.baseball-almanac.com/players/player.php?p=gordode01,Miami,,2015,National League,Batting Average,.333,player,1
+Matt Carpenter,https://www.baseball-almanac.com/players/player.php?p=carpema01,St. Louis,,2015,National League,Doubles,44,player,1
+Dee Gordon,https://www.baseball-almanac.com/players/player.php?p=gordode01,Miami,,2015,National League,Hits,205,player,1
+Nolan Arenado,https://www.baseball-almanac.com/players/player.php?p=arenano01,Colorado,,2015,National League,Home Runs,42,player,1
+Bryce Harper,https://www.baseball-almanac.com/players/player.php?p=harpebr03,Washington,,2015,National League,Home Runs,42,player,1
+Bryce Harper,https://www.baseball-almanac.com/players/player.php?p=harpebr03,Washington,,2015,National League,On Base Percentage,.460,player,1
+Nolan Arenado,https://www.baseball-almanac.com/players/player.php?p=arenano01,Colorado,,2015,National League,RBI,130,player,1
+Bryce Harper,https://www.baseball-almanac.com/players/player.php?p=harpebr03,Washington,,2015,National League,Runs,118,player,1
+Bryce Harper,https://www.baseball-almanac.com/players/player.php?p=harpebr03,Washington,,2015,National League,Slugging Average,.649,player,1
+Dee Gordon,https://www.baseball-almanac.com/players/player.php?p=gordode01,Miami,,2015,National League,Stolen Bases,58,player,1
+Nolan Arenado,https://www.baseball-almanac.com/players/player.php?p=arenano01,Colorado,,2015,National League,Total Bases,354,player,1
+David Peralta,https://www.baseball-almanac.com/players/player.php?p=peralda01,Arizona,,2015,National League,Triples,10,player,1
+Jake Arrieta,https://www.baseball-almanac.com/players/player.php?p=arrieja01,Chicago,,2015,National League,Complete Games,4,pitcher,1
+Madison Bumgarner,https://www.baseball-almanac.com/players/player.php?p=bumgama01,San Francisco,,2015,National League,Complete Games,4,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles,,2015,National League,Complete Games,4,pitcher,1
+Max Scherzer,https://www.baseball-almanac.com/players/player.php?p=scherma01,Washington,,2015,National League,Complete Games,4,pitcher,1
+Zack Greinke,https://www.baseball-almanac.com/players/player.php?p=greinza01,Los Angeles,,2015,National League,ERA,1.66,pitcher,1
+Kevin Siegrist,https://www.baseball-almanac.com/players/player.php?p=siegrke01,St. Louis,,2015,National League,Games,81,pitcher,1
+Mark Melancon,https://www.baseball-almanac.com/players/player.php?p=melanma01,Pittsburgh,,2015,National League,Saves,51,pitcher,1
+Jake Arrieta,https://www.baseball-almanac.com/players/player.php?p=arrieja01,Chicago,,2015,National League,Shutouts,3,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles,,2015,National League,Shutouts,3,pitcher,1
+Max Scherzer,https://www.baseball-almanac.com/players/player.php?p=scherma01,Washington,,2015,National League,Shutouts,3,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles,,2015,National League,Strikeouts,301,pitcher,1
+Zack Greinke,https://www.baseball-almanac.com/players/player.php?p=greinza01,Los Angeles,,2015,National League,Winning Percentage,.864,pitcher,1
+Jake Arrieta,https://www.baseball-almanac.com/players/player.php?p=arrieja01,Chicago,,2015,National League,Wins,22,pitcher,1

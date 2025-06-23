@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Fred Clarke,https://www.baseball-almanac.com/players/player.php?p=clarkfr01,Pittsburgh,,1909,National League,Base on Balls,80,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1909,National League,Batting Average,.339,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1909,National League,Doubles,39,player,1
+Larry Doyle,https://www.baseball-almanac.com/players/player.php?p=doylela01,New York,,1909,National League,Hits,172,player,1
+Red Murray,https://www.baseball-almanac.com/players/player.php?p=murrare01,New York,,1909,National League,Home Runs,7,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1909,National League,On Base Percentage,.420,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1909,National League,RBI,100,player,1
+Tommy Leach,https://www.baseball-almanac.com/players/player.php?p=leachto01,Pittsburgh,,1909,National League,Runs,126,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1909,National League,Slugging Average,.489,player,1
+Bob Bescher,https://www.baseball-almanac.com/players/player.php?p=beschbo01,Cincinnati,,1909,National League,Stolen Bases,54,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1909,National League,Total Bases,242,player,1
+Mike Mitchell,https://www.baseball-almanac.com/players/player.php?p=mitchmi01,Pittsburgh,,1909,National League,Triples,17,player,1
+Mordecai Brown,https://www.baseball-almanac.com/players/player.php?p=brownmo01,Chicago,,1909,National League,Complete Games,32,pitcher,1
+Christy Mathewson,https://www.baseball-almanac.com/players/player.php?p=mathech01,New York,,1909,National League,ERA,1.14,pitcher,1
+Mordecai Brown,https://www.baseball-almanac.com/players/player.php?p=brownmo01,Chicago,,1909,National League,Games,50,pitcher,1
+Mordecai Brown,https://www.baseball-almanac.com/players/player.php?p=brownmo01,Chicago,,1909,National League,Saves,7,pitcher,1
+Orval Overall,https://www.baseball-almanac.com/players/player.php?p=overaor01,Chicago,,1909,National League,Shutouts,9,pitcher,1
+Orval Overall,https://www.baseball-almanac.com/players/player.php?p=overaor01,Chicago,,1909,National League,Strikeouts,205,pitcher,1
+Howie Camnitz,https://www.baseball-almanac.com/players/player.php?p=camniho01,Pittsburgh,,1909,National League,Winning Percentage,.806,pitcher,1
+Christy Mathewson,https://www.baseball-almanac.com/players/player.php?p=mathech01,New York,,1909,National League,Winning Percentage,.806,pitcher,1
+Mordecai Brown,https://www.baseball-almanac.com/players/player.php?p=brownmo01,Chicago,,1909,National League,Wins,27,pitcher,1
