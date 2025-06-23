@@ -58,7 +58,7 @@ assignment14/
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/ltphongssvn/python_homework.git
    cd assignment14
    ```
 
@@ -189,7 +189,8 @@ This project is created for educational purposes as part of Assignment 14.
 
 ## 📞 Contact
 
-[Your contact information]
+Thanh Phong Le
+ltphongssvn@gmail.com
 
 ---
 
