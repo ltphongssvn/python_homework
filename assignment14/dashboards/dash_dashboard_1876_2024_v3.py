@@ -148,28 +148,29 @@ class Config:
     def get_database_path(cls):
         """
         Find the database file in multiple possible locations.
-
-        Returns:
-            Path: Path to the database file
-
-        Raises:
-            FileNotFoundError: If database cannot be found in any location
+        Enhanced to check both root and dashboards directory for flexibility.
         """
-
-        # Check for Render deployment - database will be in same directory as script
+        # Check for Render deployment first
         if os.environ.get("RENDER"):
-            render_db_path = Path(__file__).parent / cls.DATABASE_NAME
-            if render_db_path.exists():
-                logger.info(f"Found database on Render at: {render_db_path}")
-                return render_db_path
+            # On Render, check the dashboards directory first
+            render_paths = [
+                Path(__file__).parent
+                / cls.DATABASE_NAME,  # dashboards/baseball_history.db
+                Path(__file__).parent.parent
+                / cls.DATABASE_NAME,  # assignment14/baseball_history.db
+            ]
+            for path in render_paths:
+                if path.exists():
+                    logger.info(f"Found database on Render at: {path}")
+                    return path
 
-        # List of paths to check, in order of preference
+        # List of paths to check for all environments
         possible_paths = [
-            # Parent directory (when running from dashboards subdirectory)
+            # Check parent directory first (assignment14 root - for Streamlit)
             Path(__file__).parent.parent / cls.DATABASE_NAME,
-            # Current directory
+            # Then check current directory (dashboards - for local testing)
             Path(__file__).parent / cls.DATABASE_NAME,
-            # Absolute path as fallback
+            # Windows absolute path as fallback
             Path(r"C:\Users\LENOVO\python_homework\assignment14")
             / cls.DATABASE_NAME,
         ]
