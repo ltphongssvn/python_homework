@@ -57,3 +57,7 @@ Thumbs.db
 *.tempbackup/
 *.prof
 pattern_test_results.json
+
+# Debug and backup directories
+debug/
+backup/

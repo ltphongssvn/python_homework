@@ -1,0 +1,234 @@
+{
+  "url": "https://www.baseball-almanac.com/yearly/yr2023n.shtml",
+  "title": "Baseball History in 2023 National League | Baseball Almanac",
+  "timestamp": "20250618_140057",
+  "cookies": [
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1783976449,
+      "httpOnly": false,
+      "name": "cto_bundle",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "UFOxsF9NMEtUbUtzOUlNRFZmbHlQaDF4aVJPWXlieXByaGE2UURvTkoxcFJsMzc1MkRxcVY0JTJGbzNzZGkwb05GSEVyTlBkcExNcXVtYTdSU0tsTU1sWHBpJTJCemxKQ3hwRjY3ZG8zNkZEenZ6b3dGZzE2dVFQSWJWS3lZbWVwcG5BR1NVWHFJcVhrNTc5UUROeTFlbDVQbWElMkZST0R4TTlMVW1HZ2E1cDFwV2tQWEZoWXclM0Q"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1750280501,
+      "httpOnly": false,
+      "name": "_gat_gtag_UA_1805063_1",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1784840441,
+      "httpOnly": false,
+      "name": "_ga_2GS6G7HHV9",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GS2.1.s1750280101$o1$g1$t1750280441$j60$l0$h0"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1765832113,
+      "httpOnly": false,
+      "name": "__eoi",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "ID=315f160e5d978edd:T=1750280113:RT=1750280430:S=AA-AfjZHtUW_YTWXLpVpD5vwm7tx"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1783976113,
+      "httpOnly": false,
+      "name": "__gads",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "ID=00bde1ce34f25b58:T=1750280113:RT=1750280430:S=ALNI_MbRrV47E9A0mfDQssfuV2RNSTvo-Q"
+    },
+    {
+      "domain": "www.baseball-almanac.com",
+      "httpOnly": false,
+      "name": "TAPAD",
+      "path": "/",
+      "sameSite": "Strict",
+      "secure": false,
+      "value": "%7B%22id%22%3A%220240cd3e-72db-408d-9f06-5c436dd9de83%22%7D"
+    },
+    {
+      "domain": "www.baseball-almanac.com",
+      "expiry": 1750281914,
+      "httpOnly": false,
+      "name": "session_depth",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "www.baseball-almanac.com%3D2%7C291221122%3D1%7C411037127%3D1"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1784840441,
+      "httpOnly": false,
+      "name": "_ga_FVWZ0RM4DH",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GS2.1.s1750280123$o1$g1$t1750280441$j60$l0$h0"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1781816447,
+      "httpOnly": false,
+      "name": "_au_1d",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "AU1D-0100-001750280111-KM0S8ZZ8-HT64"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1750884911,
+      "httpOnly": false,
+      "name": "panoramaId",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "6a5c27359991d96c0e389b31bd82185ca02cf30a0d3cb1874d6c6a4c399a4b13"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1750884911,
+      "httpOnly": false,
+      "name": "panoramaId_expiry",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "1750884910841"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1784840441,
+      "httpOnly": false,
+      "name": "_ga",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GA1.1.774967796.1750280102"
+    },
+    {
+      "domain": "www.baseball-almanac.com",
+      "expiry": 1750885246,
+      "httpOnly": false,
+      "name": "pbjs_fabrickId_cst",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "zix7LPQsHA%3D%3D"
+    },
+    {
+      "domain": "www.baseball-almanac.com",
+      "expiry": 1750885246,
+      "httpOnly": false,
+      "name": "pbjs_fabrickId",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "%7B%22fabrickId%22%3A%22E1%3AtAVHu2u9Pn3ym-THy6Yrfoj2oe7_I2EZAkkT_fHjy1lUKAs7Fo2JORhP2ANThGmY_2hXku-y11cimB-Xq5ZdJVwW9brCyCa1WYGpJx7rIO4%22%7D"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1773608110,
+      "httpOnly": false,
+      "name": "_cc_id",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "5d3369d834caa9a9d5c1357cfc98c689"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1784840110,
+      "httpOnly": false,
+      "name": "_lc2_fpi_meta",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "%7B%22w%22%3A1750280110104%7D"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1783976113,
+      "httpOnly": false,
+      "name": "__gpi",
+      "path": "/",
+      "sameSite": "None",
+      "secure": true,
+      "value": "UID=000011084ca43262:T=1750280113:RT=1750280430:S=ALNI_MawwebaQ5XXMj6cBlydqiRVvDzx6Q"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1750884911,
+      "httpOnly": false,
+      "name": "panoramaIdType",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "panoDevice"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1784840110,
+      "httpOnly": false,
+      "name": "_lc2_fpi",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "81ef06cddc0d--01jy2d600rqzw32x0kmqpm5hzp"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "httpOnly": false,
+      "name": "__qca",
+      "path": "/yearly",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "I0-824011684-1750280189060"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "httpOnly": false,
+      "name": "_li_dcdm_c",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": ".baseball-almanac.com"
+    },
+    {
+      "domain": ".baseball-almanac.com",
+      "expiry": 1750366841,
+      "httpOnly": false,
+      "name": "_gid",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": false,
+      "value": "GA1.2.754015326.1750280102"
+    },
+    {
+      "domain": "www.baseball-almanac.com",
+      "expiry": 1750366722,
+      "httpOnly": false,
+      "name": "UTDP",
+      "path": "/yearly",
+      "sameSite": "None",
+      "secure": true,
+      "value": "33%2C1%2C3%2C32%2C31"
+    }
+  ]
+}

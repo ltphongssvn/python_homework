@@ -1,0 +1,17 @@
+[tool.black]
+line-length = 79  # Default is 88, but you can change it
+target-version = ['py38']  # Specify which Python versions you're targeting
+include = '\.pyi?$'  # File patterns to include
+extend-exclude = '''
+/(
+  # directories to skip
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
