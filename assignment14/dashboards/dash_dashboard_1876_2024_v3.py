@@ -16,6 +16,7 @@ Key improvements in this version:
 """
 
 import logging
+import os
 import sqlite3
 import sys
 import traceback
