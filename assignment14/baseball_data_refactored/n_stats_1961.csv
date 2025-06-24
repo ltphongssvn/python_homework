@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Eddie Mathews,https://www.baseball-almanac.com/players/player.php?p=matheed01,Milwaukee,,1961,National League,Base on Balls,93,player,1
+Roberto Clemente,https://www.baseball-almanac.com/players/player.php?p=clemero01,Pittsburgh,,1961,National League,Batting Average,.351,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1961,National League,Doubles,39,player,1
+Vada Pinson,https://www.baseball-almanac.com/players/player.php?p=pinsova01,Cincinnati,,1961,National League,Hits,208,player,1
+Orlando Cepeda,https://www.baseball-almanac.com/players/player.php?p=cepedor01,San Francisco,,1961,National League,Home Runs,46,player,1
+Wally Moon,https://www.baseball-almanac.com/players/player.php?p=moonwa01,Los Angeles,,1961,National League,On Base Percentage,.438,player,1
+Orlando Cepeda,https://www.baseball-almanac.com/players/player.php?p=cepedor01,San Francisco,,1961,National League,RBI,142,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1961,National League,Runs,129,player,1
+Frank Robinson,https://www.baseball-almanac.com/players/player.php?p=robinfr02,Cincinnati,,1961,National League,Slugging Average,.611,player,1
+Maury Wills,https://www.baseball-almanac.com/players/player.php?p=willsma01,Los Angeles,,1961,National League,Stolen Bases,35,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1961,National League,Total Bases,358,player,1
+George Altman,https://www.baseball-almanac.com/players/player.php?p=altmage01,Chicago,,1961,National League,Triples,12,player,1
+Warren Spahn,https://www.baseball-almanac.com/players/player.php?p=spahnwa01,Milwaukee,,1961,National League,Complete Games,21,pitcher,1
+Warren Spahn,https://www.baseball-almanac.com/players/player.php?p=spahnwa01,Milwaukee,,1961,National League,ERA,3.02,pitcher,1
+Jack Baldschun,https://www.baseball-almanac.com/players/player.php?p=baldsja01,Philadelphia,,1961,National League,Games,65,pitcher,1
+Roy Face,https://www.baseball-almanac.com/players/player.php?p=facero01,Pittsburgh,,1961,National League,Saves,17,pitcher,1
+Stu Miller,https://www.baseball-almanac.com/players/player.php?p=millest01,San Francisco,,1961,National League,Saves,17,pitcher,1
+Joey Jay,https://www.baseball-almanac.com/players/player.php?p=jayjo01,Cincinnati,,1961,National League,Shutouts,4,pitcher,1
+Warren Spahn,https://www.baseball-almanac.com/players/player.php?p=spahnwa01,Milwaukee,,1961,National League,Shutouts,4,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1961,National League,Strikeouts,269,pitcher,1
+Johnny Podres,https://www.baseball-almanac.com/players/player.php?p=podrejo01,Los Angeles,,1961,National League,Winning Percentage,.783,pitcher,1
+Joey Jay,https://www.baseball-almanac.com/players/player.php?p=jayjo01,Cincinnati,,1961,National League,Wins,25,pitcher,1
+Warren Spahn,https://www.baseball-almanac.com/players/player.php?p=spahnwa01,Milwaukee,,1961,National League,Wins,25,pitcher,1

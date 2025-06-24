@@ -1,0 +1,375 @@
+year,league,division,team,w,l,wp,gb
+2000,National,Central,Pittsburgh Pirates,69,93,,"$28,928,333"
+2000,National,Central,Milwaukee Brewers,73,89,,"$36,505,333"
+2000,National,Central,Cincinnati Reds,85,77,,"$46,867,200"
+2000,National,Central,Houston Astros,72,90,,"$51,289,111"
+2000,National,Central,Chicago Cubs,65,97,,"$60,539,333"
+2000,National,Central,St. Louis Cardinals,95,67,,"$61,453,863"
+2000,National,East,Florida Marlins,79,82,,"$20,072,000"
+2000,National,East,Montreal Expos,67,95,,"$34,807,333"
+2000,National,East,Philadelphia Phillies,65,97,,"$47,308,000"
+2000,National,East,New York Mets,94,68,,"$79,509,776"
+2000,National,East,Atlanta Braves,95,67,,"$84,537,836"
+2000,National,West,San Francisco Giants,97,65,,"$53,737,826"
+2000,National,West,San Diego Padres,76,86,,"$54,821,000"
+2000,National,West,Colorado Rockies,82,80,,"$61,111,190"
+2000,National,West,Arizona Diamondbacks,85,77,,"$81,027,333"
+2000,National,West,Los Angeles Dodgers,86,76,,"$88,124,286"
+2001,National,Central,Milwaukee Brewers,68,94,,"$43,089,333"
+2001,National,Central,Cincinnati Reds,66,96,,"$45,227,882"
+2001,National,Central,Pittsburgh Pirates,62,100,,"$52,698,333"
+2001,National,Central,Houston Astros,93,69,,"$60,382,667"
+2001,National,Central,Chicago Cubs,88,74,,"$64,015,833"
+2001,National,Central,St. Louis Cardinals,93,69,,"$77,270,855"
+2001,National,East,Montreal Expos,68,94,,"$34,774,500"
+2001,National,East,Florida Marlins,76,86,,"$35,504,167"
+2001,National,East,Philadelphia Phillies,86,76,,"$41,664,167"
+2001,National,East,Atlanta Braves,88,74,,"$91,851,587"
+2001,National,East,New York Mets,82,80,,"$93,174,428"
+2001,National,West,San Diego Padres,79,83,,"$38,333,117"
+2001,National,West,San Francisco Giants,90,72,,"$63,332,667"
+2001,National,West,Colorado Rockies,73,89,,"$71,068,000"
+2001,National,West,Arizona Diamondbacks,92,70,,"$81,206,513"
+2001,National,West,Los Angeles Dodgers,86,76,,"$108,980,952"
+2002,National,Central,Pittsburgh Pirates,72,89,,"$42,323,598"
+2002,National,Central,Cincinnati Reds,78,84,,"$45,050,390"
+2002,National,Central,Milwaukee Brewers,56,106,,"$50,287,833"
+2002,National,Central,Houston Astros,84,78,,"$63,448,417"
+2002,National,Central,St. Louis Cardinals,97,65,,"$74,098,267"
+2002,National,Central,Chicago Cubs,67,95,,"$75,690,833"
+2002,National,East,Montreal Expos,83,79,,"$38,670,500"
+2002,National,East,Florida Marlins,79,83,,"$41,979,917"
+2002,National,East,Philadelphia Phillies,80,81,,"$57,955,000"
+2002,National,East,Atlanta Braves,101,59,,"$93,470,367"
+2002,National,East,New York Mets,75,86,,"$94,633,593"
+2002,National,West,San Diego Padres,66,96,,"$41,425,000"
+2002,National,West,Colorado Rockies,73,89,,"$56,851,043"
+2002,National,West,San Francisco Giants,95,66,,"$78,299,835"
+2002,National,West,Los Angeles Dodgers,92,70,,"$94,850,952"
+2002,National,West,Arizona Diamondbacks,98,64,,"$102,820,000"
+2003,National,Central,Milwaukee Brewers,68,94,,"$40,627,000"
+2003,National,Central,Pittsburgh Pirates,75,87,,"$54,812,429"
+2003,National,Central,Cincinnati Reds,69,93,,"$59,355,667"
+2003,National,Central,Houston Astros,87,75,,"$71,040,000"
+2003,National,Central,Chicago Cubs,88,74,,"$79,868,333"
+2003,National,Central,St. Louis Cardinals,85,77,,"$83,496,666"
+2003,National,East,Florida Marlins,91,71,,"$49,050,000"
+2003,National,East,Montreal Expos,83,79,,"$51,948,500"
+2003,National,East,Philadelphia Phillies,86,76,,"$70,780,000"
+2003,National,East,Atlanta Braves,101,61,,"$106,243,667"
+2003,National,East,New York Mets,66,95,,"$117,176,620"
+2003,National,West,San Diego Padres,64,98,,"$47,928,000"
+2003,National,West,Colorado Rockies,74,88,,"$67,179,667"
+2003,National,West,Arizona Diamondbacks,84,78,,"$80,640,333"
+2003,National,West,San Francisco Giants,100,61,,"$82,852,167"
+2003,National,West,Los Angeles Dodgers,85,77,,"$105,872,620"
+2004,National,Central,St. Louis Cardinals,105,57,.648,--
+2004,National,Central,Houston Astros,92,70,.568,13
+2004,National,Central,Chicago Cubs,89,73,.549,16
+2004,National,Central,Cincinnati Reds,76,86,.469,29
+2004,National,Central,Pittsburgh Pirates,72,89,.447,32½
+2004,National,Central,Milwaukee Brewers,67,94,.416,37½
+2004,National,East,Atlanta Braves,96,66,.593,--
+2004,National,East,Philadelphia Phillies,86,76,.531,10
+2004,National,East,Florida Marlins,83,79,.512,13
+2004,National,East,New York Mets,71,91,.438,25
+2004,National,East,Montreal Expos,67,95,.414,29
+2004,National,West,Los Angeles Dodgers,93,69,.574,--
+2004,National,West,San Francisco Giants,91,71,.562,2
+2004,National,West,San Diego Padres,87,75,.537,6
+2004,National,West,Colorado Rockies,68,94,.420,25
+2004,National,West,Arizona Diamondbacks,51,111,.315,42
+2005,National,Central,St. Louis Cardinals,100,62,.617,--
+2005,National,Central,Houston Astros,89,73,.549,11
+2005,National,Central,Milwaukee Brewers,81,81,.500,19
+2005,National,Central,Chicago Cubs,79,83,.488,21
+2005,National,Central,Cincinnati Reds,73,89,.451,27
+2005,National,Central,Pittsburgh Pirates,67,95,.414,33
+2005,National,East,Atlanta Braves,90,72,.556,--
+2005,National,East,Philadelphia Phillies,88,74,.543,2
+2005,National,East,Florida Marlins,83,79,.512,7
+2005,National,East,New York Mets,83,79,.512,7
+2005,National,East,Washington Nationals,81,81,.500,9
+2005,National,West,San Diego Padres,82,80,.506,--
+2005,National,West,Arizona Diamondbacks,77,85,.475,5
+2005,National,West,San Francisco Giants,75,87,.463,7
+2005,National,West,Los Angeles Dodgers,71,91,.438,11
+2005,National,West,Colorado Rockies,67,95,.414,15
+2006,National,Central,St. Louis Cardinals,83,78,.516,--
+2006,National,Central,Houston Astros,82,80,.506,1½
+2006,National,Central,Cincinnati Reds,80,82,.494,3½
+2006,National,Central,Milwaukee Brewers,75,87,.463,8½
+2006,National,Central,Pittsburgh Pirates,67,95,.414,16½
+2006,National,Central,Chicago Cubs,66,96,.407,17½
+2006,National,East,New York Mets,97,65,.599,--
+2006,National,East,Philadelphia Phillies,85,77,.525,12
+2006,National,East,Atlanta Braves,79,83,.488,18
+2006,National,East,Florida Marlins,78,84,.481,19
+2006,National,East,Washington Nationals,71,91,.438,26
+2006,National,West,San Diego Padres,88,74,.543,--
+2006,National,West,Los Angeles Dodgers,88,74,.543,--
+2006,National,West,San Francisco Giants,76,85,.472,11½
+2006,National,West,Arizona Diamondbacks,76,86,.469,12
+2006,National,West,Colorado Rockies,76,86,.469,12
+2007,National,Central,Chicago Cubs,85,77,.525,--
+2007,National,Central,Milwaukee Brewers,83,79,.512,2
+2007,National,Central,St. Louis Cardinals,78,84,.481,7
+2007,National,Central,Houston Astros,73,89,.451,12
+2007,National,Central,Cincinnati Reds,72,90,.444,13
+2007,National,Central,Pittsburgh Pirates,68,94,.420,17
+2007,National,East,Philadelphia Phillies,89,73,.549,--
+2007,National,East,New York Mets,88,74,.543,1
+2007,National,East,Atlanta Braves,84,78,.519,5
+2007,National,East,Washington Nationals,73,89,.451,16
+2007,National,East,Florida Marlins,71,91,.438,18
+2007,National,West,Arizona Diamondbacks,90,72,.556,--
+2007,National,West,Colorado Rockies,90,73,.552,½
+2007,National,West,San Diego Padres,89,74,.546,1½
+2007,National,West,Los Angeles Dodgers,82,80,.506,8
+2007,National,West,San Francisco Giants,71,91,.438,19
+2008,National,Central,Chicago Cubs,97,64,.602,--
+2008,National,Central,Milwaukee Brewers,90,72,.556,7½
+2008,National,Central,Houston Astros,86,75,.534,11
+2008,National,Central,St. Louis Cardinals,86,76,.531,11½
+2008,National,Central,Cincinnati Reds,74,88,.457,23½
+2008,National,Central,Pittsburgh Pirates,67,95,.414,30½
+2008,National,East,Philadelphia Phillies,92,70,.568,--
+2008,National,East,New York Mets,89,73,.549,3
+2008,National,East,Florida Marlins,84,77,.522,7½
+2008,National,East,Atlanta Braves,72,90,.444,20
+2008,National,East,Washington Nationals,59,102,.366,32½
+2008,National,West,Los Angeles Dodgers,84,78,.519,--
+2008,National,West,Arizona Diamondbacks,82,80,.506,2
+2008,National,West,Colorado Rockies,74,88,.457,10
+2008,National,West,San Francisco Giants,72,90,.444,12
+2008,National,West,San Diego Padres,63,99,.389,21
+2009,National,Central,St. Louis Cardinals,91,71,.562,--
+2009,National,Central,Chicago Cubs,83,78,.516,7½
+2009,National,Central,Milwaukee Brewers,80,82,.494,11
+2009,National,Central,Cincinnati Reds,78,84,.481,13
+2009,National,Central,Houston Astros,74,88,.457,17
+2009,National,Central,Pittsburgh Pirates,62,99,.385,28½
+2009,National,East,Philadelphia Phillies,93,69,.574,--
+2009,National,East,Florida Marlins,87,75,.537,6
+2009,National,East,Atlanta Braves,86,76,.531,7
+2009,National,East,New York Mets,70,92,.432,23
+2009,National,East,Washington Nationals,59,103,.364,34
+2009,National,West,Los Angeles Dodgers,95,67,.586,--
+2009,National,West,Colorado Rockies,92,70,.568,3
+2009,National,West,San Francisco Giants,88,74,.543,7
+2009,National,West,San Diego Padres,75,87,.463,20
+2009,National,West,Arizona Diamondbacks,70,92,.432,25
+2010,National,Central,Cincinnati Reds,91,71,.562,--
+2010,National,Central,St. Louis Cardinals,86,76,.531,5
+2010,National,Central,Milwaukee Brewers,77,85,.475,14
+2010,National,Central,Houston Astros,76,86,.469,15
+2010,National,Central,Chicago Cubs,75,87,.463,16
+2010,National,Central,Pittsburgh Pirates,57,105,.352,34
+2010,National,East,Philadelphia Phillies,97,65,.599,--
+2010,National,East,Atlanta Braves,91,71,.562,6
+2010,National,East,Florida Marlins,80,82,.494,17
+2010,National,East,New York Mets,79,83,.488,18
+2010,National,East,Washington Nationals,69,93,.426,28
+2010,National,West,San Francisco Giants,92,70,.568,--
+2010,National,West,San Diego Padres,90,72,.556,2
+2010,National,West,Colorado Rockies,83,79,.512,9
+2010,National,West,Los Angeles Dodgers,80,82,.494,12
+2010,National,West,Arizona Diamondbacks,65,97,.401,27
+2011,National,Central,Milwaukee Brewers,96,66,.593,--
+2011,National,Central,St. Louis Cardinals,90,72,.556,6
+2011,National,Central,Cincinnati Reds,79,83,.488,17
+2011,National,Central,Pittsburgh Pirates,72,90,.444,24
+2011,National,Central,Chicago Cubs,71,91,.438,25
+2011,National,Central,Houston Astros,56,106,.346,40
+2011,National,East,Philadelphia Phillies,102,60,.630,--
+2011,National,East,Atlanta Braves,89,73,.549,13
+2011,National,East,Washington Nationals,80,81,.497,21½
+2011,National,East,New York Mets,77,85,.475,25
+2011,National,East,Florida Marlins,72,90,.444,30
+2011,National,West,Arizona Diamondbacks,94,68,.580,--
+2011,National,West,San Francisco Giants,86,76,.531,8
+2011,National,West,Los Angeles Dodgers,82,79,.509,11½
+2011,National,West,Colorado Rockies,73,89,.451,21
+2011,National,West,San Diego Padres,71,91,.438,23
+2012,National,Central,Cincinnati Reds,97,65,.599,--
+2012,National,Central,St. Louis Cardinals,88,74,.543,9
+2012,National,Central,Milwaukee Brewers,83,79,.512,14
+2012,National,Central,Pittsburgh Pirates,79,83,.488,18
+2012,National,Central,Chicago Cubs,61,101,.377,36
+2012,National,Central,Houston Astros,55,107,.340,42
+2012,National,East,Washington Nationals,98,64,.605,--
+2012,National,East,Atlanta Braves,94,68,.580,4
+2012,National,East,Philadelphia Phillies,81,81,.500,17
+2012,National,East,New York Mets,74,88,.457,24
+2012,National,East,Miami Marlins,69,93,.426,29
+2012,National,West,San Francisco Giants,94,68,.580,--
+2012,National,West,Los Angeles Dodgers,86,76,.531,8
+2012,National,West,Arizona Diamondbacks,81,81,.500,13
+2012,National,West,San Diego Padres,76,86,.469,18
+2012,National,West,Colorado Rockies,64,98,.395,30
+2013,National,Central,St. Louis Cardinals,97,65,.599,--
+2013,National,Central,Pittsburgh Pirates,94,68,.580,3
+2013,National,Central,Cincinnati Reds,90,72,.556,7
+2013,National,Central,Milwaukee Brewers,74,88,.457,23
+2013,National,Central,Chicago Cubs,66,96,,31
+2013,National,East,Atlanta Braves,96,66,.593,--
+2013,National,East,Washington Nationals,86,76,.531,10
+2013,National,East,New York Mets,74,88,.457,22
+2013,National,East,Philadelphia Phillies,73,89,.451,23
+2013,National,East,Miami Marlins,62,100,.383,34
+2013,National,West,Los Angeles Dodgers,92,70,.568,--
+2013,National,West,Arizona Diamondbacks,81,81,.500,11
+2013,National,West,San Diego Padres,76,86,.469,16
+2013,National,West,San Francisco Giants,76,86,.469,16
+2013,National,West,Colorado Rockies,74,88,.457,18
+2014,National,Central,St. Louis Cardinals,90,72,.556,--
+2014,National,Central,Pittsburgh Pirates,88,74,.543,2
+2014,National,Central,Milwaukee Brewers,82,80,.506,8
+2014,National,Central,Cincinnati Reds,76,86,.469,14
+2014,National,Central,Chicago Cubs,73,89,.451,17
+2014,National,East,Washington Nationals,96,66,.593,--
+2014,National,East,Atlanta Braves,79,83,.488,17
+2014,National,East,New York Mets,79,83,.488,17
+2014,National,East,Miami Marlins,77,85,.475,19
+2014,National,East,Philadelphia Phillies,73,89,.451,23
+2014,National,West,Los Angeles Dodgers,94,68,.580,--
+2014,National,West,San Francisco Giants,88,74,.543,6
+2014,National,West,San Diego Padres,77,85,.475,17
+2014,National,West,Colorado Rockies,66,96,.407,28
+2014,National,West,Arizona Diamondbacks,64,98,.395,30
+2015,National,Central,St. Louis Cardinals,100,62,.617,--
+2015,National,Central,Pittsburgh Pirates,98,64,.605,0
+2015,National,Central,Chicago Cubs,97,65,.599,3
+2015,National,Central,Milwaukee Brewers,68,94,.420,32
+2015,National,Central,Cincinnati Reds,64,98,.395,36
+2015,National,East,New York Mets,90,72,.556,--
+2015,National,East,Washington Nationals,83,79,.512,7
+2015,National,East,Miami Marlins,71,91,.438,19
+2015,National,East,Atlanta Braves,67,95,.414,23
+2015,National,East,Philadelphia Phillies,63,99,.389,27
+2015,National,West,Los Angeles Dodgers,92,70,.568,--
+2015,National,West,San Francisco Giants,84,78,.519,8
+2015,National,West,Arizona Diamondbacks,79,83,.488,13
+2015,National,West,San Diego Padres,74,88,.457,18
+2015,National,West,Colorado Rockies,68,94,.420,24
+2016,National,Central,Chicago Cubs,103,58,.640,--
+2016,National,Central,St. Louis Cardinals,86,76,.531,17.5
+2016,National,Central,Pittsburgh Pirates,78,83,.484,25
+2016,National,Central,Milwaukee Brewers,73,89,.451,30.5
+2016,National,Central,Cincinnati Reds,68,94,.420,35.5
+2016,National,East,Washington Nationals,95,67,.586,--
+2016,National,East,New York Mets,87,75,.537,8
+2016,National,East,Miami Marlins,79,82,.491,15.5
+2016,National,East,Philadelphia Phillies,71,91,.438,24
+2016,National,East,Atlanta Braves,68,93,.422,26.5
+2016,National,West,Los Angeles Dodgers,91,71,.562,--
+2016,National,West,San Francisco Giants,87,75,.537,4
+2016,National,West,Colorado Rockies,75,87,.463,16
+2016,National,West,Arizona Diamondbacks,69,93,.426,22
+2016,National,West,San Diego Padres,68,94,.420,23
+2017,National,Central,Chicago Cubs,92,70,.568,--
+2017,National,Central,Milwaukee Brewers,86,76,.531,6.0
+2017,National,Central,St. Louis Cardinals,83,79,.512,9.0
+2017,National,Central,Pittsburgh Pirates,75,87,.463,17.0
+2017,National,Central,Cincinnati Reds,68,94,.420,24.0
+2017,National,East,Washington Nationals,97,65,.599,--
+2017,National,East,Miami Marlins,77,85,.475,20.0
+2017,National,East,Atlanta Braves,72,90,.444,24.0
+2017,National,East,New York Mets,70,92,.432,27.0
+2017,National,East,Philadelphia Phillies,66,96,.407,31.0
+2017,National,West,Los Angeles Dodgers,104,58,.642,--
+2017,National,West,Arizona Diamondbacks,93,69,.574,11.0
+2017,National,West,Colorado Rockies,87,75,.537,17.0
+2017,National,West,San Diego Padres,71,91,.438,33.0
+2017,National,West,San Francisco Giants,64,98,.395,40.0
+2018,National,Central,Milwaukee Brewers,96,67,.589,--
+2018,National,Central,Chicago Cubs,95,68,.583,1.0
+2018,National,Central,St. Louis Cardinals,88,74,.543,7.5
+2018,National,Central,Pittsburgh Pirates,82,79,.509,13.0
+2018,National,Central,Cincinnati Reds,67,95,.414,28.5
+2018,National,East,Atlanta Braves,90,72,.556,--
+2018,National,East,Washington Nationals,82,80,.506,8.0
+2018,National,East,Philadelphia Phillies,80,82,.494,10.0
+2018,National,East,New York Mets,77,85,.475,13.0
+2018,National,East,Miami Marlins,63,98,.391,26.5
+2018,National,West,Los Angeles Dodgers,92,71,.564,--
+2018,National,West,Colorado Rockies,91,72,.558,1.0
+2018,National,West,Arizona Diamondbacks,82,80,.506,9.5
+2018,National,West,San Francisco Giants,73,89,.451,18.5
+2018,National,West,San Diego Padres,66,96,.407,24.5
+2019,National,Central,St. Louis Cardinals,91,71,.562,--
+2019,National,Central,Milwaukee Brewers,89,73,.549,2.0
+2019,National,Central,Chicago Cubs,84,78,.519,7.0
+2019,National,Central,Cincinnati Reds,75,87,.463,16.0
+2019,National,Central,Pittsburgh Pirates,69,93,.426,22.0
+2019,National,East,Atlanta Braves,97,65,.599,--
+2019,National,East,Washington Nationals,93,69,.574,4.0
+2019,National,East,New York Mets,86,76,.531,11.0
+2019,National,East,Philadelphia Phillies,81,81,.500,16.0
+2019,National,East,Miami Marlins,57,105,.352,40.0
+2019,National,West,Los Angeles Dodgers,106,56,.654,--
+2019,National,West,Arizona Diamondbacks,85,77,.525,21.0
+2019,National,West,San Francisco Giants,77,85,.475,29.0
+2019,National,West,Colorado Rockies,71,91,.438,35.0
+2019,National,West,San Diego Padres,70,92,.432,36.0
+2020,National,West,Los Angeles Dodgers,43,17,.717,--
+2021,National,Central,Milwaukee Brewers,95,67,.586,--
+2021,National,Central,St. Louis Cardinals,90,72,.556,5.0
+2021,National,Central,Cincinnati Reds,83,79,.512,12.0
+2021,National,Central,Chicago Cubs,71,91,.438,24.0
+2021,National,Central,Pittsburgh Pirates,61,101,.377,34.0
+2021,National,East,Atlanta Braves,88,73,.547,--
+2021,National,East,Philadelphia Phillies,82,80,.506,6.5
+2021,National,East,New York Mets,77,85,.475,11.5
+2021,National,East,Miami Marlins,67,95,.414,21.5
+2021,National,East,Washington Nationals,65,97,.401,23.5
+2021,National,West,San Francisco Giants,107,55,.660,--
+2021,National,West,Los Angeles Dodgers,106,56,.654,1.0
+2021,National,West,San Diego Padres,79,83,.488,28.0
+2021,National,West,Colorado Rockies,74,87,.460,32.5
+2021,National,West,Arizona Diamondbacks,52,110,.321,55.0
+2022,National,Central,St. Louis Cardinals,93,69,.574,-
+2022,National,Central,Milwaukee Brewers,86,76,.531,7.0
+2022,National,Central,Chicago Cubs,74,88,.457,19.0
+2022,National,Central,Cincinnati Reds,62,100,.383,31.0
+2022,National,Central,Pittsburgh Pirates,62,100,.383,31.0
+2022,National,East,Atlanta Braves,101,61,.623,-
+2022,National,East,New York Mets,101,61,.623,-
+2022,National,East,Philadelphia Phillies,87,75,.537,14.0
+2022,National,East,Miami Marlins,69,93,.426,32.0
+2022,National,East,Washington Nationals,55,107,.340,46.0
+2022,National,West,Los Angeles Dodgers,51,0,,-
+2022,National,West,San Diego Padres,89,73,.549,22.0
+2022,National,West,San Francisco Giants,81,81,.500,30.0
+2022,National,West,Arizona Diamondbacks,74,88,.457,37.0
+2022,National,West,Colorado Rockies,68,94,.420,43.0
+2023,National,Central,Milwaukee Brewers,92,70,.568,-
+2023,National,Central,Chicago Cubs,83,79,.512,9.0
+2023,National,Central,Cincinnati Reds,82,80,.506,10.0
+2023,National,Central,Pittsburgh Pirates,76,86,.469,16.0
+2023,National,Central,St. Louis Cardinals,71,91,.438,21.0
+2023,National,East,Atlanta Braves,104,58,.642,-
+2023,National,East,Philadelphia Phillies,90,72,.556,14.0
+2023,National,East,Miami Marlins,84,78,.519,20.0
+2023,National,East,New York Mets,75,87,.463,29.0
+2023,National,East,Washington Nationals,71,91,.438,33.0
+2023,National,West,Los Angeles Dodgers,100,62,.617,-
+2023,National,West,Arizona Diamondbacks,84,78,.519,16.0
+2023,National,West,San Diego Padres,82,80,.506,18.0
+2023,National,West,San Francisco Giants,79,83,.488,21.0
+2023,National,West,Colorado Rockies,59,103,.364,41.0
+2024,National,Central,Milwaukee Brewers,93,69,.574,-
+2024,National,Central,Chicago Cubs,83,79,.512,10.0
+2024,National,Central,St. Louis Cardinals,83,79,.512,10.0
+2024,National,Central,Cincinnati Reds,77,85,.475,16.0
+2024,National,Central,Pittsburgh Pirates,76,86,.469,17.0
+2024,National,East,Philadelphia Phillies,95,67,.586,-
+2024,National,East,Atlanta Braves,89,73,.549,6.0
+2024,National,East,New York Mets,89,73,.549,6.0
+2024,National,East,Washington Nationals,71,91,.438,24.0
+2024,National,East,Miami Marlins,62,100,.383,33.0
+2024,National,West,Los Angeles Dodgers,98,64,.605,-
+2024,National,West,San Diego Padres,93,69,.574,5.0
+2024,National,West,Arizona Diamondbacks,89,73,.549,9.0
+2024,National,West,San Francisco Giants,80,82,.494,18.0
+2024,National,West,Colorado Rockies,61,101,.377,37.0

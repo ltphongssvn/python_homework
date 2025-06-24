@@ -1,0 +1,8 @@
+category,test,status,details,timestamp
+Data Types,Table check for al_player_review,FAIL,Query failed: no such table: al_player_review,2025-06-20 19:43:18.814753
+Data Types,Table check for nl_player_review,FAIL,Query failed: no such table: nl_player_review,2025-06-20 19:43:18.815753
+Data Types,Table check for al_pitcher_review,FAIL,Query failed: no such table: al_pitcher_review,2025-06-20 19:43:18.815753
+Data Types,Table check for nl_pitcher_review,FAIL,Query failed: no such table: nl_pitcher_review,2025-06-20 19:43:18.815753
+Data Types,Table check for al_team_standings,FAIL,Query failed: no such table: al_team_standings,2025-06-20 19:43:18.815753
+Data Types,Table check for nl_team_standings,FAIL,Query failed: no such table: nl_team_standings,2025-06-20 19:43:18.815753
+Naming Consistency,Team names,PASS,,2025-06-20 19:43:18.816753

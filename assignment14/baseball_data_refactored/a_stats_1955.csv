@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1955,American League,Base on Balls,113,player,1
+Al Kaline,https://www.baseball-almanac.com/players/player.php?p=kalinal01,Detroit,,1955,American League,Batting Average,.340,player,1
+Harvey Kuenn,https://www.baseball-almanac.com/players/player.php?p=kuennha01,Detroit,,1955,American League,Doubles,38,player,1
+Al Kaline,https://www.baseball-almanac.com/players/player.php?p=kalinal01,Detroit,,1955,American League,Hits,200,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1955,American League,Home Runs,37,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1955,American League,On Base Percentage,.433,player,1
+Ray Boone,https://www.baseball-almanac.com/players/player.php?p=boonera01,Detroit,,1955,American League,RBI,116,player,1
+Jackie Jensen,https://www.baseball-almanac.com/players/player.php?p=jenseja01,Boston,,1955,American League,RBI,116,player,1
+Al Smith,https://www.baseball-almanac.com/players/player.php?p=smithal04,Cleveland,,1955,American League,Runs,123,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1955,American League,Slugging Average,.611,player,1
+Jim Rivera,https://www.baseball-almanac.com/players/player.php?p=riverji01,Chicago,,1955,American League,Stolen Bases,25,player,1
+Al Kaline,https://www.baseball-almanac.com/players/player.php?p=kalinal01,Detroit,,1955,American League,Total Bases,321,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1955,American League,Triples,11,player,1
+Whitey Ford,https://www.baseball-almanac.com/players/player.php?p=fordwh01,New York,,1955,American League,Complete Games,18,pitcher,1
+Billy Pierce,https://www.baseball-almanac.com/players/player.php?p=piercbi02,Chicago,,1955,American League,ERA,1.97,pitcher,1
+Ray Narleski,https://www.baseball-almanac.com/players/player.php?p=narlera01,Cleveland,,1955,American League,Games,60,pitcher,1
+Ray Narleski,https://www.baseball-almanac.com/players/player.php?p=narlera01,Cleveland,,1955,American League,Saves,19,pitcher,1
+Billy Hoeft,https://www.baseball-almanac.com/players/player.php?p=hoeftbi01,Detroit,,1955,American League,Shutouts,7,pitcher,1
+Herb Score,https://www.baseball-almanac.com/players/player.php?p=scorehe01,Cleveland,,1955,American League,Strikeouts,245,pitcher,1
+Tommy Byrne,https://www.baseball-almanac.com/players/player.php?p=byrneto01,New York,,1955,American League,Winning Percentage,.762,pitcher,1
+Whitey Ford,https://www.baseball-almanac.com/players/player.php?p=fordwh01,New York,,1955,American League,Wins,18,pitcher,1
+Bob Lemon,https://www.baseball-almanac.com/players/player.php?p=lemonbo01,Cleveland,,1955,American League,Wins,18,pitcher,1
+Frank Sullivan,https://www.baseball-almanac.com/players/player.php?p=sullifr01,Boston,,1955,American League,Wins,18,pitcher,1

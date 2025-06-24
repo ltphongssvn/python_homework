@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Adam Dunn,https://www.baseball-almanac.com/players/player.php?p=dunnad01,Chicago,,2012,American League,Base on Balls,105,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2012,American League,Batting Average,.330,player,1
+Alex Gordon,https://www.baseball-almanac.com/players/player.php?p=gordoal01,Kansas City,,2012,American League,Doubles,51,player,1
+Derek Jeter,https://www.baseball-almanac.com/players/player.php?p=jeterde01,New York,,2012,American League,Hits,216,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2012,American League,Home Runs,44,player,1
+Joe Mauer,https://www.baseball-almanac.com/players/player.php?p=mauerjo01,Minnesota,,2012,American League,On Base Percentage,.416,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2012,American League,RBI,139,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2012,American League,Runs,129,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2012,American League,Slugging Average,.606,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2012,American League,Stolen Bases,49,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2012,American League,Total Bases,377,player,1
+Austin Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksau01,Detroit,,2012,American League,Triples,10,player,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Detroit,,2012,American League,Complete Games,6,pitcher,1
+David Price,https://www.baseball-almanac.com/players/player.php?p=priceda01,Tampa Bay,,2012,American League,ERA,2.56,pitcher,1
+Boone Logan,https://www.baseball-almanac.com/players/player.php?p=loganbo02,New York,,2012,American League,Games,80,pitcher,1
+Jim Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsji04,Baltimore,,2012,American League,Saves,51,pitcher,1
+Felix Hernandez,https://www.baseball-almanac.com/players/player.php?p=hernafe02,Seattle,,2012,American League,Shutouts,5,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Detroit,,2012,American League,Strikeouts,239,pitcher,1
+David Price,https://www.baseball-almanac.com/players/player.php?p=priceda01,Tampa Bay,,2012,American League,Winning Percentage,.800,pitcher,1
+Jered Weaver,https://www.baseball-almanac.com/players/player.php?p=weaveje02,Los Angeles,,2012,American League,Winning Percentage,.800,pitcher,1
+David Price,https://www.baseball-almanac.com/players/player.php?p=priceda01,Tampa Bay,,2012,American League,Wins,20,pitcher,1
+Jered Weaver,https://www.baseball-almanac.com/players/player.php?p=weaveje02,Los Angeles,,2012,American League,Wins,20,pitcher,1

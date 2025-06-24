@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mel Ott,https://www.baseball-almanac.com/players/player.php?p=ottme01,New York,,1932,National League,Base on Balls,100,player,1
+Lefty O'Doul,https://www.baseball-almanac.com/players/player.php?p=odoule01,Brooklyn,,1932,National League,Batting Average,.368,player,1
+Paul Waner,https://www.baseball-almanac.com/players/player.php?p=wanerpa01,Pittsburgh,,1932,National League,Doubles,62,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1932,National League,Hits,226,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1932,National League,Home Runs,38,player,1
+Mel Ott,https://www.baseball-almanac.com/players/player.php?p=ottme01,New York,,1932,National League,Home Runs,38,player,1
+Mel Ott,https://www.baseball-almanac.com/players/player.php?p=ottme01,New York,,1932,National League,On Base Percentage,.424,player,1
+Don Hurst,https://www.baseball-almanac.com/players/player.php?p=hurstdo01,Philadelphia,,1932,National League,RBI,143,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1932,National League,Runs,152,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1932,National League,Slugging Average,.646,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1932,National League,Stolen Bases,20,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1932,National League,Total Bases,420,player,1
+Babe Herman,https://www.baseball-almanac.com/players/player.php?p=hermaba01,Cincinnati,,1932,National League,Triples,19,player,1
+Red Lucas,https://www.baseball-almanac.com/players/player.php?p=lucasre01,Cincinnati,,1932,National League,Complete Games,28,pitcher,1
+Lon Warneke,https://www.baseball-almanac.com/players/player.php?p=warnelo01,Chicago,,1932,National League,ERA,2.37,pitcher,1
+Larry French,https://www.baseball-almanac.com/players/player.php?p=frencla01,Pittsburgh,,1932,National League,Games,47,pitcher,1
+Jack Quinn,https://www.baseball-almanac.com/players/player.php?p=quinnja01,Brooklyn,,1932,National League,Saves,8,pitcher,1
+Dizzy Dean,https://www.baseball-almanac.com/players/player.php?p=deandi01,St. Louis,,1932,National League,Shutouts,4,pitcher,1
+Steve Swetonic,https://www.baseball-almanac.com/players/player.php?p=swetost01,Pittsburgh,,1932,National League,Shutouts,4,pitcher,1
+Lon Warneke,https://www.baseball-almanac.com/players/player.php?p=warnelo01,Chicago,,1932,National League,Shutouts,4,pitcher,1
+Dizzy Dean,https://www.baseball-almanac.com/players/player.php?p=deandi01,St. Louis,,1932,National League,Strikeouts,191,pitcher,1
+Lon Warneke,https://www.baseball-almanac.com/players/player.php?p=warnelo01,Chicago,,1932,National League,Winning Percentage,.786,pitcher,1
+Lon Warneke,https://www.baseball-almanac.com/players/player.php?p=warnelo01,Chicago,,1932,National League,Wins,22,pitcher,1

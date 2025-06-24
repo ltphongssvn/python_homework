@@ -1,0 +1,12 @@
+year,league,division,team,wins,losses,winning_percentage,games_back
+2022,American League,East,Tampa Bay Rays,86,76,0.5308641975308642,.531
+2022,American League,East,Boston Red Sox,78,84,0.48148148148148145,.481
+2022,American League,Central,Detroit Tigers,66,96,0.4074074074074074,.407
+2022,American League,West,Houston Astros,106,56,0.654320987654321,.654
+2022,American League,West,Texas Rangers,68,94,0.41975308641975306,.420
+2022,National League,Central,Chicago Cubs,74,88,0.4567901234567901,.457
+2022,National League,Central,Cincinnati Reds,62,100,0.38271604938271603,.383
+2022,National League,Central,Pittsburgh Pirates,62,100,0.38271604938271603,.383
+2022,National League,West,San Diego Padres,89,73,0.5493827160493827,.549
+2022,National League,West,San Francisco Giants,81,81,0.5,.500
+2022,National League,West,Arizona Diamondbacks,74,88,0.4567901234567901,.457

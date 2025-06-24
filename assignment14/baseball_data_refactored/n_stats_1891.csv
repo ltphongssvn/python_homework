@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Philadelphia,,1891,National League,Base on Balls,102,player,1
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Philadelphia,,1891,National League,Batting Average,.340,player,1
+Mike Griffin,https://www.baseball-almanac.com/players/player.php?p=griffmi01,Brooklyn,,1891,National League,Doubles,36,player,1
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Philadelphia,,1891,National League,Hits,179,player,1
+Harry Stovey,https://www.baseball-almanac.com/players/player.php?p=stoveha01,Boston,,1891,National League,Home Runs,16,player,1
+Mike Tiernan,https://www.baseball-almanac.com/players/player.php?p=tiernmi01,New York,,1891,National League,Home Runs,16,player,1
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Philadelphia,,1891,National League,On Base Percentage,.453,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1891,National League,RBI,120,player,1
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Philadelphia,,1891,National League,Runs,141,player,1
+Harry Stovey,https://www.baseball-almanac.com/players/player.php?p=stoveha01,Boston,,1891,National League,Slugging Average,.498,player,1
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Philadelphia,,1891,National League,Stolen Bases,111,player,1
+Harry Stovey,https://www.baseball-almanac.com/players/player.php?p=stoveha01,Boston,,1891,National League,Total Bases,271,player,1
+Harry Stovey,https://www.baseball-almanac.com/players/player.php?p=stoveha01,Boston,,1891,National League,Triples,20,player,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1891,National League,Complete Games,56,pitcher,1
+John Ewing,https://www.baseball-almanac.com/players/player.php?p=ewingjo01,New York,,1891,National League,ERA,2.27,pitcher,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1891,National League,Games,66,pitcher,1
+John Clarkson,https://www.baseball-almanac.com/players/player.php?p=clarkjo01,Boston,,1891,National League,Saves,3,pitcher,1
+Kid Nichols,https://www.baseball-almanac.com/players/player.php?p=nichoki01,Boston,,1891,National League,Saves,3,pitcher,1
+Amos Rusie,https://www.baseball-almanac.com/players/player.php?p=rusieam01,New York,,1891,National League,Shutouts,6,pitcher,1
+Amos Rusie,https://www.baseball-almanac.com/players/player.php?p=rusieam01,New York,,1891,National League,Strikeouts,337,pitcher,1
+John Ewing,https://www.baseball-almanac.com/players/player.php?p=ewingjo01,New York,,1891,National League,Winning Percentage,.724,pitcher,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1891,National League,Wins,44,pitcher,1

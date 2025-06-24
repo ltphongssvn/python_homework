@@ -1,0 +1,7 @@
+filename,import_date,status,original_rows,duplicates_removed,missing_values_handled,malformed_rows_fixed,records_imported,records_skipped,errors
+player_statistics.csv,2025-06-21 06:51:48,failed,0,0,0,0,0,0,1
+pitcher_statistics.csv,2025-06-21 06:51:48,failed,0,0,0,0,0,0,1
+team_standings.csv,2025-06-21 06:51:48,failed,0,0,0,0,0,0,1
+player_statistics.csv,2025-06-21 06:20:09,failed,0,0,0,0,0,0,1
+pitcher_statistics.csv,2025-06-21 06:20:09,failed,0,0,0,0,0,0,1
+team_standings.csv,2025-06-21 06:20:09,failed,0,0,0,0,0,0,1

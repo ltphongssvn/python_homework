@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Ray Chapman,https://www.baseball-almanac.com/players/player.php?p=chapmra01,Cleveland,,1918,American League,Base on Balls,84,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1918,American League,Batting Average,.382,player,1
+Tris Speaker,https://www.baseball-almanac.com/players/player.php?p=speaktr01,Cleveland,,1918,American League,Doubles,33,player,1
+George Burns,https://www.baseball-almanac.com/players/player.php?p=burnsge02,Philadelphia,,1918,American League,Hits,178,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1918,American League,Home Runs,11,player,1
+Tilly Walker,https://www.baseball-almanac.com/players/player.php?p=walketi01,Philadelphia,,1918,American League,Home Runs,11,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1918,American League,On Base Percentage,.440,player,1
+Bobby Veach,https://www.baseball-almanac.com/players/player.php?p=veachbo01,Detroit,,1918,American League,RBI,78,player,1
+Ray Chapman,https://www.baseball-almanac.com/players/player.php?p=chapmra01,Cleveland,,1918,American League,Runs,84,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1918,American League,Slugging Average,.555,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1918,American League,Stolen Bases,45,player,1
+George Burns,https://www.baseball-almanac.com/players/player.php?p=burnsge02,Philadelphia,,1918,American League,Total Bases,236,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1918,American League,Triples,14,player,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,Boston,,1918,American League,Complete Games,30,pitcher,1
+Scott Perry,https://www.baseball-almanac.com/players/player.php?p=perrysc01,Philadelphia,,1918,American League,Complete Games,30,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1918,American League,ERA,1.27,pitcher,1
+Jim Bagby,https://www.baseball-almanac.com/players/player.php?p=bagbyji01,Cleveland,,1918,American League,Games,45,pitcher,1
+George Mogridge,https://www.baseball-almanac.com/players/player.php?p=mogrige01,New York,,1918,American League,Games,45,pitcher,1
+George Mogridge,https://www.baseball-almanac.com/players/player.php?p=mogrige01,New York,,1918,American League,Saves,7,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1918,American League,Shutouts,8,pitcher,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,Boston,,1918,American League,Shutouts,8,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1918,American League,Strikeouts,162,pitcher,1
+Sam Jones,https://www.baseball-almanac.com/players/player.php?p=jonessa01,Boston,,1918,American League,Winning Percentage,.762,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1918,American League,Wins,23,pitcher,1

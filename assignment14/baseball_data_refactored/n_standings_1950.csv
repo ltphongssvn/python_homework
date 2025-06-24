@@ -1,0 +1,9 @@
+year,league,division,team,wins,losses,winning_percentage,games_back,ties,payroll
+1950,National League,League,Philadelphia Phillies,91,63,0.591,.591,0,
+1950,National League,League,Brooklyn Dodgers,89,65,0.578,.578,0,
+1950,National League,League,New York Giants,86,68,0.558,.558,0,
+1950,National League,League,Boston Braves,83,71,0.539,.539,0,
+1950,National League,League,St. Louis Cardinals,78,75,0.51,.510,0,
+1950,National League,League,Cincinnati Reds,66,87,0.431,.431,0,
+1950,National League,League,Chicago Cubs,64,89,0.418,.418,0,
+1950,National League,League,Pittsburgh Pirates,57,96,0.373,.373,0,

@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Carlos Santana,https://www.baseball-almanac.com/players/player.php?p=santaca01,Cleveland,,2014,American League,Base on Balls,113,player,1
+Jose Altuve,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Houston,,2014,American League,Batting Average,.341,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2014,American League,Doubles,52,player,1
+Jose Altuve,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Houston,,2014,American League,Hits,225,player,1
+Nelson Cruz,https://www.baseball-almanac.com/players/player.php?p=cruzne02,Baltimore,,2014,American League,Home Runs,40,player,1
+Victor Martinez,https://www.baseball-almanac.com/players/player.php?p=martivi01,Detroit,,2014,American League,On Base Percentage,.409,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2014,American League,RBI,111,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2014,American League,Runs,115,player,1
+Jose Abreu,https://www.baseball-almanac.com/players/player.php?p=abreujo02,Chicago,,2014,American League,Slugging Average,.581,player,1
+Jose Altuve,https://www.baseball-almanac.com/players/player.php?p=altuvjo01,Chicago,,2014,American League,Stolen Bases,56,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2014,American League,Total Bases,338,player,1
+Michael Bourn,https://www.baseball-almanac.com/players/player.php?p=bournmi01,Cleveland,,2014,American League,Triples,10,player,1
+Adam Eaton,https://www.baseball-almanac.com/players/player.php?p=eatonad01,Chicago,,2014,American League,Triples,10,player,1
+Dallas Keuchel,https://www.baseball-almanac.com/players/player.php?p=keuchda01,Houston,,2014,American League,Complete Games,5,pitcher,1
+Felix Hernandez,https://www.baseball-almanac.com/players/player.php?p=hernafe02,Seattle,,2014,American League,ERA,2.14,pitcher,1
+Bryan Shaw,https://www.baseball-almanac.com/players/player.php?p=shawbr01,Cleveland,,2014,American League,Games,80,pitcher,1
+Fernando Rodney,https://www.baseball-almanac.com/players/player.php?p=rodnefe01,Seattle,,2014,American League,Saves,48,pitcher,1
+Rick Porcello,https://www.baseball-almanac.com/players/player.php?p=porceri01,Detroit,,2014,American League,Shutouts,3,pitcher,1
+David Price,https://www.baseball-almanac.com/players/player.php?p=priceda01,Tampa Bay / Detroit,,2014,American League,Strikeouts,271,pitcher,1
+Max Scherzer,https://www.baseball-almanac.com/players/player.php?p=scherma01,Detroit,,2014,American League,Winning Percentage,.783,pitcher,1
+Corey Kluber,https://www.baseball-almanac.com/players/player.php?p=klubeco01,Texas,,2014,American League,Wins,18,pitcher,1
+Max Scherzer,https://www.baseball-almanac.com/players/player.php?p=scherma01,Detroit,,2014,American League,Wins,18,pitcher,1
+Jered Weaver,https://www.baseball-almanac.com/players/player.php?p=weaveje02,Los Angeles,,2014,American League,Wins,18,pitcher,1

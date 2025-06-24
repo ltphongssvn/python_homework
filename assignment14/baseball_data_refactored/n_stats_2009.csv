@@ -1,0 +1,27 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Adrian Gonzalez,https://www.baseball-almanac.com/players/player.php?p=gonzaad01,San Diego,,2009,National League,Base on Balls,119,player,1
+Hanley Ramirez,https://www.baseball-almanac.com/players/player.php?p=ramirha01,Florida,,2009,National League,Batting Average,.342,player,1
+Miguel Tejada,https://www.baseball-almanac.com/players/player.php?p=tejadmi01,Houston,,2009,National League,Doubles,46,player,1
+Ryan Braun,https://www.baseball-almanac.com/players/player.php?p=braunry01,Milwaukee,,2009,National League,Hits,203,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2009,National League,Home Runs,47,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2009,National League,On Base Percentage,.443,player,1
+Prince Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldpr01,Milwaukee,,2009,National League,RBI,141,player,1
+Ryan Howard,https://www.baseball-almanac.com/players/player.php?p=howarry01,Philadelphia,,2009,National League,RBI,141,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2009,National League,Runs,124,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2009,National League,Slugging Average,.658,player,1
+Michael Bourn,https://www.baseball-almanac.com/players/player.php?p=bournmi01,Houston,,2009,National League,Stolen Bases,61,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2009,National League,Total Bases,374,player,1
+Shane Victorino,https://www.baseball-almanac.com/players/player.php?p=victosh01,Philadelphia,,2009,National League,Triples,13,player,1
+Matt Cain,https://www.baseball-almanac.com/players/player.php?p=cainma01,San Francisco,,2009,National League,Complete Games,4,pitcher,1
+Tim Lincecum,https://www.baseball-almanac.com/players/player.php?p=linceti01,San Francisco,,2009,National League,Complete Games,4,pitcher,1
+Chris Carpenter,https://www.baseball-almanac.com/players/player.php?p=carpech01,St. Louis,,2009,National League,ERA,2.24,pitcher,1
+Pedro Feliciano,https://www.baseball-almanac.com/players/player.php?p=felicpe01,New York,,2009,National League,Games,88,pitcher,1
+Heath Bell,https://www.baseball-almanac.com/players/player.php?p=bellhe01,San Diego,,2009,National League,Saves,42,pitcher,1
+Bronson Arroyo,https://www.baseball-almanac.com/players/player.php?p=arroybr01,Cincinnati,,2009,National League,Shutouts,2,pitcher,1
+Cole Hamels,https://www.baseball-almanac.com/players/player.php?p=hamelco01,Philadelphia,,2009,National League,Shutouts,2,pitcher,1
+J.A. Happ,https://www.baseball-almanac.com/players/player.php?p=happja01,Philadelphia,,2009,National League,Shutouts,2,pitcher,1
+Tim Lincecum,https://www.baseball-almanac.com/players/player.php?p=linceti01,San Francisco,,2009,National League,Shutouts,2,pitcher,1
+Joel Pineiro,https://www.baseball-almanac.com/players/player.php?p=pineijo01,St. Louis,,2009,National League,Shutouts,2,pitcher,1
+Tim Lincecum,https://www.baseball-almanac.com/players/player.php?p=linceti01,San Francisco,,2009,National League,Strikeouts,261,pitcher,1
+Chris Carpenter,https://www.baseball-almanac.com/players/player.php?p=carpech01,St. Louis,,2009,National League,Winning Percentage,.810,pitcher,1
+Adam Wainwright,https://www.baseball-almanac.com/players/player.php?p=wainwad01,St. Louis,,2009,National League,Wins,19,pitcher,1

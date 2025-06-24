@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jack Graney,https://www.baseball-almanac.com/players/player.php?p=graneja01,Cleveland,,1917,American League,Base on Balls,94,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1917,American League,Batting Average,.383,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1917,American League,Doubles,44,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1917,American League,Hits,225,player,1
+Wally Pipp,https://www.baseball-almanac.com/players/player.php?p=pippwa01,New York,,1917,American League,Home Runs,9,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1917,American League,On Base Percentage,.444,player,1
+Bobby Veach,https://www.baseball-almanac.com/players/player.php?p=veachbo01,Detroit,,1917,American League,RBI,103,player,1
+Donie Bush,https://www.baseball-almanac.com/players/player.php?p=bushdo01,Detroit,,1917,American League,Runs,112,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1917,American League,Slugging Average,.570,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1917,American League,Stolen Bases,55,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1917,American League,Total Bases,335,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1917,American League,Triples,24,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1917,American League,Complete Games,35,pitcher,1
+Eddie Cicotte,https://www.baseball-almanac.com/players/player.php?p=cicoted01,Chicago,,1917,American League,ERA,1.53,pitcher,1
+Dave Danforth,https://www.baseball-almanac.com/players/player.php?p=danfoda01,Chicago,,1917,American League,Games,50,pitcher,1
+Dave Danforth,https://www.baseball-almanac.com/players/player.php?p=danfoda01,Chicago,,1917,American League,Saves,9,pitcher,1
+Stan Coveleski,https://www.baseball-almanac.com/players/player.php?p=covelst01,Cleveland,,1917,American League,Shutouts,9,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1917,American League,Strikeouts,188,pitcher,1
+Ed Klepfer,https://www.baseball-almanac.com/players/player.php?p=klepfed01,Cleveland,,1917,American League,Winning Percentage,.778,pitcher,1
+Eddie Cicotte,https://www.baseball-almanac.com/players/player.php?p=cicoted01,Chicago,,1917,American League,Wins,28,pitcher,1

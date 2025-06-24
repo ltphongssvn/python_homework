@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1890,National League,Base on Balls,113,player,1
+Jack Glasscock,https://www.baseball-almanac.com/players/player.php?p=glassja01,New York,,1890,National League,Batting Average,.336,player,1
+Sam Thompson,https://www.baseball-almanac.com/players/player.php?p=thompsa01,Philadelphia,,1890,National League,Doubles,41,player,1
+Jack Glasscock,https://www.baseball-almanac.com/players/player.php?p=glassja01,New York,,1890,National League,Hits,172,player,1
+Sam Thompson,https://www.baseball-almanac.com/players/player.php?p=thompsa01,New York,,1890,National League,Hits,172,player,1
+Oyster Burns,https://www.baseball-almanac.com/players/player.php?p=burnsoy01,Brooklyn,,1890,National League,Home Runs,13,player,1
+Mike Tiernan,https://www.baseball-almanac.com/players/player.php?p=tiernmi01,New York,,1890,National League,Home Runs,13,player,1
+Walt Wilmot,https://www.baseball-almanac.com/players/player.php?p=wilmowa01,Chicago,,1890,National League,Home Runs,13,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1890,National League,On Base Percentage,.443,player,1
+Oyster Burns,https://www.baseball-almanac.com/players/player.php?p=burnsoy01,Brooklyn,,1890,National League,RBI,128,player,1
+Hub Collins,https://www.baseball-almanac.com/players/player.php?p=collihu01,Brooklyn,,1890,National League,Runs,148,player,1
+Mike Tiernan,https://www.baseball-almanac.com/players/player.php?p=tiernmi01,New York,,1890,National League,Slugging Average,.495,player,1
+Mike Tiernan,https://www.baseball-almanac.com/players/player.php?p=tiernmi01,New York,,1890,National League,Total Bases,274,player,1
+John Reilly,https://www.baseball-almanac.com/players/player.php?p=reilljo01,Cincinnati,,1890,National League,Triples,26,player,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1890,National League,Complete Games,65,pitcher,1
+Billy Rhines,https://www.baseball-almanac.com/players/player.php?p=rhinebi01,Cincinnati,,1890,National League,ERA,1.95,pitcher,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1890,National League,Games,71,pitcher,1
+Dave Foutz,https://www.baseball-almanac.com/players/player.php?p=foutzda01,Brooklyn,,1890,National League,Saves,2,pitcher,1
+Kid Gleason,https://www.baseball-almanac.com/players/player.php?p=gleaski01,Philadelphia,,1890,National League,Saves,2,pitcher,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1890,National League,Saves,2,pitcher,1
+Kid Nichols,https://www.baseball-almanac.com/players/player.php?p=nichoki01,Boston,,1890,National League,Shutouts,7,pitcher,1
+Amos Rusie,https://www.baseball-almanac.com/players/player.php?p=rusieam01,New York,,1890,National League,Strikeouts,341,pitcher,1
+Tom Lovett,https://www.baseball-almanac.com/players/player.php?p=lovetto01,Brooklyn,,1890,National League,Winning Percentage,.732,pitcher,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1890,National League,Wins,42,pitcher,1

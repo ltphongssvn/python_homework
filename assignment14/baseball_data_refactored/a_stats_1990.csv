@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mark McGwire,https://www.baseball-almanac.com/players/player.php?p=mcgwima01,Oakland,,1990,American League,Base on Balls,110,player,1
+George Brett,https://www.baseball-almanac.com/players/player.php?p=brettge01,Kansas City,,1990,American League,Batting Average,.329,player,1
+George Brett,https://www.baseball-almanac.com/players/player.php?p=brettge01,Kansas City,,1990,American League,Doubles,45,player,1
+Jody Reed,https://www.baseball-almanac.com/players/player.php?p=reedjo01,Boston,,1990,American League,Doubles,45,player,1
+Rafael Palmeiro,https://www.baseball-almanac.com/players/player.php?p=palmera01,Texas,,1990,American League,Hits,191,player,1
+Cecil Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldce01,Detroit,,1990,American League,Home Runs,51,player,1
+Rickey Henderson,https://www.baseball-almanac.com/players/player.php?p=henderi01,Oakland,,1990,American League,On Base Percentage,.441,player,1
+Cecil Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldce01,Detroit,,1990,American League,RBI,132,player,1
+Rickey Henderson,https://www.baseball-almanac.com/players/player.php?p=henderi01,Oakland,,1990,American League,Runs,119,player,1
+Cecil Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldce01,Detroit,,1990,American League,Slugging Average,.592,player,1
+Rickey Henderson,https://www.baseball-almanac.com/players/player.php?p=henderi01,Oakland,,1990,American League,Stolen Bases,65,player,1
+Cecil Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldce01,Detroit,,1990,American League,Total Bases,339,player,1
+Tony Fernandez,https://www.baseball-almanac.com/players/player.php?p=fernato01,Toronto,,1990,American League,Triples,17,player,1
+Jack Morris,https://www.baseball-almanac.com/players/player.php?p=morrija02,Detroit,,1990,American League,Complete Games,11,pitcher,1
+Dave Stewart,https://www.baseball-almanac.com/players/player.php?p=stewada01,Oakland,,1990,American League,Complete Games,11,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Boston,,1990,American League,ERA,1.93,pitcher,1
+Bobby Thigpen,https://www.baseball-almanac.com/players/player.php?p=thigpbo01,Chicago,,1990,American League,Games,77,pitcher,1
+Bobby Thigpen,https://www.baseball-almanac.com/players/player.php?p=thigpbo01,Chicago,,1990,American League,Saves,57,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Boston,,1990,American League,Shutouts,4,pitcher,1
+Dave Stewart,https://www.baseball-almanac.com/players/player.php?p=stewada01,Oakland,,1990,American League,Shutouts,4,pitcher,1
+Nolan Ryan,https://www.baseball-almanac.com/players/player.php?p=ryanno01,Texas,,1990,American League,Strikeouts,269,pitcher,1
+Bob Welch,https://www.baseball-almanac.com/players/player.php?p=welchbo01,Oakland,,1990,American League,Winning Percentage,.818,pitcher,1
+Bob Welch,https://www.baseball-almanac.com/players/player.php?p=welchbo01,Oakland,,1990,American League,Wins,27,pitcher,1

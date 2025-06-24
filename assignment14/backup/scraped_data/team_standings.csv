@@ -1,0 +1,46 @@
+year,league,division,team,wins,losses,winning_percentage,games_back
+2020,American League,East,Tampa Bay Rays,40,20,0.6666666666666666,.667
+2021,American League,East,Tampa Bay Rays,100,62,0.6172839506172839,.617
+2021,American League,East,Boston Red Sox,92,70,0.5679012345679012,.568
+2021,American League,Central,Detroit Tigers,77,85,0.47530864197530864,.475
+2021,American League,West,Houston Astros,95,67,0.5864197530864198,.586
+2021,American League,West,Texas Rangers,60,102,0.37037037037037035,.370
+2021,National League,Central,Cincinnati Reds,83,79,0.5123456790123457,.512
+2021,National League,Central,Chicago Cubs,71,91,0.4382716049382716,.438
+2021,National League,Central,Pittsburgh Pirates,61,101,0.3765432098765432,.377
+2021,National League,West,San Francisco Giants,107,55,0.6604938271604939,.660
+2021,National League,West,San Diego Padres,79,83,0.4876543209876543,.488
+2021,National League,West,Arizona Diamondbacks,52,110,0.32098765432098764,.321
+2022,American League,East,Tampa Bay Rays,86,76,0.5308641975308642,.531
+2022,American League,East,Boston Red Sox,78,84,0.48148148148148145,.481
+2022,American League,Central,Detroit Tigers,66,96,0.4074074074074074,.407
+2022,American League,West,Houston Astros,106,56,0.654320987654321,.654
+2022,American League,West,Texas Rangers,68,94,0.41975308641975306,.420
+2022,National League,Central,Chicago Cubs,74,88,0.4567901234567901,.457
+2022,National League,Central,Cincinnati Reds,62,100,0.38271604938271603,.383
+2022,National League,Central,Pittsburgh Pirates,62,100,0.38271604938271603,.383
+2022,National League,West,San Diego Padres,89,73,0.5493827160493827,.549
+2022,National League,West,San Francisco Giants,81,81,0.5,.500
+2022,National League,West,Arizona Diamondbacks,74,88,0.4567901234567901,.457
+2023,American League,East,Tampa Bay Rays,99,63,0.6111111111111112,.611
+2023,American League,East,Boston Red Sox,78,84,0.48148148148148145,.481
+2023,American League,Central,Detroit Tigers,78,84,0.48148148148148145,.481
+2023,American League,West,Houston Astros,90,72,0.5555555555555556,.556
+2023,American League,West,Texas Rangers,90,72,0.5555555555555556,.556
+2023,National League,Central,Chicago Cubs,83,79,0.5123456790123457,.512
+2023,National League,Central,Cincinnati Reds,82,80,0.5061728395061729,.506
+2023,National League,Central,Pittsburgh Pirates,76,86,0.4691358024691358,.469
+2023,National League,West,Arizona Diamondbacks,84,78,0.5185185185185185,.519
+2023,National League,West,San Diego Padres,82,80,0.5061728395061729,.506
+2023,National League,West,San Francisco Giants,79,83,0.4876543209876543,.488
+2024,American League,East,Boston Red Sox,81,81,0.5,.500
+2024,American League,East,Tampa Bay Rays,80,82,0.49382716049382713,.494
+2024,American League,Central,Detroit Tigers,86,76,0.5308641975308642,.531
+2024,American League,West,Houston Astros,88,73,0.546583850931677,.547
+2024,American League,West,Texas Rangers,78,84,0.48148148148148145,.481
+2024,National League,Central,Chicago Cubs,83,79,0.5123456790123457,.512
+2024,National League,Central,Cincinnati Reds,77,85,0.47530864197530864,.475
+2024,National League,Central,Pittsburgh Pirates,76,86,0.4691358024691358,.469
+2024,National League,West,San Diego Padres,93,69,0.5740740740740741,.574
+2024,National League,West,Arizona Diamondbacks,89,73,0.5493827160493827,.549
+2024,National League,West,San Francisco Giants,80,82,0.49382716049382713,.494

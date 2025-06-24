@@ -1,0 +1,4 @@
+year,league,division,team,wins,losses,winning_percentage,games_back,ties,payroll,pattern_used
+1990,American League,East,Boston Red Sox,88,74,543.0,0,,,American League 1901-2001
+1990,American League,East,Detroit Tigers,79,83,488.0,9,,,American League 1901-2001
+1990,American League,West,Texas Rangers,83,79,512.0,20,,,American League 1901-2001

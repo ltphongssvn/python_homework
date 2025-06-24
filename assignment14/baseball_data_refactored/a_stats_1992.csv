@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mickey Tettleton,https://www.baseball-almanac.com/players/player.php?p=tettlmi01,Detroit,,1992,American League,Base on Balls,122,player,1
+Frank Thomas,https://www.baseball-almanac.com/players/player.php?p=thomafr04,Chicago,,1992,American League,Base on Balls,122,player,1
+Edgar Martinez,https://www.baseball-almanac.com/players/player.php?p=martied01,Seattle,,1992,American League,Batting Average,.343,player,1
+Edgar Martinez,https://www.baseball-almanac.com/players/player.php?p=martied01,Seattle,,1992,American League,Doubles,46,player,1
+Frank Thomas,https://www.baseball-almanac.com/players/player.php?p=thomafr04,Chicago,,1992,American League,Doubles,46,player,1
+Kirby Puckett,https://www.baseball-almanac.com/players/player.php?p=puckeki01,Minnesota,,1992,American League,Hits,210,player,1
+Juan Gonzalez,https://www.baseball-almanac.com/players/player.php?p=gonzaju03,Texas,,1992,American League,Home Runs,43,player,1
+Frank Thomas,https://www.baseball-almanac.com/players/player.php?p=thomafr04,Chicago,,1992,American League,On Base Percentage,.446,player,1
+Cecil Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldce01,Detroit,,1992,American League,RBI,124,player,1
+Tony Phillips,https://www.baseball-almanac.com/players/player.php?p=phillto02,Detroit,,1992,American League,Runs,114,player,1
+Mark McGwire,https://www.baseball-almanac.com/players/player.php?p=mcgwima01,Oakland,,1992,American League,Slugging Average,.585,player,1
+Kenny Lofton,https://www.baseball-almanac.com/players/player.php?p=loftoke01,Cleveland,,1992,American League,Stolen Bases,66,player,1
+Kirby Puckett,https://www.baseball-almanac.com/players/player.php?p=puckeki01,Minnesota,,1992,American League,Total Bases,313,player,1
+Lance Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsla03,Chicago,,1992,American League,Triples,12,player,1
+Jack McDowell,https://www.baseball-almanac.com/players/player.php?p=mcdowja01,Chicago,,1992,American League,Complete Games,13,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Boston,,1992,American League,ERA,2.41,pitcher,1
+Kenny Rogers,https://www.baseball-almanac.com/players/player.php?p=rogerke01,Texas,,1992,American League,Games,81,pitcher,1
+Dennis Eckersley,https://www.baseball-almanac.com/players/player.php?p=eckerde01,Oakland,,1992,American League,Saves,51,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Boston,,1992,American League,Shutouts,5,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Seattle,,1992,American League,Strikeouts,241,pitcher,1
+Mike Mussina,https://www.baseball-almanac.com/players/player.php?p=mussimi01,Baltimore,,1992,American League,Winning Percentage,.783,pitcher,1
+Kevin Brown,https://www.baseball-almanac.com/players/player.php?p=brownke01,Texas,,1992,American League,Wins,21,pitcher,1
+Jack Morris,https://www.baseball-almanac.com/players/player.php?p=morrija02,Toronto,,1992,American League,Wins,21,pitcher,1

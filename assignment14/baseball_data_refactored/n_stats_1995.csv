@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,1995,National League,Base on Balls,120,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1995,National League,Batting Average,.368,player,1
+Mark Grace,https://www.baseball-almanac.com/players/player.php?p=gracema01,Chicago,,1995,National League,Doubles,51,player,1
+Dante Bichette,https://www.baseball-almanac.com/players/player.php?p=bicheda01,Colorado,,1995,National League,Hits,197,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1995,National League,Hits,197,player,1
+Dante Bichette,https://www.baseball-almanac.com/players/player.php?p=bicheda01,Colorado,,1995,National League,Home Runs,40,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,1995,National League,On Base Percentage,.434,player,1
+Dante Bichette,https://www.baseball-almanac.com/players/player.php?p=bicheda01,Colorado,,1995,National League,RBI,128,player,1
+Craig Biggio,https://www.baseball-almanac.com/players/player.php?p=biggicr01,Houston,,1995,National League,Runs,123,player,1
+Dante Bichette,https://www.baseball-almanac.com/players/player.php?p=bicheda01,Colorado,,1995,National League,Slugging Average,.620,player,1
+Quilvio Veras,https://www.baseball-almanac.com/players/player.php?p=verasqu01,Florida,,1995,National League,Stolen Bases,56,player,1
+Dante Bichette,https://www.baseball-almanac.com/players/player.php?p=bicheda01,Colorado,,1995,National League,Total Bases,359,player,1
+Brett Butler,https://www.baseball-almanac.com/players/player.php?p=butlebr01,New York,,1995,National League,Triples,9,player,1
+Brett Butler,https://www.baseball-almanac.com/players/player.php?p=butlebr01,Los Angeles,,1995,National League,Triples,9,player,1
+Eric Young,https://www.baseball-almanac.com/players/player.php?p=younger01,Colorado,,1995,National League,Triples,9,player,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1995,National League,Complete Games,10,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1995,National League,ERA,1.63,pitcher,1
+Curt Leskanic,https://www.baseball-almanac.com/players/player.php?p=leskacu01,Colorado,,1995,National League,Games,76,pitcher,1
+Randy Myers,https://www.baseball-almanac.com/players/player.php?p=myersra01,Chicago,,1995,National League,Saves,38,pitcher,1
+Hideo Nomo,https://www.baseball-almanac.com/players/player.php?p=nomohi01,Los Angeles,,1995,National League,Shutouts,3,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1995,National League,Shutouts,3,pitcher,1
+Hideo Nomo,https://www.baseball-almanac.com/players/player.php?p=nomohi01,Los Angeles,,1995,National League,Strikeouts,236,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1995,National League,Winning Percentage,.905,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1995,National League,Wins,19,pitcher,1

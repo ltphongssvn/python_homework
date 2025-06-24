@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Carl Yastrzemski,https://www.baseball-almanac.com/players/player.php?p=yastrca01,Boston,,1968,American League,Base on Balls,119,player,1
+Carl Yastrzemski,https://www.baseball-almanac.com/players/player.php?p=yastrca01,Boston,,1968,American League,Batting Average,.301,player,1
+Reggie Smith,https://www.baseball-almanac.com/players/player.php?p=smithre06,Boston,,1968,American League,Doubles,37,player,1
+Bert Campaneris,https://www.baseball-almanac.com/players/player.php?p=campabe01,Oakland,,1968,American League,Hits,177,player,1
+Frank Howard,https://www.baseball-almanac.com/players/player.php?p=howarfr01,Washington,,1968,American League,Home Runs,44,player,1
+Carl Yastrzemski,https://www.baseball-almanac.com/players/player.php?p=yastrca01,Boston,,1968,American League,On Base Percentage,.429,player,1
+Ken Harrelson,https://www.baseball-almanac.com/players/player.php?p=harreke01,Boston,,1968,American League,RBI,109,player,1
+Dick McAuliffe,https://www.baseball-almanac.com/players/player.php?p=mcauldi01,Detroit,,1968,American League,Runs,95,player,1
+Frank Howard,https://www.baseball-almanac.com/players/player.php?p=howarfr01,Washington,,1968,American League,Slugging Average,.552,player,1
+Bert Campaneris,https://www.baseball-almanac.com/players/player.php?p=campabe01,Oakland,,1968,American League,Stolen Bases,62,player,1
+Frank Howard,https://www.baseball-almanac.com/players/player.php?p=howarfr01,Washington,,1968,American League,Total Bases,330,player,1
+Jim Fregosi,https://www.baseball-almanac.com/players/player.php?p=fregoji01,California,,1968,American League,Triples,13,player,1
+Denny McLain,https://www.baseball-almanac.com/players/player.php?p=mclaide01,Detroit,,1968,American League,Complete Games,28,pitcher,1
+Luis Tiant,https://www.baseball-almanac.com/players/player.php?p=tiantlu01,Cleveland,,1968,American League,ERA,1.60,pitcher,1
+Wilbur Wood,https://www.baseball-almanac.com/players/player.php?p=woodwi01,Chicago,,1968,American League,Games,88,pitcher,1
+Al Worthington,https://www.baseball-almanac.com/players/player.php?p=worthal01,Minnesota,,1968,American League,Saves,18,pitcher,1
+Luis Tiant,https://www.baseball-almanac.com/players/player.php?p=tiantlu01,Cleveland,,1968,American League,Shutouts,9,pitcher,1
+Sam McDowell,https://www.baseball-almanac.com/players/player.php?p=mcdowsa01,Cleveland,,1968,American League,Strikeouts,283,pitcher,1
+Denny McLain,https://www.baseball-almanac.com/players/player.php?p=mclaide01,Detroit,,1968,American League,Winning Percentage,.838,pitcher,1
+Denny McLain,https://www.baseball-almanac.com/players/player.php?p=mclaide01,Detroit,,1968,American League,Wins,31,pitcher,1

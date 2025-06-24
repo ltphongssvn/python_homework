@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Prince Fielder,https://www.baseball-almanac.com/players/player.php?p=fieldpr01,Milwaukee,,2010,National League,Base on Balls,114,player,1
+Carlos Gonzalez,https://www.baseball-almanac.com/players/player.php?p=gonzaca01,Colorado,,2010,National League,Batting Average,.336,player,1
+Jayson Werth,https://www.baseball-almanac.com/players/player.php?p=werthja01,Philadelphia,,2010,National League,Doubles,46,player,1
+Carlos Gonzalez,https://www.baseball-almanac.com/players/player.php?p=gonzaca01,Colorado,,2010,National League,Hits,197,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2010,National League,Home Runs,42,player,1
+Joey Votto,https://www.baseball-almanac.com/players/player.php?p=vottojo01,Cincinnati,,2010,National League,On Base Percentage,.424,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2010,National League,RBI,118,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2010,National League,Runs,115,player,1
+Joey Votto,https://www.baseball-almanac.com/players/player.php?p=vottojo01,Cincinnati,,2010,National League,Slugging Average,.600,player,1
+Michael Bourn,https://www.baseball-almanac.com/players/player.php?p=bournmi01,Houston,,2010,National League,Stolen Bases,52,player,1
+Carlos Gonzalez,https://www.baseball-almanac.com/players/player.php?p=gonzaca01,Colorado,,2010,National League,Total Bases,351,player,1
+Dexter Fowler,https://www.baseball-almanac.com/players/player.php?p=fowlede01,Colorado,,2010,National League,Triples,14,player,1
+Roy Hallady,https://www.baseball-almanac.com/players/player.php?p=hallaro01,Philadelphia,,2010,National League,Complete Games,9,pitcher,1
+Josh Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsjo09,Florida,,2010,National League,ERA,2.30,pitcher,1
+Pedro Feliciano,https://www.baseball-almanac.com/players/player.php?p=felicpe01,New York,,2010,National League,Games,92,pitcher,1
+Brian Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsobr01,San Francisco,,2010,National League,Saves,48,pitcher,1
+Roy Hallady,https://www.baseball-almanac.com/players/player.php?p=hallaro01,Philadelphia,,2010,National League,Shutouts,4,pitcher,1
+Tim Lincecum,https://www.baseball-almanac.com/players/player.php?p=linceti01,San Francisco,,2010,National League,Strikeouts,231,pitcher,1
+Ubaldo Jimenez,https://www.baseball-almanac.com/players/player.php?p=jimenub01,Colorado,,2010,National League,Winning Percentage,.704,pitcher,1
+Roy Hallady,https://www.baseball-almanac.com/players/player.php?p=hallaro01,Philadelphia,,2010,National League,Wins,21,pitcher,1

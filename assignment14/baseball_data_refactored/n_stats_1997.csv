@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,1997,National League,Base on Balls,145,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1997,National League,Batting Average,.372,player,1
+Mark Grudzielanek,https://www.baseball-almanac.com/players/player.php?p=grudzma01,Montreal,,1997,National League,Doubles,54,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1997,National League,Hits,220,player,1
+Larry Walker,https://www.baseball-almanac.com/players/player.php?p=walkela01,Colorado,,1997,National League,Home Runs,49,player,1
+Larry Walker,https://www.baseball-almanac.com/players/player.php?p=walkela01,Colorado,,1997,National League,On Base Percentage,.455,player,1
+Andres Galarraga,https://www.baseball-almanac.com/players/player.php?p=galaran01,Colorado,,1997,National League,RBI,140,player,1
+Craig Biggio,https://www.baseball-almanac.com/players/player.php?p=biggicr01,Houston,,1997,National League,Runs,146,player,1
+Larry Walker,https://www.baseball-almanac.com/players/player.php?p=walkela01,Colorado,,1997,National League,Slugging Average,.720,player,1
+Tony Womack,https://www.baseball-almanac.com/players/player.php?p=womacto01,Pittsburgh,,1997,National League,Stolen Bases,60,player,1
+Larry Walker,https://www.baseball-almanac.com/players/player.php?p=walkela01,Colorado,,1997,National League,Total Bases,409,player,1
+Delino DeShields,https://www.baseball-almanac.com/players/player.php?p=deshide01,St. Louis,,1997,National League,Triples,14,player,1
+Pedro Martinez,https://www.baseball-almanac.com/players/player.php?p=martipe02,Montreal,,1997,National League,Complete Games,13,pitcher,1
+Pedro Martinez,https://www.baseball-almanac.com/players/player.php?p=martipe02,Montreal,,1997,National League,ERA,1.90,pitcher,1
+Julian Tavarez,https://www.baseball-almanac.com/players/player.php?p=tavarju01,San Francisco,,1997,National League,Games,89,pitcher,1
+Jeff Shaw,https://www.baseball-almanac.com/players/player.php?p=shawje01,Cincinnati,,1997,National League,Saves,42,pitcher,1
+Carlos Perez,https://www.baseball-almanac.com/players/player.php?p=perezca01,Montreal,,1997,National League,Shutouts,5,pitcher,1
+Curt Schilling,https://www.baseball-almanac.com/players/player.php?p=schilcu01,Philadelphia,,1997,National League,Strikeouts,319,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1997,National League,Winning Percentage,.826,pitcher,1
+Denny Neagle,https://www.baseball-almanac.com/players/player.php?p=neaglde01,Atlanta,,1997,National League,Wins,20,pitcher,1

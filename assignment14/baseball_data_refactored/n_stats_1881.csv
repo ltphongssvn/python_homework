@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+John Clapp,https://www.baseball-almanac.com/players/player.php?p=clappjo01,Cleveland,,1881,National League,Base on Balls,35,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1881,National League,Batting Average,.399,player,1
+Paul Hines,https://www.baseball-almanac.com/players/player.php?p=hinespa01,Providence,,1881,National League,Doubles,27,player,1
+King Kelly,https://www.baseball-almanac.com/players/player.php?p=kellyki01,Chicago,,1881,National League,Doubles,27,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1881,National League,Hits,137,player,1
+Dan Brouthers,https://www.baseball-almanac.com/players/player.php?p=broutda01,Buffalo,,1881,National League,Home Runs,8,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1881,National League,On Base Percentage,.442,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1881,National League,RBI,82,player,1
+George Gore,https://www.baseball-almanac.com/players/player.php?p=gorege01,Chicago,,1881,National League,Runs,86,player,1
+Dan Brouthers,https://www.baseball-almanac.com/players/player.php?p=broutda01,Buffalo,,1881,National League,Slugging Average,.541,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1881,National League,Total Bases,175,player,1
+Jack Rowe,https://www.baseball-almanac.com/players/player.php?p=roweja01,Buffalo,,1881,National League,Triples,11,player,1
+Jim McCormick,https://www.baseball-almanac.com/players/player.php?p=mccorji01,Cleveland,,1881,National League,Complete Games,57,pitcher,1
+Jim Whitney,https://www.baseball-almanac.com/players/player.php?p=whitnji01,Boston,,1881,National League,Complete Games,57,pitcher,1
+Stump Wiedman,https://www.baseball-almanac.com/players/player.php?p=wiedmst01,Detroit,,1881,National League,ERA,1.80,pitcher,1
+Jim Whitney,https://www.baseball-almanac.com/players/player.php?p=whitnji01,Boston,,1881,National League,Games,66,pitcher,1
+Bobby Mathews,https://www.baseball-almanac.com/players/player.php?p=mathebo01,Providence,,1881,National League,Saves,2,pitcher,1
+Bobby Mathews,https://www.baseball-almanac.com/players/player.php?p=mathebo01,Boston,,1881,National League,Saves,2,pitcher,1
+George Derby,https://www.baseball-almanac.com/players/player.php?p=derbyge01,Detroit,,1881,National League,Shutouts,9,pitcher,1
+George Derby,https://www.baseball-almanac.com/players/player.php?p=derbyge01,Detroit,,1881,National League,Strikeouts,212,pitcher,1
+Old Hoss Radbourn,https://www.baseball-almanac.com/players/player.php?p=radboch01,Providence,,1881,National League,Winning Percentage,.694,pitcher,1
+Larry Corcoran,https://www.baseball-almanac.com/players/player.php?p=corcola01,Chicago,,1881,National League,Wins,31,pitcher,1
+Jim Whitney,https://www.baseball-almanac.com/players/player.php?p=whitnji01,Boston,,1881,National League,Wins,31,pitcher,1

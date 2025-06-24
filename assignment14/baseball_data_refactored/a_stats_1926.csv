@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1926,American League,Base on Balls,144,player,1
+Heinie Manush,https://www.baseball-almanac.com/players/player.php?p=manushe01,Detroit,,1926,American League,Batting Average,.378,player,1
+George Burns,https://www.baseball-almanac.com/players/player.php?p=burnsge02,Cleveland,,1926,American League,Doubles,64,player,1
+Sam Rice,https://www.baseball-almanac.com/players/player.php?p=ricesa01,Washington,,1926,American League,Hits,216,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1926,American League,Home Runs,47,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1926,American League,On Base Percentage,.516,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1926,American League,RBI,146,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1926,American League,Runs,139,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1926,American League,Slugging Average,.737,player,1
+Johnny Mostil,https://www.baseball-almanac.com/players/player.php?p=mostijo01,Chicago,,1926,American League,Stolen Bases,35,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1926,American League,Total Bases,365,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1926,American League,Triples,20,player,1
+George Uhle,https://www.baseball-almanac.com/players/player.php?p=uhlege01,Cleveland,,1926,American League,Complete Games,32,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1926,American League,ERA,2.51,pitcher,1
+Firpo Marberry,https://www.baseball-almanac.com/players/player.php?p=marbefi01,Washington,,1926,American League,Games,64,pitcher,1
+Firpo Marberry,https://www.baseball-almanac.com/players/player.php?p=marbefi01,Washington,,1926,American League,Saves,22,pitcher,1
+Ed Wells,https://www.baseball-almanac.com/players/player.php?p=wellsed01,Detroit,,1926,American League,Shutouts,4,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1926,American League,Strikeouts,194,pitcher,1
+George Uhle,https://www.baseball-almanac.com/players/player.php?p=uhlege01,Cleveland,,1926,American League,Winning Percentage,.711,pitcher,1
+George Uhle,https://www.baseball-almanac.com/players/player.php?p=uhlege01,Cleveland,,1926,American League,Wins,27,pitcher,1

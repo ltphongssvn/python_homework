@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1948,American League,Base on Balls,126,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1948,American League,Batting Average,.369,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1948,American League,Doubles,44,player,1
+Bob Dillinger,https://www.baseball-almanac.com/players/player.php?p=dillibo01,St. Louis,,1948,American League,Hits,207,player,1
+Joe DiMaggio,https://www.baseball-almanac.com/players/player.php?p=dimagjo01,New York,,1948,American League,Home Runs,39,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1948,American League,On Base Percentage,.497,player,1
+Joe DiMaggio,https://www.baseball-almanac.com/players/player.php?p=dimagjo01,New York,,1948,American League,RBI,155,player,1
+Tommy Henrich,https://www.baseball-almanac.com/players/player.php?p=henrito01,New York,,1948,American League,Runs,138,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1948,American League,Slugging Average,.615,player,1
+Bob Dillinger,https://www.baseball-almanac.com/players/player.php?p=dillibo01,St. Louis,,1948,American League,Stolen Bases,28,player,1
+Joe DiMaggio,https://www.baseball-almanac.com/players/player.php?p=dimagjo01,New York,,1948,American League,Total Bases,355,player,1
+Tommy Henrich,https://www.baseball-almanac.com/players/player.php?p=henrito01,New York,,1948,American League,Triples,14,player,1
+Bob Lemon,https://www.baseball-almanac.com/players/player.php?p=lemonbo01,Cleveland,,1948,American League,Complete Games,20,pitcher,1
+Gene Bearden,https://www.baseball-almanac.com/players/player.php?p=beardge01,Cleveland,,1948,American League,ERA,2.43,pitcher,1
+Joe Page,https://www.baseball-almanac.com/players/player.php?p=pagejo01,New York,,1948,American League,Games,55,pitcher,1
+Russ Christopher,https://www.baseball-almanac.com/players/player.php?p=chrisru01,Cleveland,,1948,American League,Saves,17,pitcher,1
+Bob Lemon,https://www.baseball-almanac.com/players/player.php?p=lemonbo01,Cleveland,,1948,American League,Shutouts,10,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1948,American League,Strikeouts,164,pitcher,1
+Jack Kramer,https://www.baseball-almanac.com/players/player.php?p=krameja01,Boston,,1948,American League,Winning Percentage,.783,pitcher,1
+Hal Newhouser,https://www.baseball-almanac.com/players/player.php?p=newhoha01,Detroit,,1948,American League,Wins,21,pitcher,1

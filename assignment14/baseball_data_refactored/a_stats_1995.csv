@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Frank Thomas,https://www.baseball-almanac.com/players/player.php?p=thomafr04,Chicago,,1995,American League,Base on Balls,136,player,1
+Edgar Martinez,https://www.baseball-almanac.com/players/player.php?p=martied01,Seattle,,1995,American League,Batting Average,.356,player,1
+Albert Belle,https://www.baseball-almanac.com/players/player.php?p=belleal01,Cleveland,,1995,American League,Doubles,52,player,1
+Edgar Martinez,https://www.baseball-almanac.com/players/player.php?p=martied01,Seattle,,1995,American League,Doubles,52,player,1
+Lance Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsla03,Chicago,,1995,American League,Hits,186,player,1
+Albert Belle,https://www.baseball-almanac.com/players/player.php?p=belleal01,Cleveland,,1995,American League,Home Runs,50,player,1
+Edgar Martinez,https://www.baseball-almanac.com/players/player.php?p=martied01,Seattle,,1995,American League,On Base Percentage,.482,player,1
+Albert Belle,https://www.baseball-almanac.com/players/player.php?p=belleal01,Cleveland,,1995,American League,RBI,126,player,1
+Mo Vaughn,https://www.baseball-almanac.com/players/player.php?p=vaughmo01,Boston,,1995,American League,RBI,126,player,1
+Albert Belle,https://www.baseball-almanac.com/players/player.php?p=belleal01,Cleveland,,1995,American League,Runs,121,player,1
+Edgar Martinez,https://www.baseball-almanac.com/players/player.php?p=martied01,Seattle,,1995,American League,Runs,121,player,1
+Albert Belle,https://www.baseball-almanac.com/players/player.php?p=belleal01,Cleveland,,1995,American League,Slugging Average,.690,player,1
+Kenny Lofton,https://www.baseball-almanac.com/players/player.php?p=loftoke01,Cleveland,,1995,American League,Stolen Bases,54,player,1
+Albert Belle,https://www.baseball-almanac.com/players/player.php?p=belleal01,Cleveland,,1995,American League,Total Bases,377,player,1
+Kenny Lofton,https://www.baseball-almanac.com/players/player.php?p=loftoke01,Cleveland,,1995,American League,Triples,13,player,1
+Jack McDowell,https://www.baseball-almanac.com/players/player.php?p=mcdowja01,New York,,1995,American League,Complete Games,8,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Seattle,,1995,American League,ERA,2.48,pitcher,1
+Jesse Orosco,https://www.baseball-almanac.com/players/player.php?p=oroscje01,Baltimore,,1995,American League,Games,65,pitcher,1
+Jose Mesa,https://www.baseball-almanac.com/players/player.php?p=mesajo01,Cleveland,,1995,American League,Saves,46,pitcher,1
+Mike Mussina,https://www.baseball-almanac.com/players/player.php?p=mussimi01,Baltimore,,1995,American League,Shutouts,4,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Seattle,,1995,American League,Strikeouts,294,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Seattle,,1995,American League,Winning Percentage,.900,pitcher,1
+Mike Mussina,https://www.baseball-almanac.com/players/player.php?p=mussimi01,Baltimore,,1995,American League,Wins,19,pitcher,1

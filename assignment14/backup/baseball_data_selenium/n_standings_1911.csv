@@ -1,0 +1,9 @@
+year,league,division,team,wins,losses,winning_percentage,games_back,ties,payroll
+1911,National League,League,New York Giants,99,54,0.647,.647,0,
+1911,National League,League,Chicago Cubs,92,62,0.597,.597,0,
+1911,National League,League,Pittsburgh Pirates,85,69,0.552,.552,0,
+1911,National League,League,Philadelphia Phillies,79,73,0.52,.520,0,
+1911,National League,League,St. Louis Cardinals,75,74,0.503,.503,0,
+1911,National League,League,Cincinnati Reds,70,83,0.458,.458,0,
+1911,National League,League,Brooklyn Superbas,64,86,0.427,.427,0,
+1911,National League,League,Boston Rustlers,44,107,0.291,.291,0,

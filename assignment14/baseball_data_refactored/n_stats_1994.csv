@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,1994,National League,Base on Balls,74,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1994,National League,Batting Average,.394,player,1
+Craig Biggio,https://www.baseball-almanac.com/players/player.php?p=biggicr01,Houston,,1994,National League,Doubles,44,player,1
+Larry Walker,https://www.baseball-almanac.com/players/player.php?p=walkela01,Montreal,,1994,National League,Doubles,44,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1994,National League,Hits,165,player,1
+Matt Williams,https://www.baseball-almanac.com/players/player.php?p=willima04,San Francisco,,1994,National League,Home Runs,43,player,1
+Jeff Bagwell,https://www.baseball-almanac.com/players/player.php?p=bagweje01,Houston,,1994,National League,On Base Percentage,.461,player,1
+Jeff Bagwell,https://www.baseball-almanac.com/players/player.php?p=bagweje01,Houston,,1994,National League,RBI,116,player,1
+Jeff Bagwell,https://www.baseball-almanac.com/players/player.php?p=bagweje01,Houston,,1994,National League,Runs,104,player,1
+Jeff Bagwell,https://www.baseball-almanac.com/players/player.php?p=bagweje01,Houston,,1994,National League,Slugging Average,.750,player,1
+Craig Biggio,https://www.baseball-almanac.com/players/player.php?p=biggicr01,Houston,,1994,National League,Stolen Bases,39,player,1
+Jeff Bagwell,https://www.baseball-almanac.com/players/player.php?p=bagweje01,Houston,,1994,National League,Total Bases,300,player,1
+Brett Butler,https://www.baseball-almanac.com/players/player.php?p=butlebr01,Los Angeles,,1994,National League,Triples,9,player,1
+Darren Lewis,https://www.baseball-almanac.com/players/player.php?p=lewisda01,San Francisco,,1994,National League,Triples,9,player,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1994,National League,Complete Games,10,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1994,National League,ERA,1.56,pitcher,1
+Steve Reed,https://www.baseball-almanac.com/players/player.php?p=reedst01,Colorado,,1994,National League,Games,61,pitcher,1
+John Franco,https://www.baseball-almanac.com/players/player.php?p=francjo01,New York,,1994,National League,Saves,30,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1994,National League,Shutouts,3,pitcher,1
+Ramon Martinez,https://www.baseball-almanac.com/players/player.php?p=martira02,Los Angeles,,1994,National League,Shutouts,3,pitcher,1
+Andy Benes,https://www.baseball-almanac.com/players/player.php?p=benesan01,San Diego,,1994,National League,Strikeouts,189,pitcher,1
+Bret Saberhagen,https://www.baseball-almanac.com/players/player.php?p=saberbr01,New York,,1994,National League,Winning Percentage,.778,pitcher,1
+Ken Hill,https://www.baseball-almanac.com/players/player.php?p=hillke01,Montreal,,1994,National League,Wins,16,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,1994,National League,Wins,16,pitcher,1

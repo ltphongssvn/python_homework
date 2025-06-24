@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+George Burns,https://www.baseball-almanac.com/players/player.php?p=burnsge01,New York,,1919,National League,Base on Balls,82,player,1
+Edd Roush,https://www.baseball-almanac.com/players/player.php?p=roushed01,Cincinnati,,1919,National League,Batting Average,.321,player,1
+Ross Youngs,https://www.baseball-almanac.com/players/player.php?p=youngro01,New York,,1919,National League,Doubles,31,player,1
+Ivy Olson,https://www.baseball-almanac.com/players/player.php?p=olsoniv01,Brooklyn,,1919,National League,Hits,164,player,1
+Gavvy Cravath,https://www.baseball-almanac.com/players/player.php?p=cravaga01,Philadelphia,,1919,National League,Home Runs,12,player,1
+George Burns,https://www.baseball-almanac.com/players/player.php?p=burnsge01,New York,,1919,National League,On Base Percentage,.396,player,1
+Hy Myers,https://www.baseball-almanac.com/players/player.php?p=myershy01,Brooklyn,,1919,National League,RBI,73,player,1
+George Burns,https://www.baseball-almanac.com/players/player.php?p=burnsge01,New York,,1919,National League,Runs,86,player,1
+Hy Myers,https://www.baseball-almanac.com/players/player.php?p=myershy01,Brooklyn,,1919,National League,Slugging Average,.436,player,1
+George Burns,https://www.baseball-almanac.com/players/player.php?p=burnsge01,New York,,1919,National League,Stolen Bases,40,player,1
+Hy Myers,https://www.baseball-almanac.com/players/player.php?p=myershy01,Brooklyn,,1919,National League,Total Bases,223,player,1
+Hy Myers,https://www.baseball-almanac.com/players/player.php?p=myershy01,Brooklyn,,1919,National League,Triples,14,player,1
+Billy Southworth,https://www.baseball-almanac.com/players/player.php?p=southbi01,Pittsburgh,,1919,National League,Triples,14,player,1
+Wilbur Cooper,https://www.baseball-almanac.com/players/player.php?p=coopewi01,Pittsburgh,,1919,National League,Complete Games,27,pitcher,1
+Grover Alexander,https://www.baseball-almanac.com/players/player.php?p=alexape01,Chicago,,1919,National League,ERA,1.72,pitcher,1
+Oscar Tuero,https://www.baseball-almanac.com/players/player.php?p=tueroos01,St. Louis,,1919,National League,Games,45,pitcher,1
+Oscar Tuero,https://www.baseball-almanac.com/players/player.php?p=tueroos01,St. Louis,,1919,National League,Saves,4,pitcher,1
+Grover Alexander,https://www.baseball-almanac.com/players/player.php?p=alexape01,Chicago,,1919,National League,Shutouts,9,pitcher,1
+Hippo Vaughn,https://www.baseball-almanac.com/players/player.php?p=vaughhi01,Chicago,,1919,National League,Strikeouts,141,pitcher,1
+Dutch Ruether,https://www.baseball-almanac.com/players/player.php?p=ruethdu01,Cincinnati,,1919,National League,Winning Percentage,.760,pitcher,1
+Jesse Barnes,https://www.baseball-almanac.com/players/player.php?p=barneje01,New York,,1919,National League,Wins,25,pitcher,1

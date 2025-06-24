@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Roy Thomas,https://www.baseball-almanac.com/players/player.php?p=thomaro01,Philadelphia,,1906,National League,Base on Balls,107,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1906,National League,Batting Average,.339,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1906,National League,Doubles,38,player,1
+Harry Steinfeldt,https://www.baseball-almanac.com/players/player.php?p=steinha01,Chicago,,1906,National League,Hits,176,player,1
+Tim Jordan,https://www.baseball-almanac.com/players/player.php?p=jordati01,Brooklyn,,1906,National League,Home Runs,12,player,1
+Roger Bresnahan,https://www.baseball-almanac.com/players/player.php?p=bresnro01,New York,,1906,National League,On Base Percentage,.419,player,1
+Jim Nealon,https://www.baseball-almanac.com/players/player.php?p=nealoji01,Pittsburgh,,1906,National League,RBI,83,player,1
+Harry Steinfeldt,https://www.baseball-almanac.com/players/player.php?p=steinha01,Chicago,,1906,National League,RBI,83,player,1
+Frank Chance,https://www.baseball-almanac.com/players/player.php?p=chancfr01,Chicago,,1906,National League,Runs,103,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1906,National League,Runs,103,player,1
+Harry Lumley,https://www.baseball-almanac.com/players/player.php?p=lumleha01,Brooklyn,,1906,National League,Slugging Average,.477,player,1
+Frank Chance,https://www.baseball-almanac.com/players/player.php?p=chancfr01,Chicago,,1906,National League,Stolen Bases,57,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1906,National League,Total Bases,237,player,1
+Fred Clarke,https://www.baseball-almanac.com/players/player.php?p=clarkfr01,Pittsburgh,,1906,National League,Triples,13,player,1
+Frank Schulte,https://www.baseball-almanac.com/players/player.php?p=schulfr01,Chicago,,1906,National League,Triples,13,player,1
+Irv Young,https://www.baseball-almanac.com/players/player.php?p=youngir01,Boston,,1906,National League,Complete Games,37,pitcher,1
+Mordecai Brown,https://www.baseball-almanac.com/players/player.php?p=brownmo01,Chicago,,1906,National League,ERA,1.04,pitcher,1
+Joe McGinnity,https://www.baseball-almanac.com/players/player.php?p=mcginjo01,New York,,1906,National League,Games,45,pitcher,1
+George Ferguson,https://www.baseball-almanac.com/players/player.php?p=ferguge01,New York,,1906,National League,Saves,7,pitcher,1
+Mordecai Brown,https://www.baseball-almanac.com/players/player.php?p=brownmo01,Chicago,,1906,National League,Shutouts,9,pitcher,1
+Fred Beebe,https://www.baseball-almanac.com/players/player.php?p=beebefr01,Chicago,,1906,National League,Strikeouts,171,pitcher,1
+Fred Beebe,https://www.baseball-almanac.com/players/player.php?p=beebefr01,St. Louis,,1906,National League,Strikeouts,171,pitcher,1
+Ed Reulbach,https://www.baseball-almanac.com/players/player.php?p=reulbed01,Chicago,,1906,National League,Winning Percentage,.826,pitcher,1
+Joe McGinnity,https://www.baseball-almanac.com/players/player.php?p=mcginjo01,New York,,1906,National League,Wins,27,pitcher,1

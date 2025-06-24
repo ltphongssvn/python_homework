@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jose Bautista,https://www.baseball-almanac.com/players/player.php?p=bautijo02,Toronto,,2011,American League,Base on Balls,132,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2011,American League,Batting Average,.344,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2011,American League,Doubles,48,player,1
+Adrian Gonzalez,https://www.baseball-almanac.com/players/player.php?p=gonzaad01,Boston,,2011,American League,Hits,213,player,1
+Michael Young,https://www.baseball-almanac.com/players/player.php?p=youngmi02,Texas,,2011,American League,Hits,213,player,1
+Jose Bautista,https://www.baseball-almanac.com/players/player.php?p=bautijo02,Toronto,,2011,American League,Home Runs,43,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2011,American League,On Base Percentage,.448,player,1
+Curtis Granderson,https://www.baseball-almanac.com/players/player.php?p=grandcu01,New York,,2011,American League,RBI,119,player,1
+Curtis Granderson,https://www.baseball-almanac.com/players/player.php?p=grandcu01,New York,,2011,American League,Runs,136,player,1
+Jose Bautista,https://www.baseball-almanac.com/players/player.php?p=bautijo02,Toronto,,2011,American League,Slugging Average,.608,player,1
+Coco Crisp,https://www.baseball-almanac.com/players/player.php?p=crispco01,Oakland,,2011,American League,Stolen Bases,49,player,1
+Brett Gardner,https://www.baseball-almanac.com/players/player.php?p=pierrju01,New York,,2011,American League,Stolen Bases,49,player,1
+Jacoby Ellsbury,https://www.baseball-almanac.com/players/player.php?p=ellsbja01,Boston,,2011,American League,Total Bases,364,player,1
+Peter Bourjos,https://www.baseball-almanac.com/players/player.php?p=bourjpe01,Los Angeles,,2011,American League,Triples,11,player,1
+Austin Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksau01,Detroit,,2011,American League,Triples,11,player,1
+James Shields,https://www.baseball-almanac.com/players/player.php?p=shielja02,Tampa Bay,,2011,American League,Complete Games,11,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Detroit,,2011,American League,ERA,2.40,pitcher,1
+Jose Valverde,https://www.baseball-almanac.com/players/player.php?p=valvejo01,Detroit,,2011,American League,Games,75,pitcher,1
+Jose Valverde,https://www.baseball-almanac.com/players/player.php?p=valvejo01,Detroit,,2011,American League,Saves,49,pitcher,1
+Derek Holland,https://www.baseball-almanac.com/players/player.php?p=hollade01,Texas,,2011,American League,Shutouts,4,pitcher,1
+James Shields,https://www.baseball-almanac.com/players/player.php?p=shielja02,Tampa Bay,,2011,American League,Shutouts,4,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Detroit,,2011,American League,Strikeouts,250,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Detroit,,2011,American League,Winning Percentage,.828,pitcher,1
+Justin Verlander,https://www.baseball-almanac.com/players/player.php?p=verlaju01,Detroit,,2011,American League,Wins,24,pitcher,1

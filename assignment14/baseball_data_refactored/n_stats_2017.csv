@@ -1,0 +1,26 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Joey Votto,https://www.baseball-almanac.com/players/player.php?p=vottojo01,Cincinnati Reds,,2017,National League,Base on Balls,134,player,1
+Charlie Blackmon,https://www.baseball-almanac.com/players/player.php?p=blackch02,Colorado Rockies,,2017,National League,Batting Average,.331,player,1
+Nolan Arenado,https://www.baseball-almanac.com/players/player.php?p=arenano01,Colorado Rockies,,2017,National League,Doubles,43,player,1
+Daniel Murphy,https://www.baseball-almanac.com/players/player.php?p=murphda08,Washington Nationals,,2017,National League,Doubles,43,player,1
+Charlie Blackmon,https://www.baseball-almanac.com/players/player.php?p=blackch02,Colorado Rockies,,2017,National League,Hits,213,player,1
+Giancarlo Stanton,https://www.baseball-almanac.com/players/player.php?p=stantmi03,Miami Marlins,,2017,National League,Home Runs,59,player,1
+Joey Votto,https://www.baseball-almanac.com/players/player.php?p=vottojo01,Cincinnati Reds,,2017,National League,On Base Percentage,.454,player,1
+Giancarlo Stanton,https://www.baseball-almanac.com/players/player.php?p=stantmi03,Miami Marlins,,2017,National League,RBI,132,player,1
+Charlie Blackmon,https://www.baseball-almanac.com/players/player.php?p=blackch02,Colorado Rockies,,2017,National League,Runs,137,player,1
+Giancarlo Stanton,https://www.baseball-almanac.com/players/player.php?p=stantmi03,Miami Marlins,,2017,National League,Slugging Average,.631,player,1
+Dee Gordon,https://www.baseball-almanac.com/players/player.php?p=gordode01,Miami Marlins,,2017,National League,Stolen Bases,60,player,1
+Charlie Blackmon,https://www.baseball-almanac.com/players/player.php?p=blackch02,Colorado Rockies,,2017,National League,Total Bases,387,player,1
+Charlie Blackmon,https://www.baseball-almanac.com/players/player.php?p=blackch02,Colorado Rockies,,2017,National League,Triples,14,player,1
+Carlos Martinez,https://www.baseball-almanac.com/players/player.php?p=martica04,St. Louis Cardinals,,2017,National League,Complete Games,2,pitcher,1
+Ivan Nova,https://www.baseball-almanac.com/players/player.php?p=novaiv01,Pittsburgh Pirates,,2017,National League,Complete Games,2,pitcher,1
+Clayton Richard,https://www.baseball-almanac.com/players/player.php?p=richacl01,San Diego Padres,,2017,National League,Complete Games,2,pitcher,1
+Max Scherzer,https://www.baseball-almanac.com/players/player.php?p=scherma01,Washington Nationals,,2017,National League,Complete Games,2,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles Dodgers,,2017,National League,ERA,2.21,pitcher,1
+Corey Knebel,https://www.baseball-almanac.com/players/player.php?p=knebeco01,Milwaukee Brewers,,2017,National League,Games,76,pitcher,1
+Greg Holland,https://www.baseball-almanac.com/players/player.php?p=hollagr01,Colorado Rockies,,2017,National League,Saves,41,pitcher,1
+Kenley Jansen,https://www.baseball-almanac.com/players/player.php?p=janseke01,Los Angeles Dodgers,,2017,National League,Saves,41,pitcher,1
+Carlos Martinez,https://www.baseball-almanac.com/players/player.php?p=martica04,St. Louis Cardinals,,2017,National League,Shutouts,2,pitcher,1
+Max Scherzer,https://www.baseball-almanac.com/players/player.php?p=scherma01,Washington Nationals,,2017,National League,Strikeouts,268,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles Dodgers,,2017,National League,Winning Percentage,.818,pitcher,1
+Clayton Kershaw,https://www.baseball-almanac.com/players/player.php?p=kershcl01,Los Angeles Dodgers,,2017,National League,Wins,18,pitcher,1

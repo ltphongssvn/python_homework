@@ -1,0 +1,14 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jack Cust,https://www.baseball-almanac.com/players/player.php?p=custja01,Oakland,,2008,American League,Base on Balls,111,player,1
+Joe Mauer,https://www.baseball-almanac.com/players/player.php?p=mauerjo01,Minnesota,,2008,American League,Batting Average,.330,player,1
+Dustin Pedroia,https://www.baseball-almanac.com/players/player.php?p=pedrodu01,Boston,,2008,American League,Doubles,54,player,1
+Dustin Pedroia,https://www.baseball-almanac.com/players/player.php?p=pedrodu01,Boston,,2008,American League,Hits,213,player,1
+Ichiro Suzuki,https://www.baseball-almanac.com/players/player.php?p=suzukic01,Seattle,,2008,American League,Hits,213,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2008,American League,Home Runs,37,player,1
+Milton Bradley,https://www.baseball-almanac.com/players/player.php?p=bradlmi01,Texas,,2008,American League,On Base Percentage,.436,player,1
+Josh Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamiljo03,Texas,,2008,American League,RBI,130,player,1
+Dustin Pedroia,https://www.baseball-almanac.com/players/player.php?p=pedrodu01,Boston,,2008,American League,Runs,118,player,1
+Alex Rodriguez,https://www.baseball-almanac.com/players/player.php?p=rodrial01,New York,,2008,American League,Slugging Average,.573,player,1
+Jacoby Ellsbury,https://www.baseball-almanac.com/players/player.php?p=ellsbja01,Boston,,2008,American League,Stolen Bases,50,player,1
+Josh Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamiljo03,Texas,,2008,American League,Total Bases,331,player,1
+Curtis Granderson,https://www.baseball-almanac.com/players/player.php?p=grandcu01,Detroit,,2008,American League,Triples,13,player,1

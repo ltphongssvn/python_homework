@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Will Clark,https://www.baseball-almanac.com/players/player.php?p=clarkwi02,San Francisco,,1988,National League,Base on Balls,100,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1988,National League,Batting Average,.313,player,1
+Andres Galarraga,https://www.baseball-almanac.com/players/player.php?p=galaran01,Montreal,,1988,National League,Doubles,42,player,1
+Andres Galarraga,https://www.baseball-almanac.com/players/player.php?p=galaran01,Montreal,,1988,National League,Hits,184,player,1
+Darryl Strawberry,https://www.baseball-almanac.com/players/player.php?p=strawda01,New York,,1988,National League,Home Runs,39,player,1
+Kal Daniels,https://www.baseball-almanac.com/players/player.php?p=danieka01,Cincinnati,,1988,National League,On Base Percentage,.400,player,1
+Will Clark,https://www.baseball-almanac.com/players/player.php?p=clarkwi02,San Francisco,,1988,National League,RBI,109,player,1
+Brett Butler,https://www.baseball-almanac.com/players/player.php?p=butlebr01,San Francisco,,1988,National League,Runs,109,player,1
+Darryl Strawberry,https://www.baseball-almanac.com/players/player.php?p=strawda01,New York,,1988,National League,Slugging Average,.545,player,1
+Vince Coleman,https://www.baseball-almanac.com/players/player.php?p=colemvi01,St. Louis,,1988,National League,Stolen Bases,81,player,1
+Andres Galarraga,https://www.baseball-almanac.com/players/player.php?p=galaran01,Montreal,,1988,National League,Total Bases,329,player,1
+Andy Van Slyke,https://www.baseball-almanac.com/players/player.php?p=vanslan01,Pittsburgh,,1988,National League,Triples,15,player,1
+Orel Hershiser,https://www.baseball-almanac.com/players/player.php?p=hershor01,Los Angeles,,1988,National League,Complete Games,15,pitcher,1
+Danny Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksda02,Cincinnati,,1988,National League,Complete Games,15,pitcher,1
+Joe Magrane,https://www.baseball-almanac.com/players/player.php?p=magrajo01,St. Louis,,1988,National League,ERA,2.18,pitcher,1
+Rob Murphy,https://www.baseball-almanac.com/players/player.php?p=murphro01,Cincinnati,,1988,National League,Games,76,pitcher,1
+John Franco,https://www.baseball-almanac.com/players/player.php?p=francjo01,Cincinnati,,1988,National League,Saves,39,pitcher,1
+Orel Hershiser,https://www.baseball-almanac.com/players/player.php?p=hershor01,Los Angeles,,1988,National League,Shutouts,8,pitcher,1
+Nolan Ryan,https://www.baseball-almanac.com/players/player.php?p=ryanno01,Houston,,1988,National League,Strikeouts,228,pitcher,1
+David Cone,https://www.baseball-almanac.com/players/player.php?p=coneda01,New York,,1988,National League,Winning Percentage,.870,pitcher,1
+Orel Hershiser,https://www.baseball-almanac.com/players/player.php?p=hershor01,Los Angeles,,1988,National League,Wins,23,pitcher,1
+Danny Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksda02,Cincinnati,,1988,National League,Wins,23,pitcher,1

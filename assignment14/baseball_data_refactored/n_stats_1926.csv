@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Hack Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsoha01,Chicago,,1926,National League,Base on Balls,69,player,1
+Bubbles Hargrave,https://www.baseball-almanac.com/players/player.php?p=hargrbu01,Cincinnati,,1926,National League,Batting Average,.353,player,1
+Jim Bottomley,https://www.baseball-almanac.com/players/player.php?p=bottoji01,St. Louis,,1926,National League,Doubles,40,player,1
+Eddie Brown,https://www.baseball-almanac.com/players/player.php?p=browned02,Boston,,1926,National League,Hits,201,player,1
+Hack Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsoha01,Chicago,,1926,National League,Home Runs,21,player,1
+Paul Waner,https://www.baseball-almanac.com/players/player.php?p=wanerpa01,Pittsburgh,,1926,National League,On Base Percentage,.413,player,1
+Jim Bottomley,https://www.baseball-almanac.com/players/player.php?p=bottoji01,St. Louis,,1926,National League,RBI,120,player,1
+Kiki Cuyler,https://www.baseball-almanac.com/players/player.php?p=cuyleki01,Pittsburgh,,1926,National League,Runs,113,player,1
+Cy Williams,https://www.baseball-almanac.com/players/player.php?p=willicy01,Philadelphia,,1926,National League,Slugging Average,.568,player,1
+Kiki Cuyler,https://www.baseball-almanac.com/players/player.php?p=cuyleki01,Pittsburgh,,1926,National League,Stolen Bases,35,player,1
+Jim Bottomley,https://www.baseball-almanac.com/players/player.php?p=bottoji01,St. Louis,,1926,National League,Total Bases,305,player,1
+Paul Waner,https://www.baseball-almanac.com/players/player.php?p=wanerpa01,Pittsburgh,,1926,National League,Triples,22,player,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,Cincinnati,,1926,National League,Complete Games,24,pitcher,1
+Ray Kremer,https://www.baseball-almanac.com/players/player.php?p=kremera01,Pittsburgh,,1926,National League,ERA,2.61,pitcher,1
+Jack Scott,https://www.baseball-almanac.com/players/player.php?p=scottja01,New York,,1926,National League,Games,50,pitcher,1
+Chick Davies,https://www.baseball-almanac.com/players/player.php?p=daviech01,New York,,1926,National League,Saves,6,pitcher,1
+Pete Donohue,https://www.baseball-almanac.com/players/player.php?p=donohpe01,Cincinnati,,1926,National League,Shutouts,5,pitcher,1
+Dazzy Vance,https://www.baseball-almanac.com/players/player.php?p=vanceda01,Brooklyn,,1926,National League,Strikeouts,184,pitcher,1
+Ray Kremer,https://www.baseball-almanac.com/players/player.php?p=kremera01,Pittsburgh,,1926,National League,Winning Percentage,.769,pitcher,1
+Pete Donohue,https://www.baseball-almanac.com/players/player.php?p=donohpe01,Cincinnati,,1926,National League,Wins,20,pitcher,1
+Ray Kremer,https://www.baseball-almanac.com/players/player.php?p=kremera01,Pittsburgh,,1926,National League,Wins,20,pitcher,1
+Lee Meadows,https://www.baseball-almanac.com/players/player.php?p=meadole01,Pittsburgh,,1926,National League,Wins,20,pitcher,1
+Flint Rhem,https://www.baseball-almanac.com/players/player.php?p=rhemfl01,St. Louis,,1926,National League,Wins,20,pitcher,1

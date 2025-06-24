@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+George Burns,https://www.baseball-almanac.com/players/player.php?p=burnsge01,Cincinnati,,1923,National League,Base on Balls,101,player,1
+Rogers Hornsby,https://www.baseball-almanac.com/players/player.php?p=hornsro01,St. Louis,,1923,National League,Batting Average,.384,player,1
+Edd Roush,https://www.baseball-almanac.com/players/player.php?p=roushed01,Cincinnati,,1923,National League,Doubles,41,player,1
+Frankie Frisch,https://www.baseball-almanac.com/players/player.php?p=friscfr01,New York,,1923,National League,Hits,223,player,1
+Cy Williams,https://www.baseball-almanac.com/players/player.php?p=willicy01,Philadelphia,,1923,National League,Home Runs,41,player,1
+Rogers Hornsby,https://www.baseball-almanac.com/players/player.php?p=hornsro01,St. Louis,,1923,National League,On Base Percentage,.459,player,1
+Irish Meusel,https://www.baseball-almanac.com/players/player.php?p=meuseir01,New York,,1923,National League,RBI,125,player,1
+Ross Youngs,https://www.baseball-almanac.com/players/player.php?p=youngro01,New York,,1923,National League,Runs,121,player,1
+Rogers Hornsby,https://www.baseball-almanac.com/players/player.php?p=hornsro01,St. Louis,,1923,National League,Slugging Average,.627,player,1
+Max Carey,https://www.baseball-almanac.com/players/player.php?p=careyma01,Pittsburgh,,1923,National League,Stolen Bases,51,player,1
+Frankie Frisch,https://www.baseball-almanac.com/players/player.php?p=friscfr01,New York,,1923,National League,Total Bases,311,player,1
+Max Carey,https://www.baseball-almanac.com/players/player.php?p=careyma01,Pittsburgh,,1923,National League,Triples,19,player,1
+Pie Traynor,https://www.baseball-almanac.com/players/player.php?p=traynpi01,Pittsburgh,,1923,National League,Triples,19,player,1
+Burleigh Grimes,https://www.baseball-almanac.com/players/player.php?p=grimebu01,Brooklyn,,1923,National League,Complete Games,33,pitcher,1
+Dolf Luque,https://www.baseball-almanac.com/players/player.php?p=luquedo01,Cincinnati,,1923,National League,ERA,1.93,pitcher,1
+Claude Jonnard,https://www.baseball-almanac.com/players/player.php?p=jonnacl01,New York,,1923,National League,Games,45,pitcher,1
+Rosy Ryan,https://www.baseball-almanac.com/players/player.php?p=ryanro01,New York,,1923,National League,Games,45,pitcher,1
+Claude Jonnard,https://www.baseball-almanac.com/players/player.php?p=jonnacl01,New York,,1923,National League,Saves,5,pitcher,1
+Dolf Luque,https://www.baseball-almanac.com/players/player.php?p=luquedo01,Cincinnati,,1923,National League,Shutouts,5,pitcher,1
+Dazzy Vance,https://www.baseball-almanac.com/players/player.php?p=vanceda01,Brooklyn,,1923,National League,Strikeouts,197,pitcher,1
+Dolf Luque,https://www.baseball-almanac.com/players/player.php?p=luquedo01,Cincinnati,,1923,National League,Winning Percentage,.771,pitcher,1
+Dolf Luque,https://www.baseball-almanac.com/players/player.php?p=luquedo01,Cincinnati,,1923,National League,Wins,27,pitcher,1

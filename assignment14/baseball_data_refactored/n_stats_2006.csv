@@ -1,0 +1,27 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2006,National League,Base on Balls,115,player,1
+Freddy Sanchez,https://www.baseball-almanac.com/players/player.php?p=sanchfr01,Pittsburgh,,2006,National League,Batting Average,.344,player,1
+Freddy Sanchez,https://www.baseball-almanac.com/players/player.php?p=sanchfr01,Pittsburgh,,2006,National League,Doubles,53,player,1
+Juan Pierre,https://www.baseball-almanac.com/players/player.php?p=pierrju01,Chicago,,2006,National League,Hits,204,player,1
+Ryan Howard,https://www.baseball-almanac.com/players/player.php?p=howarry01,Philadelphia,,2006,National League,Home Runs,58,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2006,National League,On Base Percentage,.454,player,1
+Ryan Howard,https://www.baseball-almanac.com/players/player.php?p=howarry01,Philadelphia,,2006,National League,RBI,149,player,1
+Chase Utley,https://www.baseball-almanac.com/players/player.php?p=utleych01,Philadelphia,,2006,National League,Runs,131,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2006,National League,Slugging Average,.671,player,1
+Jose Reyes,https://www.baseball-almanac.com/players/player.php?p=reyesjo01,New York,,2006,National League,Stolen Bases,64,player,1
+Ryan Howard,https://www.baseball-almanac.com/players/player.php?p=howarry01,Philadelphia,,2006,National League,Total Bases,383,player,1
+Jose Reyes,https://www.baseball-almanac.com/players/player.php?p=reyesjo01,New York,,2006,National League,Triples,17,player,1
+Aaron Harang,https://www.baseball-almanac.com/players/player.php?p=haranaa01,Cincinnati,,2006,National League,Complete Games,6,pitcher,1
+Roy Oswalt,https://www.baseball-almanac.com/players/player.php?p=oswalro01,Houston,,2006,National League,ERA,2.98,pitcher,1
+Salomon Torres,https://www.baseball-almanac.com/players/player.php?p=torresa01,Pittsburgh,,2006,National League,Games,94,pitcher,1
+Trevor Hoffman,https://www.baseball-almanac.com/players/player.php?p=hoffmtr01,San Diego,,2006,National League,Saves,46,pitcher,1
+Chris Carpenter,https://www.baseball-almanac.com/players/player.php?p=carpech01,St. Louis,,2006,National League,Shutouts,3,pitcher,1
+Brandon Webb,https://www.baseball-almanac.com/players/player.php?p=webbbr01,Arizona,,2006,National League,Shutouts,3,pitcher,1
+Aaron Harang,https://www.baseball-almanac.com/players/player.php?p=haranaa01,Cincinnati,,2006,National League,Strikeouts,216,pitcher,1
+Carlos Zambrano,https://www.baseball-almanac.com/players/player.php?p=zambrca01,Chicago,,2006,National League,Winning Percentage,.696,pitcher,1
+Aaron Harang,https://www.baseball-almanac.com/players/player.php?p=haranaa01,Cincinnati,,2006,National League,Wins,16,pitcher,1
+Derek Lowe,https://www.baseball-almanac.com/players/player.php?p=lowede01,Los Angeles,,2006,National League,Wins,16,pitcher,1
+Brad Penny,https://www.baseball-almanac.com/players/player.php?p=pennybr01,Los Angeles,,2006,National League,Wins,16,pitcher,1
+John Smoltz,https://www.baseball-almanac.com/players/player.php?p=smoltjo01,Atlanta,,2006,National League,Wins,16,pitcher,1
+Brandon Webb,https://www.baseball-almanac.com/players/player.php?p=webbbr01,Arizona,,2006,National League,Wins,16,pitcher,1
+Carlos Zambrano,https://www.baseball-almanac.com/players/player.php?p=zambrca01,Chicago,,2006,National League,Wins,16,pitcher,1

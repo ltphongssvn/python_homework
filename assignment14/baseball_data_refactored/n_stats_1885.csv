@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Ned Williamson,https://www.baseball-almanac.com/players/player.php?p=willine01,Chicago,,1885,National League,Base on Balls,75,player,1
+Roger Connor,https://www.baseball-almanac.com/players/player.php?p=connoro01,New York,,1885,National League,Batting Average,.371,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1885,National League,Doubles,35,player,1
+Roger Connor,https://www.baseball-almanac.com/players/player.php?p=connoro01,New York,,1885,National League,Hits,169,player,1
+Abner Dalrymple,https://www.baseball-almanac.com/players/player.php?p=dalryab01,Chicago,,1885,National League,Home Runs,11,player,1
+Roger Connor,https://www.baseball-almanac.com/players/player.php?p=connoro01,New York,,1885,National League,On Base Percentage,.435,player,1
+Cap Anson,https://www.baseball-almanac.com/players/player.php?p=ansonca01,Chicago,,1885,National League,RBI,108,player,1
+King Kelly,https://www.baseball-almanac.com/players/player.php?p=kellyki01,Chicago,,1885,National League,Runs,124,player,1
+Dan Brouthers,https://www.baseball-almanac.com/players/player.php?p=broutda01,Buffalo,,1885,National League,Slugging Average,.543,player,1
+Roger Connor,https://www.baseball-almanac.com/players/player.php?p=connoro01,New York,,1885,National League,Total Bases,225,player,1
+Jim O'Rourke,https://www.baseball-almanac.com/players/player.php?p=orouji01,New York,,1885,National League,Triples,16,player,1
+John Clarkson,https://www.baseball-almanac.com/players/player.php?p=clarkjo01,Chicago,,1885,National League,Complete Games,68,pitcher,1
+Tim Keefe,https://www.baseball-almanac.com/players/player.php?p=keefeti01,New York,,1885,National League,ERA,1.58,pitcher,1
+John Clarkson,https://www.baseball-almanac.com/players/player.php?p=clarkjo01,Chicago,,1885,National League,Games,70,pitcher,1
+Fred Pfeffer,https://www.baseball-almanac.com/players/player.php?p=pfefffr01,Chicago,,1885,National League,Saves,2,pitcher,1
+Ned Williamson,https://www.baseball-almanac.com/players/player.php?p=willine01,Chicago,,1885,National League,Saves,2,pitcher,1
+John Clarkson,https://www.baseball-almanac.com/players/player.php?p=clarkjo01,Chicago,,1885,National League,Shutouts,10,pitcher,1
+John Clarkson,https://www.baseball-almanac.com/players/player.php?p=clarkjo01,Chicago,,1885,National League,Strikeouts,308,pitcher,1
+Mickey Welch,https://www.baseball-almanac.com/players/player.php?p=welchmi01,New York,,1885,National League,Winning Percentage,.800,pitcher,1
+John Clarkson,https://www.baseball-almanac.com/players/player.php?p=clarkjo01,Chicago,,1885,National League,Wins,53,pitcher,1

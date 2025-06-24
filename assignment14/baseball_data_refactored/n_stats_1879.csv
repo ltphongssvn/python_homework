@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Charley Jones,https://www.baseball-almanac.com/players/player.php?p=jonesch01,Boston,,1879,National League,Base on Balls,29,player,1
+Paul Hines,https://www.baseball-almanac.com/players/player.php?p=hinespa01,Providence,,1879,National League,Batting Average,.357,player,1
+Charlie Eden,https://www.baseball-almanac.com/players/player.php?p=edench01,Cleveland,,1879,National League,Doubles,31,player,1
+Paul Hines,https://www.baseball-almanac.com/players/player.php?p=hinespa01,Providence,,1879,National League,Hits,146,player,1
+Charley Jones,https://www.baseball-almanac.com/players/player.php?p=jonesch01,Boston,,1879,National League,Home Runs,9,player,1
+Jim O'Rourke,https://www.baseball-almanac.com/players/player.php?p=orouji01,Providence,,1879,National League,On Base Percentage,.371,player,1
+Charley Jones,https://www.baseball-almanac.com/players/player.php?p=jonesch01,Boston,,1879,National League,RBI,62,player,1
+Jim O'Rourke,https://www.baseball-almanac.com/players/player.php?p=orouji01,Boston,,1879,National League,RBI,62,player,1
+Charley Jones,https://www.baseball-almanac.com/players/player.php?p=jonesch01,Boston,,1879,National League,Runs,85,player,1
+Jim O'Rourke,https://www.baseball-almanac.com/players/player.php?p=orouji01,Boston,,1879,National League,Slugging Average,.521,player,1
+Paul Hines,https://www.baseball-almanac.com/players/player.php?p=hinespa01,Providence,,1879,National League,Total Bases,197,player,1
+Buttercup Dickerson,https://www.baseball-almanac.com/players/player.php?p=dickebu01,Cincinnati,,1879,National League,Triples,14,player,1
+Will White,https://www.baseball-almanac.com/players/player.php?p=whitewi01,Cincinnati,,1879,National League,Complete Games,75,pitcher,1
+Tommy Bond,https://www.baseball-almanac.com/players/player.php?p=bondto01,Boston,,1879,National League,ERA,1.96,pitcher,1
+Will White,https://www.baseball-almanac.com/players/player.php?p=whitewi01,Cincinnati,,1879,National League,Games,76,pitcher,1
+Bobby Mathews,https://www.baseball-almanac.com/players/player.php?p=mathebo01,Providence,,1879,National League,Saves,2,pitcher,1
+John Ward,https://www.baseball-almanac.com/players/player.php?p=wardjo01,Providence,,1879,National League,Saves,2,pitcher,1
+Tommy Bond,https://www.baseball-almanac.com/players/player.php?p=bondto01,Boston,,1879,National League,Shutouts,11,pitcher,1
+John Ward,https://www.baseball-almanac.com/players/player.php?p=wardjo01,Providence,,1879,National League,Strikeouts,239,pitcher,1
+John Ward,https://www.baseball-almanac.com/players/player.php?p=wardjo01,Providence,,1879,National League,Winning Percentage,.712,pitcher,1
+John Ward,https://www.baseball-almanac.com/players/player.php?p=wardjo01,Providence,,1879,National League,Wins,47,pitcher,1

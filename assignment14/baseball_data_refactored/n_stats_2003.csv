@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2003,National League,Base on Balls,148,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2003,National League,Batting Average,.359,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2003,National League,Doubles,51,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2003,National League,Hits,212,player,1
+Jim Thome,https://www.baseball-almanac.com/players/player.php?p=thomeji01,Philadelphia,,2003,National League,Home Runs,47,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2003,National League,On Base Percentage,.529,player,1
+Preston Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsopr01,Colorado,,2003,National League,RBI,141,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2003,National League,Runs,137,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2003,National League,Slugging Average,.749,player,1
+Juan Pierre,https://www.baseball-almanac.com/players/player.php?p=pierrju01,Florida,,2003,National League,Stolen Bases,45,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2003,National League,Total Bases,394,player,1
+Steve Finley,https://www.baseball-almanac.com/players/player.php?p=finlest01,Arizona,,2003,National League,Triples,10,player,1
+Rafael Furcal,https://www.baseball-almanac.com/players/player.php?p=furcara02,Atlanta,,2003,National League,Triples,10,player,1
+Livan Hernandez,https://www.baseball-almanac.com/players/player.php?p=hernali01,Montreal,,2003,National League,Complete Games,8,pitcher,1
+Jason Schmidt,https://www.baseball-almanac.com/players/player.php?p=schmija01,San Francisco,,2003,National League,ERA,2.34,pitcher,1
+Paul Quantrill,https://www.baseball-almanac.com/players/player.php?p=quantpa01,Los Angeles,,2003,National League,Games,89,pitcher,1
+Eric Gagne,https://www.baseball-almanac.com/players/player.php?p=gagneer01,Los Angeles,,2003,National League,Saves,55,pitcher,1
+Kevin Millwood,https://www.baseball-almanac.com/players/player.php?p=millwke01,Philadelphia,,2003,National League,Shutouts,3,pitcher,1
+Matt Morris,https://www.baseball-almanac.com/players/player.php?p=morrima01,St. Louis,,2003,National League,Shutouts,3,pitcher,1
+Jason Schmidt,https://www.baseball-almanac.com/players/player.php?p=schmija01,San Francisco,,2003,National League,Shutouts,3,pitcher,1
+Kerry Wood,https://www.baseball-almanac.com/players/player.php?p=woodke02,Chicago,,2003,National League,Strikeouts,266,pitcher,1
+Jason Schmidt,https://www.baseball-almanac.com/players/player.php?p=schmija01,San Francisco,,2003,National League,Winning Percentage,.773,pitcher,1
+Russ Ortiz,https://www.baseball-almanac.com/players/player.php?p=ortizru01,Atlanta,,2003,National League,Wins,21,pitcher,1

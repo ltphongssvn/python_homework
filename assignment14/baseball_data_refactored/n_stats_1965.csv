@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Joe Morgan,https://www.baseball-almanac.com/players/player.php?p=morgajo02,Houston,,1965,National League,Base on Balls,97,player,1
+Roberto Clemente,https://www.baseball-almanac.com/players/player.php?p=clemero01,Pittsburgh,,1965,National League,Batting Average,.329,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1965,National League,Doubles,40,player,1
+Pete Rose,https://www.baseball-almanac.com/players/player.php?p=rosepe01,Cincinnati,,1965,National League,Hits,209,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1965,National League,Home Runs,52,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1965,National League,On Base Percentage,.399,player,1
+Deron Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsde01,Cincinnati,,1965,National League,RBI,130,player,1
+Tommy Harper,https://www.baseball-almanac.com/players/player.php?p=harpeto01,Cincinnati,,1965,National League,Runs,126,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1965,National League,Slugging Average,.645,player,1
+Maury Wills,https://www.baseball-almanac.com/players/player.php?p=willsma01,Los Angeles,,1965,National League,Stolen Bases,94,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1965,National League,Total Bases,360,player,1
+Johnny Callison,https://www.baseball-almanac.com/players/player.php?p=callijo01,Philadelphia,,1965,National League,Triples,16,player,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1965,National League,Complete Games,27,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1965,National League,ERA,2.04,pitcher,1
+Ted Abernathy,https://www.baseball-almanac.com/players/player.php?p=abernte02,Chicago,,1965,National League,Games,84,pitcher,1
+Ted Abernathy,https://www.baseball-almanac.com/players/player.php?p=abernte02,Chicago,,1965,National League,Saves,31,pitcher,1
+Juan Marichal,https://www.baseball-almanac.com/players/player.php?p=maricju01,San Francisco,,1965,National League,Shutouts,10,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1965,National League,Strikeouts,382,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1965,National League,Winning Percentage,.765,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1965,National League,Wins,26,pitcher,1

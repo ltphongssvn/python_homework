@@ -1,0 +1,86 @@
+
+================================================================================
+MULTI-PATTERN BASEBALL ALMANAC SCRAPING SUMMARY
+================================================================================
+Output Directory: multipattern_baseball_data
+
+PERFORMANCE METRICS:
+  - Total Requests Made: 273
+  - Failed Requests: 2
+  - Success Rate: 99.3%
+
+DATA EXTRACTED:
+  - Player Statistics: 0
+  - Pitcher Statistics: 0
+  - Team Standings: 825
+  - Total Records: 1,051
+
+PATTERNS USED:
+  - American League 1901-2001: 94 years
+  - American League 2002-2003: 2 years
+  - American League 2004-2004: 1 years
+  - American League 2005-2013: 7 years
+  - American League 2014-2024: 3 years
+  - National League 1876-2004: 118 years
+  - National League 2005-2013: 9 years
+  - National League 2014-2024: 3 years
+
+PATTERN DETECTION:
+  - American League 1901-2001: 101 times
+  - American League 2002-2003: 2 times
+  - American League 2004-2004: 1 times
+  - American League 2005-2013: 9 times
+  - American League 2014-2024: 11 times
+  - National League 1876-2004: 129 times
+  - National League 2005-2013: 9 times
+  - National League 2014-2024: 11 times
+
+FAILED YEARS:
+  - National League 1887: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1892: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1931: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1937: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1940: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1955: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1986: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1989: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1990: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1992: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 1995: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 2017: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 2018: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 2019: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 2020: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 2021: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 2022: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 2023: dict contains fields not in fieldnames: 'extraction_confidence'
+  - National League 2024: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 1929: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 1937: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 1940: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 1950: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 1987: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 1989: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 1995: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2005: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2007: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2017: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2018: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2019: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2020: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2021: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2022: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2023: dict contains fields not in fieldnames: 'extraction_confidence'
+  - American League 2024: dict contains fields not in fieldnames: 'extraction_confidence'
+
+OUTPUT FILES:
+  - Pattern-specific yearly files: [league]_stats_[year]_pattern.csv
+  - Pattern-specific standings: [league]_standings_[year]_pattern.csv
+  - Pattern analysis: pattern_analysis.json
+
+KEY INSIGHTS:
+  - Successfully handled 8
+  different HTML patterns
+  - Adapted parsing logic for evolving website structure from 1876-2024
+  - Maintained data consistency across different eras
+================================================================================

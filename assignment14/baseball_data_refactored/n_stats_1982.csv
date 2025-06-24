@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mike Schmidt,https://www.baseball-almanac.com/players/player.php?p=schmimi01,Philadelphia,,1982,National League,Base on Balls,107,player,1
+Al Oliver,https://www.baseball-almanac.com/players/player.php?p=oliveal01,Montreal,,1982,National League,Batting Average,.331,player,1
+Al Oliver,https://www.baseball-almanac.com/players/player.php?p=oliveal01,Montreal,,1982,National League,Doubles,43,player,1
+Al Oliver,https://www.baseball-almanac.com/players/player.php?p=oliveal01,Montreal,,1982,National League,Hits,204,player,1
+Dave Kingman,https://www.baseball-almanac.com/players/player.php?p=kingmda01,New York,,1982,National League,Home Runs,37,player,1
+Mike Schmidt,https://www.baseball-almanac.com/players/player.php?p=schmimi01,Philadelphia,,1982,National League,On Base Percentage,.407,player,1
+Dale Murphy,https://www.baseball-almanac.com/players/player.php?p=murphda05,Atlanta,,1982,National League,RBI,109,player,1
+Al Oliver,https://www.baseball-almanac.com/players/player.php?p=oliveal01,Montreal,,1982,National League,RBI,109,player,1
+Lonnie Smith,https://www.baseball-almanac.com/players/player.php?p=smithlo01,St. Louis,,1982,National League,Runs,120,player,1
+Mike Schmidt,https://www.baseball-almanac.com/players/player.php?p=schmimi01,Philadelphia,,1982,National League,Slugging Average,.547,player,1
+Tim Raines,https://www.baseball-almanac.com/players/player.php?p=raineti01,Montreal,,1982,National League,Stolen Bases,78,player,1
+Al Oliver,https://www.baseball-almanac.com/players/player.php?p=oliveal01,Montreal,,1982,National League,Total Bases,317,player,1
+Dickie Thon,https://www.baseball-almanac.com/players/player.php?p=thondi01,Houston,,1982,National League,Triples,10,player,1
+Steve Carlton,https://www.baseball-almanac.com/players/player.php?p=carltst01,Philadelphia,,1982,National League,Complete Games,19,pitcher,1
+Steve Rogers,https://www.baseball-almanac.com/players/player.php?p=rogerst01,Montreal,,1982,National League,ERA,2.40,pitcher,1
+Kent Tekulve,https://www.baseball-almanac.com/players/player.php?p=tekulke01,Pittsburgh,,1982,National League,Games,85,pitcher,1
+Bruce Sutter,https://www.baseball-almanac.com/players/player.php?p=suttebr01,St. Louis,,1982,National League,Saves,36,pitcher,1
+Steve Carlton,https://www.baseball-almanac.com/players/player.php?p=carltst01,Philadelphia,,1982,National League,Shutouts,6,pitcher,1
+Steve Carlton,https://www.baseball-almanac.com/players/player.php?p=carltst01,Philadelphia,,1982,National League,Strikeouts,286,pitcher,1
+Phil Niekro,https://www.baseball-almanac.com/players/player.php?p=niekrph01,Atlanta,,1982,National League,Winning Percentage,.810,pitcher,1
+Steve Carlton,https://www.baseball-almanac.com/players/player.php?p=carltst01,Philadelphia,,1982,National League,Wins,23,pitcher,1

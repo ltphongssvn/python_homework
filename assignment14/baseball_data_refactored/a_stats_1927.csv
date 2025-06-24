@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1927,American League,Base on Balls,137,player,1
+Harry Heilmann,https://www.baseball-almanac.com/players/player.php?p=heilmha01,Detroit,,1927,American League,Batting Average,.398,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1927,American League,Doubles,52,player,1
+Earle Combs,https://www.baseball-almanac.com/players/player.php?p=combsea01,New York,,1927,American League,Hits,231,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1927,American League,Home Runs,60,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1927,American League,On Base Percentage,.486,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1927,American League,RBI,175,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1927,American League,Runs,158,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1927,American League,Slugging Average,.772,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1927,American League,Stolen Bases,27,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1927,American League,Total Bases,447,player,1
+Earle Combs,https://www.baseball-almanac.com/players/player.php?p=combsea01,New York,,1927,American League,Triples,23,player,1
+Ted Lyons,https://www.baseball-almanac.com/players/player.php?p=lyonste01,Chicago,,1927,American League,Complete Games,30,pitcher,1
+Wilcy Moore,https://www.baseball-almanac.com/players/player.php?p=moorewi01,New York,,1927,American League,ERA,2.28,pitcher,1
+Garland Braxton,https://www.baseball-almanac.com/players/player.php?p=braxtga01,Washington,,1927,American League,Games,58,pitcher,1
+Garland Braxton,https://www.baseball-almanac.com/players/player.php?p=braxtga01,Washington,,1927,American League,Saves,13,pitcher,1
+Wilcy Moore,https://www.baseball-almanac.com/players/player.php?p=moorewi01,New York,,1927,American League,Saves,13,pitcher,1
+Hod Lisenbee,https://www.baseball-almanac.com/players/player.php?p=lisenho01,Washington,,1927,American League,Shutouts,4,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1927,American League,Strikeouts,174,pitcher,1
+Waite Hoyt,https://www.baseball-almanac.com/players/player.php?p=hoytwa01,New York,,1927,American League,Winning Percentage,.759,pitcher,1
+Waite Hoyt,https://www.baseball-almanac.com/players/player.php?p=hoytwa01,New York,,1927,American League,Wins,22,pitcher,1
+Ted Lyons,https://www.baseball-almanac.com/players/player.php?p=lyonste01,Chicago,,1927,American League,Wins,22,pitcher,1

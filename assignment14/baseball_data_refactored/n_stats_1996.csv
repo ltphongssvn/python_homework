@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,1996,National League,Base on Balls,151,player,1
+Tony Gwynn,https://www.baseball-almanac.com/players/player.php?p=gwynnto01,San Diego,,1996,National League,Batting Average,.353,player,1
+Jeff Bagwell,https://www.baseball-almanac.com/players/player.php?p=bagweje01,Houston,,1996,National League,Doubles,48,player,1
+Lance Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsla03,New York,,1996,National League,Hits,227,player,1
+Andres Galarraga,https://www.baseball-almanac.com/players/player.php?p=galaran01,Colorado,,1996,National League,Home Runs,47,player,1
+Gary Sheffield,https://www.baseball-almanac.com/players/player.php?p=sheffga01,Florida,,1996,National League,On Base Percentage,.469,player,1
+Andres Galarraga,https://www.baseball-almanac.com/players/player.php?p=galaran01,Colorado,,1996,National League,RBI,150,player,1
+Ellis Burks,https://www.baseball-almanac.com/players/player.php?p=burksel01,Colorado,,1996,National League,Runs,142,player,1
+Ellis Burks,https://www.baseball-almanac.com/players/player.php?p=burksel01,Colorado,,1996,National League,Slugging Average,.639,player,1
+Eric Young,https://www.baseball-almanac.com/players/player.php?p=younger01,Colorado,,1996,National League,Stolen Bases,53,player,1
+Ellis Burks,https://www.baseball-almanac.com/players/player.php?p=burksel01,Colorado,,1996,National League,Total Bases,392,player,1
+Lance Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsla03,New York,,1996,National League,Triples,21,player,1
+Curt Schilling,https://www.baseball-almanac.com/players/player.php?p=schilcu01,Philadelphia,,1996,National League,Complete Games,8,pitcher,1
+Kevin Brown,https://www.baseball-almanac.com/players/player.php?p=brownke01,Florida,,1996,National League,ERA,1.89,pitcher,1
+Brad Clontz,https://www.baseball-almanac.com/players/player.php?p=clontbr01,Atlanta,,1996,National League,Games,81,pitcher,1
+Jeff Brantley,https://www.baseball-almanac.com/players/player.php?p=brantje01,Cincinnati,,1996,National League,Saves,44,pitcher,1
+Todd Worrell,https://www.baseball-almanac.com/players/player.php?p=worreto01,Los Angeles,,1996,National League,Saves,44,pitcher,1
+Kevin Brown,https://www.baseball-almanac.com/players/player.php?p=brownke01,Florida,,1996,National League,Shutouts,3,pitcher,1
+John Smoltz,https://www.baseball-almanac.com/players/player.php?p=smoltjo01,Atlanta,,1996,National League,Strikeouts,276,pitcher,1
+John Smoltz,https://www.baseball-almanac.com/players/player.php?p=smoltjo01,Atlanta,,1996,National League,Winning Percentage,.750,pitcher,1
+John Smoltz,https://www.baseball-almanac.com/players/player.php?p=smoltjo01,Atlanta,,1996,National League,Wins,24,pitcher,1

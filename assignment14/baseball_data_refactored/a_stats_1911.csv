@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Donie Bush,https://www.baseball-almanac.com/players/player.php?p=bushdo01,Detroit,,1911,American League,Base on Balls,98,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,Batting Average,.419,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,Doubles,47,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,Hits,248,player,1
+Frank Baker,https://www.baseball-almanac.com/players/player.php?p=bakerfr01,Philadelphia,,1911,American League,Home Runs,11,player,1
+Joe Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksjo01,Cleveland,,1911,American League,On Base Percentage,.468,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,RBI,127,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,Runs,147,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,Slugging Average,.620,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,Stolen Bases,83,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,Total Bases,367,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1911,American League,Triples,24,player,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1911,American League,Complete Games,36,pitcher,1
+Vean Gregg,https://www.baseball-almanac.com/players/player.php?p=greggve01,Cleveland,,1911,American League,ERA,1.80,pitcher,1
+Ed Walsh,https://www.baseball-almanac.com/players/player.php?p=walshed01,Chicago,,1911,American League,Games,56,pitcher,1
+Charley Hall,https://www.baseball-almanac.com/players/player.php?p=hallch02,Boston,,1911,American League,Saves,4,pitcher,1
+Eddie Plank,https://www.baseball-almanac.com/players/player.php?p=planked01,Philadelphia,,1911,American League,Saves,4,pitcher,1
+Ed Walsh,https://www.baseball-almanac.com/players/player.php?p=walshed01,Chicago,,1911,American League,Saves,4,pitcher,1
+Eddie Plank,https://www.baseball-almanac.com/players/player.php?p=planked01,Philadelphia,,1911,American League,Shutouts,6,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1911,American League,Shutouts,6,pitcher,1
+Ed Walsh,https://www.baseball-almanac.com/players/player.php?p=walshed01,Chicago,,1911,American League,Strikeouts,255,pitcher,1
+Chief Bender,https://www.baseball-almanac.com/players/player.php?p=bendech01,Philadelphia,,1911,American League,Winning Percentage,.773,pitcher,1
+Jack Coombs,https://www.baseball-almanac.com/players/player.php?p=coombja01,Philadelphia,,1911,American League,Wins,28,pitcher,1

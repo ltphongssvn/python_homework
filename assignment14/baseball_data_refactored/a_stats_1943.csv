@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Charlie Keller,https://www.baseball-almanac.com/players/player.php?p=kellech01,New York,,1943,American League,Base on Balls,106,player,1
+Luke Appling,https://www.baseball-almanac.com/players/player.php?p=applilu01,Chicago,,1943,American League,Batting Average,.328,player,1
+Dick Wakefield,https://www.baseball-almanac.com/players/player.php?p=wakefdi01,Detroit,,1943,American League,Doubles,38,player,1
+Dick Wakefield,https://www.baseball-almanac.com/players/player.php?p=wakefdi01,Detroit,,1943,American League,Hits,200,player,1
+Rudy York,https://www.baseball-almanac.com/players/player.php?p=yorkru01,Detroit,,1943,American League,Home Runs,34,player,1
+Luke Appling,https://www.baseball-almanac.com/players/player.php?p=applilu01,Chicago,,1943,American League,On Base Percentage,.419,player,1
+Rudy York,https://www.baseball-almanac.com/players/player.php?p=yorkru01,Detroit,,1943,American League,RBI,118,player,1
+George Case,https://www.baseball-almanac.com/players/player.php?p=casege01,Washington,,1943,American League,Runs,102,player,1
+Rudy York,https://www.baseball-almanac.com/players/player.php?p=yorkru01,Detroit,,1943,American League,Slugging Average,.527,player,1
+George Case,https://www.baseball-almanac.com/players/player.php?p=casege01,Washington,,1943,American League,Stolen Bases,61,player,1
+Rudy York,https://www.baseball-almanac.com/players/player.php?p=yorkru01,Detroit,,1943,American League,Total Bases,301,player,1
+Johnny Lindell,https://www.baseball-almanac.com/players/player.php?p=lindejo01,New York,,1943,American League,Triples,12,player,1
+Wally Moses,https://www.baseball-almanac.com/players/player.php?p=moseswa01,Chicago,,1943,American League,Triples,12,player,1
+Spud Chandler,https://www.baseball-almanac.com/players/player.php?p=chandsp01,New York,,1943,American League,Complete Games,20,pitcher,1
+Tex Hughson,https://www.baseball-almanac.com/players/player.php?p=hughste01,Boston,,1943,American League,Complete Games,20,pitcher,1
+Spud Chandler,https://www.baseball-almanac.com/players/player.php?p=chandsp01,New York,,1943,American League,ERA,1.64,pitcher,1
+Mace Brown,https://www.baseball-almanac.com/players/player.php?p=brownma01,Boston,,1943,American League,Games,49,pitcher,1
+Gordon Maltzberger,https://www.baseball-almanac.com/players/player.php?p=maltzgo01,Chicago,,1943,American League,Saves,14,pitcher,1
+Spud Chandler,https://www.baseball-almanac.com/players/player.php?p=chandsp01,New York,,1943,American League,Shutouts,5,pitcher,1
+Dizzy Trout,https://www.baseball-almanac.com/players/player.php?p=troutdi01,Detroit,,1943,American League,Shutouts,5,pitcher,1
+Allie Reynolds,https://www.baseball-almanac.com/players/player.php?p=reynoal01,Cleveland,,1943,American League,Strikeouts,151,pitcher,1
+Spud Chandler,https://www.baseball-almanac.com/players/player.php?p=chandsp01,New York,,1943,American League,Winning Percentage,.833,pitcher,1
+Spud Chandler,https://www.baseball-almanac.com/players/player.php?p=chandsp01,New York,,1943,American League,Wins,20,pitcher,1
+Tex Hughson,https://www.baseball-almanac.com/players/player.php?p=hughste01,Boston,,1943,American League,Wins,20,pitcher,1

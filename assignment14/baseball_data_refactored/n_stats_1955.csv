@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Eddie Mathews,https://www.baseball-almanac.com/players/player.php?p=matheed01,Milwaukee,,1955,National League,Base on Balls,109,player,1
+Richie Ashburn,https://www.baseball-almanac.com/players/player.php?p=ashburi01,Philadelphia,,1955,National League,Batting Average,.338,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1955,National League,Doubles,37,player,1
+Johnny Logan,https://www.baseball-almanac.com/players/player.php?p=loganjo01,Milwaukee,,1955,National League,Doubles,37,player,1
+Ted Kluszewski,https://www.baseball-almanac.com/players/player.php?p=kluszte01,Cincinnati,,1955,National League,Hits,192,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,New York,,1955,National League,Home Runs,51,player,1
+Richie Ashburn,https://www.baseball-almanac.com/players/player.php?p=ashburi01,Philadelphia,,1955,National League,On Base Percentage,.449,player,1
+Duke Snider,https://www.baseball-almanac.com/players/player.php?p=snidedu01,Brooklyn,,1955,National League,RBI,136,player,1
+Duke Snider,https://www.baseball-almanac.com/players/player.php?p=snidedu01,Brooklyn,,1955,National League,Runs,126,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,New York,,1955,National League,Slugging Average,.659,player,1
+Bill Bruton,https://www.baseball-almanac.com/players/player.php?p=brutobi01,Milwaukee,,1955,National League,Stolen Bases,25,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,New York,,1955,National League,Total Bases,382,player,1
+Dale Long,https://www.baseball-almanac.com/players/player.php?p=longda02,Pittsburgh,,1955,National League,Triples,13,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,New York,,1955,National League,Triples,13,player,1
+Robin Roberts,https://www.baseball-almanac.com/players/player.php?p=roberro01,Philadelphia,,1955,National League,Complete Games,26,pitcher,1
+Bob Friend,https://www.baseball-almanac.com/players/player.php?p=frienbo01,Pittsburgh,,1955,National League,ERA,2.83,pitcher,1
+Clem Labine,https://www.baseball-almanac.com/players/player.php?p=labincl01,Brooklyn,,1955,National League,Games,60,pitcher,1
+Jack Meyer,https://www.baseball-almanac.com/players/player.php?p=meyerja01,Philadelphia,,1955,National League,Saves,16,pitcher,1
+Joe Nuxhall,https://www.baseball-almanac.com/players/player.php?p=nuxhajo01,Cincinnati,,1955,National League,Shutouts,5,pitcher,1
+Sam Jones,https://www.baseball-almanac.com/players/player.php?p=jonessa02,Chicago,,1955,National League,Strikeouts,198,pitcher,1
+Don Newcombe,https://www.baseball-almanac.com/players/player.php?p=newcodo01,Brooklyn,,1955,National League,Winning Percentage,.800,pitcher,1
+Robin Roberts,https://www.baseball-almanac.com/players/player.php?p=roberro01,Philadelphia,,1955,National League,Wins,23,pitcher,1

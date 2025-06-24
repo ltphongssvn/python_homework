@@ -1,0 +1,26 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Boston,,1896,National League,Base on Balls,110,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,Cleveland,,1896,National League,Batting Average,.410,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1896,National League,Doubles,44,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,Cleveland,,1896,National League,Hits,240,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1896,National League,Home Runs,13,player,1
+Bill Joyce,https://www.baseball-almanac.com/players/player.php?p=joycebi01,Washington,,1896,National League,Home Runs,13,player,1
+Bill Joyce,https://www.baseball-almanac.com/players/player.php?p=joycebi01,New York,,1896,National League,Home Runs,13,player,1
+Billy Hamilton,https://www.baseball-almanac.com/players/player.php?p=hamilbi01,Boston,,1896,National League,On Base Percentage,.478,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1896,National League,RBI,126,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,Cleveland,,1896,National League,Runs,160,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1896,National League,Slugging Average,.631,player,1
+Joe Kelley,https://www.baseball-almanac.com/players/player.php?p=kellejo01,Baltimore,,1896,National League,Stolen Bases,87,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,Cleveland,,1896,National League,Total Bases,317,player,1
+Tom McCreery,https://www.baseball-almanac.com/players/player.php?p=mccreto01,Louisville,,1896,National League,Triples,21,player,1
+George Van Haltren,https://www.baseball-almanac.com/players/player.php?p=vanhage01,New York,,1896,National League,Triples,21,player,1
+Frank Killen,https://www.baseball-almanac.com/players/player.php?p=killefr01,Pittsburgh,,1896,National League,Complete Games,44,pitcher,1
+Billy Rhines,https://www.baseball-almanac.com/players/player.php?p=rhinebi01,Cincinnati,,1896,National League,ERA,2.45,pitcher,1
+Frank Killen,https://www.baseball-almanac.com/players/player.php?p=killefr01,Pittsburgh,,1896,National League,Games,52,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Cleveland,,1896,National League,Saves,3,pitcher,1
+Frank Killen,https://www.baseball-almanac.com/players/player.php?p=killefr01,Pittsburgh,,1896,National League,Shutouts,5,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Cleveland,,1896,National League,Shutouts,5,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Cleveland,,1896,National League,Strikeouts,140,pitcher,1
+Bill Hoffer,https://www.baseball-almanac.com/players/player.php?p=hoffebi01,Baltimore,,1896,National League,Winning Percentage,.781,pitcher,1
+Frank Killen,https://www.baseball-almanac.com/players/player.php?p=killefr01,Pittsburgh,,1896,National League,Wins,30,pitcher,1
+Kid Nichols,https://www.baseball-almanac.com/players/player.php?p=nichoki01,Boston,,1896,National League,Wins,30,pitcher,1

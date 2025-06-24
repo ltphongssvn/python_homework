@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Dale Murphy,https://www.baseball-almanac.com/players/player.php?p=murphda05,Atlanta,,1985,National League,Base on Balls,90,player,1
+Willie McGee,https://www.baseball-almanac.com/players/player.php?p=mcgeewi01,St. Louis,,1985,National League,Batting Average,.353,player,1
+Dave Parker,https://www.baseball-almanac.com/players/player.php?p=parkeda01,Cincinnati,,1985,National League,Doubles,42,player,1
+Willie McGee,https://www.baseball-almanac.com/players/player.php?p=mcgeewi01,St. Louis,,1985,National League,Hits,216,player,1
+Dale Murphy,https://www.baseball-almanac.com/players/player.php?p=murphda05,Atlanta,,1985,National League,Home Runs,37,player,1
+Pedro Guerrero,https://www.baseball-almanac.com/players/player.php?p=guerrpe01,Los Angeles,,1985,National League,On Base Percentage,.425,player,1
+Dave Parker,https://www.baseball-almanac.com/players/player.php?p=parkeda01,Cincinnati,,1985,National League,RBI,125,player,1
+Dale Murphy,https://www.baseball-almanac.com/players/player.php?p=murphda05,Atlanta,,1985,National League,Runs,118,player,1
+Pedro Guerrero,https://www.baseball-almanac.com/players/player.php?p=guerrpe01,Los Angeles,,1985,National League,Slugging Average,.577,player,1
+Vince Coleman,https://www.baseball-almanac.com/players/player.php?p=colemvi01,St. Louis,,1985,National League,Stolen Bases,110,player,1
+Dave Parker,https://www.baseball-almanac.com/players/player.php?p=parkeda01,Cincinnati,,1985,National League,Total Bases,350,player,1
+Willie McGee,https://www.baseball-almanac.com/players/player.php?p=mcgeewi01,St. Louis,,1985,National League,Triples,18,player,1
+Dwight Gooden,https://www.baseball-almanac.com/players/player.php?p=goodedw01,New York,,1985,National League,Complete Games,16,pitcher,1
+Dwight Gooden,https://www.baseball-almanac.com/players/player.php?p=goodedw01,New York,,1985,National League,ERA,1.53,pitcher,1
+Tim Burke,https://www.baseball-almanac.com/players/player.php?p=burketi01,Montreal,,1985,National League,Games,78,pitcher,1
+Jeff Reardon,https://www.baseball-almanac.com/players/player.php?p=reardje01,Montreal,,1985,National League,Saves,41,pitcher,1
+John Tudor,https://www.baseball-almanac.com/players/player.php?p=tudorjo01,St. Louis,,1985,National League,Shutouts,10,pitcher,1
+Dwight Gooden,https://www.baseball-almanac.com/players/player.php?p=goodedw01,New York,,1985,National League,Strikeouts,268,pitcher,1
+Orel Hershiser,https://www.baseball-almanac.com/players/player.php?p=hershor01,Los Angeles,,1985,National League,Winning Percentage,.864,pitcher,1
+Dwight Gooden,https://www.baseball-almanac.com/players/player.php?p=goodedw01,New York,,1985,National League,Wins,24,pitcher,1

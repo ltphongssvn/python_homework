@@ -1,0 +1,21 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2002,National League,Base on Balls,198,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2002,National League,Batting Average,.370,player,1
+Bobby Abreu,https://www.baseball-almanac.com/players/player.php?p=abreubo01,Philadelphia,,2002,National League,Doubles,50,player,1
+Vladimir Guerrero,https://www.baseball-almanac.com/players/player.php?p=guerrvl01,Montreal,,2002,National League,Hits,206,player,1
+Sammy Sosa,https://www.baseball-almanac.com/players/player.php?p=sosasa01,Chicago,,2002,National League,Home Runs,49,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2002,National League,On Base Percentage,.582,player,1
+Lance Berkman,https://www.baseball-almanac.com/players/player.php?p=berkmla01,Houston,,2002,National League,RBI,128,player,1
+Sammy Sosa,https://www.baseball-almanac.com/players/player.php?p=sosasa01,Chicago,,2002,National League,Runs,122,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2002,National League,Slugging Average,.799,player,1
+Luis Castillo,https://www.baseball-almanac.com/players/player.php?p=castilu01,Florida,,2002,National League,Stolen Bases,48,player,1
+Vladimir Guerrero,https://www.baseball-almanac.com/players/player.php?p=guerrvl01,Montreal,,2002,National League,Total Bases,364,player,1
+Jimmy Rollins,https://www.baseball-almanac.com/players/player.php?p=rolliji01,Philadelphia,,2002,National League,Triples,10,player,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2002,National League,Complete Games,8,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2002,National League,ERA,2.32,pitcher,1
+Paul Quantrill,https://www.baseball-almanac.com/players/player.php?p=quantpa01,Los Angeles,,2002,National League,Games,86,pitcher,1
+John Smoltz,https://www.baseball-almanac.com/players/player.php?p=smoltjo01,Atlanta,,2002,National League,Saves,55,pitcher,1
+A.J. Burnett,https://www.baseball-almanac.com/players/player.php?p=burneaj01,Florida,,2002,National League,Shutouts,5,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2002,National League,Strikeouts,334,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2002,National League,Winning Percentage,.828,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2002,National League,Wins,24,pitcher,1

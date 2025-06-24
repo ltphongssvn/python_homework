@@ -1,0 +1,99 @@
+{
+  "timestamp": "2025-06-21T20:21:29.199770",
+  "patterns_detected": {
+    "National League 1876-2004": 129,
+    "National League 2005-2013": 9,
+    "National League 2014-2024": 11,
+    "American League 1901-2001": 101,
+    "American League 2002-2003": 2,
+    "American League 2004-2004": 1,
+    "American League 2005-2013": 9,
+    "American League 2014-2024": 11
+  },
+  "pattern_failures": {},
+  "total_requests": 273,
+  "failed_requests": 2,
+  "total_data_extracted": 1051,
+  "pattern_configs": {
+    "National League 1876-2004": {
+      "year_range": [
+        1876,
+        2004
+      ],
+      "league": "National League",
+      "has_payroll": false,
+      "has_ties_column": false,
+      "uses_middle_class": true
+    },
+    "National League 2005-2013": {
+      "year_range": [
+        2005,
+        2013
+      ],
+      "league": "National League",
+      "has_payroll": true,
+      "has_ties_column": true,
+      "uses_middle_class": true
+    },
+    "National League 2014-2024": {
+      "year_range": [
+        2014,
+        2024
+      ],
+      "league": "National League",
+      "has_payroll": true,
+      "has_ties_column": true,
+      "uses_middle_class": true
+    },
+    "American League 1901-2001": {
+      "year_range": [
+        1901,
+        2001
+      ],
+      "league": "American League",
+      "has_payroll": false,
+      "has_ties_column": false,
+      "uses_middle_class": true
+    },
+    "American League 2002-2003": {
+      "year_range": [
+        2002,
+        2003
+      ],
+      "league": "American League",
+      "has_payroll": true,
+      "has_ties_column": false,
+      "uses_middle_class": false
+    },
+    "American League 2004-2004": {
+      "year_range": [
+        2004,
+        2004
+      ],
+      "league": "American League",
+      "has_payroll": true,
+      "has_ties_column": true,
+      "uses_middle_class": true
+    },
+    "American League 2005-2013": {
+      "year_range": [
+        2005,
+        2013
+      ],
+      "league": "American League",
+      "has_payroll": true,
+      "has_ties_column": true,
+      "uses_middle_class": true
+    },
+    "American League 2014-2024": {
+      "year_range": [
+        2014,
+        2024
+      ],
+      "league": "American League",
+      "has_payroll": true,
+      "has_ties_column": true,
+      "uses_middle_class": true
+    }
+  }
+}

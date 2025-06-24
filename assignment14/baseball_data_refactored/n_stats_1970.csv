@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Willie McCovey,https://www.baseball-almanac.com/players/player.php?p=mccovwi01,San Francisco,,1970,National League,Base on Balls,137,player,1
+Rico Carty,https://www.baseball-almanac.com/players/player.php?p=cartyri01,Atlanta,,1970,National League,Batting Average,.366,player,1
+Wes Parker,https://www.baseball-almanac.com/players/player.php?p=parkewe01,Los Angeles,,1970,National League,Doubles,47,player,1
+Pete Rose,https://www.baseball-almanac.com/players/player.php?p=rosepe01,Cincinnati,,1970,National League,Hits,205,player,1
+Billy Williams,https://www.baseball-almanac.com/players/player.php?p=willibi01,Chicago,,1970,National League,Hits,205,player,1
+Johnny Bench,https://www.baseball-almanac.com/players/player.php?p=benchjo01,Cincinnati,,1970,National League,Home Runs,45,player,1
+Rico Carty,https://www.baseball-almanac.com/players/player.php?p=cartyri01,Atlanta,,1970,National League,On Base Percentage,.456,player,1
+Johnny Bench,https://www.baseball-almanac.com/players/player.php?p=benchjo01,Cincinnati,,1970,National League,RBI,148,player,1
+Billy Williams,https://www.baseball-almanac.com/players/player.php?p=willibi01,Chicago,,1970,National League,Runs,137,player,1
+Willie McCovey,https://www.baseball-almanac.com/players/player.php?p=mccovwi01,San Francisco,,1970,National League,Slugging Average,.612,player,1
+Bobby Tolan,https://www.baseball-almanac.com/players/player.php?p=tolanbo01,Cincinnati,,1970,National League,Stolen Bases,57,player,1
+Billy Williams,https://www.baseball-almanac.com/players/player.php?p=willibi01,Chicago,,1970,National League,Total Bases,373,player,1
+Willie Davis,https://www.baseball-almanac.com/players/player.php?p=daviswi02,Los Angeles,,1970,National League,Triples,16,player,1
+Fergie Jenkins,https://www.baseball-almanac.com/players/player.php?p=jenkife01,Chicago,,1970,National League,Complete Games,24,pitcher,1
+Tom Seaver,https://www.baseball-almanac.com/players/player.php?p=seaveto01,New York,,1970,National League,ERA,2.82,pitcher,1
+Ron Herbel,https://www.baseball-almanac.com/players/player.php?p=herbero01,San Diego,,1970,National League,Games,76,pitcher,1
+Ron Herbel,https://www.baseball-almanac.com/players/player.php?p=herbero01,New York,,1970,National League,Games,76,pitcher,1
+Wayne Granger,https://www.baseball-almanac.com/players/player.php?p=grangwa01,Cincinnati,,1970,National League,Saves,35,pitcher,1
+Gaylord Perry,https://www.baseball-almanac.com/players/player.php?p=perryga01,San Francisco,,1970,National League,Shutouts,5,pitcher,1
+Tom Seaver,https://www.baseball-almanac.com/players/player.php?p=seaveto01,New York,,1970,National League,Strikeouts,283,pitcher,1
+Bob Gibson,https://www.baseball-almanac.com/players/player.php?p=gibsobo01,St. Louis,,1970,National League,Winning Percentage,.767,pitcher,1
+Bob Gibson,https://www.baseball-almanac.com/players/player.php?p=gibsobo01,St. Louis,,1970,National League,Wins,23,pitcher,1
+Gaylord Perry,https://www.baseball-almanac.com/players/player.php?p=perryga01,San Francisco,,1970,National League,Wins,23,pitcher,1

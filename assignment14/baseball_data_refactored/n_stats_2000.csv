@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2000,National League,Base on Balls,117,player,1
+Todd Helton,https://www.baseball-almanac.com/players/player.php?p=heltoto01,Colorado,,2000,National League,Batting Average,.372,player,1
+Todd Helton,https://www.baseball-almanac.com/players/player.php?p=heltoto01,Colorado,,2000,National League,Doubles,59,player,1
+Todd Helton,https://www.baseball-almanac.com/players/player.php?p=heltoto01,Colorado,,2000,National League,Hits,216,player,1
+Sammy Sosa,https://www.baseball-almanac.com/players/player.php?p=sosasa01,Chicago,,2000,National League,Home Runs,50,player,1
+Todd Helton,https://www.baseball-almanac.com/players/player.php?p=heltoto01,Colorado,,2000,National League,On Base Percentage,.463,player,1
+Todd Helton,https://www.baseball-almanac.com/players/player.php?p=heltoto01,Colorado,,2000,National League,RBI,147,player,1
+Jeff Bagwell,https://www.baseball-almanac.com/players/player.php?p=bagweje01,Houston,,2000,National League,Runs,152,player,1
+Todd Helton,https://www.baseball-almanac.com/players/player.php?p=heltoto01,Colorado,,2000,National League,Slugging Average,.698,player,1
+Luis Castillo,https://www.baseball-almanac.com/players/player.php?p=castilu01,Florida,,2000,National League,Stolen Bases,62,player,1
+Todd Helton,https://www.baseball-almanac.com/players/player.php?p=heltoto01,Colorado,,2000,National League,Total Bases,405,player,1
+Tony Womack,https://www.baseball-almanac.com/players/player.php?p=womacto01,Arizona,,2000,National League,Triples,14,player,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2000,National League,Complete Games,8,pitcher,1
+Curt Schilling,https://www.baseball-almanac.com/players/player.php?p=schilcu01,Philadelphia,,2000,National League,Complete Games,8,pitcher,1
+Curt Schilling,https://www.baseball-almanac.com/players/player.php?p=schilcu01,Arizona,,2000,National League,Complete Games,8,pitcher,1
+Kevin Brown,https://www.baseball-almanac.com/players/player.php?p=brownke01,Los Angeles,,2000,National League,ERA,2.58,pitcher,1
+Steve Kline,https://www.baseball-almanac.com/players/player.php?p=klinest02,St. Louis,,2000,National League,Games,83,pitcher,1
+Antonio Alfonseca,https://www.baseball-almanac.com/players/player.php?p=alfonan01,Florida,,2000,National League,Saves,45,pitcher,1
+Greg Maddux,https://www.baseball-almanac.com/players/player.php?p=maddugr01,Atlanta,,2000,National League,Shutouts,3,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2000,National League,Shutouts,3,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2000,National League,Strikeouts,347,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2000,National League,Winning Percentage,.731,pitcher,1
+Tom Glavine,https://www.baseball-almanac.com/players/player.php?p=glavito02,Atlanta,,2000,National League,Wins,21,pitcher,1

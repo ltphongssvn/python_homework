@@ -1,0 +1,31 @@
+
+================================================================================
+BASEBALL ALMANAC HISTORICAL DATA SCRAPING SUMMARY
+================================================================================
+Scraping Duration: 0:00:01.964712
+Output Directory: C:\Users\LENOVO\python_homework\assignment14\historical_baseball_data
+
+SCOPE:
+  - American League: 1901-2025 (125 years)
+  - National League: 1876-2025 (150 years)
+  - Total Years Attempted: 275
+
+PERFORMANCE METRICS:
+  - Total Requests Made: 1
+  - Failed Requests: 0
+  - Success Rate: 100.0%
+  - Years Successfully Processed: 0
+
+DATA EXTRACTED:
+  - Player Statistics: 0
+  - Pitcher Statistics: 0
+  - Team Standings: 0
+  - Total Records: 0
+
+FAILED YEARS:
+  - None (100% success!)
+
+NOTES:
+  - This summary reflects the completed scraping run.
+  - Checkpoint files in 'C:\Users\LENOVO\python_homework\assignment14\scraping_checkpoints' can be used to resume failed runs.
+================================================================================

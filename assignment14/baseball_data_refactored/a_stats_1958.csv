@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1958,American League,Base on Balls,129,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1958,American League,Batting Average,.328,player,1
+Harvey Kuenn,https://www.baseball-almanac.com/players/player.php?p=kuennha01,Detroit,,1958,American League,Doubles,39,player,1
+Nellie Fox,https://www.baseball-almanac.com/players/player.php?p=foxne01,Chicago,,1958,American League,Hits,187,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1958,American League,Home Runs,42,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1958,American League,On Base Percentage,.462,player,1
+Jackie Jensen,https://www.baseball-almanac.com/players/player.php?p=jenseja01,Boston,,1958,American League,RBI,122,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1958,American League,Runs,127,player,1
+Rocky Colavito,https://www.baseball-almanac.com/players/player.php?p=colavro01,Cleveland,,1958,American League,Slugging Average,.620,player,1
+Luis Aparacio,https://www.baseball-almanac.com/players/player.php?p=aparilu01,Chicago,,1958,American League,Stolen Bases,29,player,1
+Mickey Mantle,https://www.baseball-almanac.com/players/player.php?p=mantlmi01,New York,,1958,American League,Total Bases,307,player,1
+Vic Power,https://www.baseball-almanac.com/players/player.php?p=powervi01,Kansas City,,1958,American League,Triples,10,player,1
+Vic Power,https://www.baseball-almanac.com/players/player.php?p=powervi01,Cleveland,,1958,American League,Triples,10,player,1
+Frank Lary,https://www.baseball-almanac.com/players/player.php?p=laryfr01,Detroit,,1958,American League,Complete Games,19,pitcher,1
+Billy Pierce,https://www.baseball-almanac.com/players/player.php?p=piercbi02,Chicago,,1958,American League,Complete Games,19,pitcher,1
+Bob Turley,https://www.baseball-almanac.com/players/player.php?p=turlebo01,New York,,1958,American League,Complete Games,19,pitcher,1
+Whitey Ford,https://www.baseball-almanac.com/players/player.php?p=fordwh01,New York,,1958,American League,ERA,2.01,pitcher,1
+Tex Clevenger,https://www.baseball-almanac.com/players/player.php?p=clevete01,Washington,,1958,American League,Games,55,pitcher,1
+Ryne Duren,https://www.baseball-almanac.com/players/player.php?p=durenry01,New York,,1958,American League,Saves,20,pitcher,1
+Whitey Ford,https://www.baseball-almanac.com/players/player.php?p=fordwh01,New York,,1958,American League,Shutouts,7,pitcher,1
+Early Wynn,https://www.baseball-almanac.com/players/player.php?p=wynnea01,Chicago,,1958,American League,Strikeouts,179,pitcher,1
+Bob Turley,https://www.baseball-almanac.com/players/player.php?p=turlebo01,New York,,1958,American League,Winning Percentage,.750,pitcher,1
+Bob Turley,https://www.baseball-almanac.com/players/player.php?p=turlebo01,New York,,1958,American League,Wins,21,pitcher,1

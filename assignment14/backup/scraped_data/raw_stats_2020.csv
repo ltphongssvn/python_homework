@@ -1,0 +1,41 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Carlos Santana,https://www.baseball-almanac.com/players/player.php?p=santaca01,Cleveland Indians,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CLE,2020,American League,Base on Balls,47,player,1
+DJ LeMahieu,https://www.baseball-almanac.com/players/player.php?p=lemahdj01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=NYA,2020,American League,Batting Average,.364,player,1
+Cesar Hernandez,https://www.baseball-almanac.com/players/player.php?p=hernace02,Cleveland Indians,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CLE,2020,American League,Doubles,20,player,1
+Jose Abreu,https://www.baseball-almanac.com/players/player.php?p=abreujo02,Chicago White Sox,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CHA,2020,American League,Hits,76,player,1
+Luke Voit,https://www.baseball-almanac.com/players/player.php?p=voitlu01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=NYA,2020,American League,Home Runs,22,player,1
+DJ LeMahieu,https://www.baseball-almanac.com/players/player.php?p=lemahdj01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=NYA,2020,American League,On Base Percentage,.421,player,1
+Jose Abreu,https://www.baseball-almanac.com/players/player.php?p=abreujo02,Chicago White Sox,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CHA,2020,American League,RBI,60,player,1
+Tim Anderson,https://www.baseball-almanac.com/players/player.php?p=anderti01,Chicago White Sox,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CHA,2020,American League,Runs,45,player,1
+Jose Abreu,https://www.baseball-almanac.com/players/player.php?p=abreujo02,Chicago White Sox,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CHA,2020,American League,Slugging Average,.617,player,1
+Adalberto Mondesi,https://www.baseball-almanac.com/players/player.php?p=mondera02,Kansas City Royals,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=KCA,2020,American League,Stolen Bases,24,player,1
+Jose Abreu,https://www.baseball-almanac.com/players/player.php?p=abreujo02,Chicago White Sox,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CHA,2020,American League,Total Bases,148,player,1
+Kyle Tucker,https://www.baseball-almanac.com/players/player.php?p=tuckeky01,Houston Astros,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=HOA,2020,American League,Triples,6,player,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=NYA,2020,American League,Complete Games,2,pitcher,1
+Shane Bieber,https://www.baseball-almanac.com/players/player.php?p=biebesh01,Cleveland Indians,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CLE,2020,American League,ERA,1.63,pitcher,1
+Scott Barlow,https://www.baseball-almanac.com/players/player.php?p=barlosc01,Kansas City Royals,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=KCA,2020,American League,Games,32,pitcher,1
+Brad Hand,https://www.baseball-almanac.com/players/player.php?p=handbr01,Cleveland Indians,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CLE,2020,American League,Saves,16,pitcher,1
+Gerrit Cole,https://www.baseball-almanac.com/players/player.php?p=colege01,New York Yankees,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=NYA,2020,American League,Shutouts,1,pitcher,1
+Shane Bieber,https://www.baseball-almanac.com/players/player.php?p=biebesh01,Cleveland Indians,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CLE,2020,American League,Strikeouts,122,pitcher,1
+Shane Bieber,https://www.baseball-almanac.com/players/player.php?p=biebesh01,Cleveland Indians,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CLE,2020,American League,Winning Percentage,.889,pitcher,1
+Shane Bieber,https://www.baseball-almanac.com/players/player.php?p=biebesh01,Cleveland Indians,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CLE,2020,American League,Wins,8,pitcher,1
+Bryce Harper,https://www.baseball-almanac.com/players/player.php?p=harpebr03,Philadelphia Phillies,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=PHI,2020,National League,Base on Balls,49,player,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,Washington Nationals,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=WS0,2020,National League,Batting Average,.351,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=ATL,2020,National League,Doubles,23,player,1
+Trea Turner,https://www.baseball-almanac.com/players/player.php?p=turnetr01,Washington Nationals,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=WS0,2020,National League,Hits,78,player,1
+Marcell Ozuna,https://www.baseball-almanac.com/players/player.php?p=ozunama01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=ATL,2020,National League,Home Runs,18,player,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,Washington Nationals,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=WS0,2020,National League,On Base Percentage,.490,player,1
+Marcell Ozuna,https://www.baseball-almanac.com/players/player.php?p=ozunama01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=ATL,2020,National League,RBI,56,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=ATL,2020,National League,Runs,51,player,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,Washington Nationals,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=WS0,2020,National League,Slugging Average,.695,player,1
+Trevor Story,https://www.baseball-almanac.com/players/player.php?p=storytr01,Colorado Rockies,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=COL,2020,National League,Stolen Bases,15,player,1
+Marcell Ozuna,https://www.baseball-almanac.com/players/player.php?p=ozunama01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=ATL,2020,National League,Total Bases,145,player,1
+Trevor Story,https://www.baseball-almanac.com/players/player.php?p=storytr01,Colorado Rockies,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=COL,2020,National League,Triples,4,player,1
+Trevor Bauer,https://www.baseball-almanac.com/players/player.php?p=bauertr01,Cincinnati Reds,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CN5,2020,National League,Complete Games,2,pitcher,1
+Trevor Bauer,https://www.baseball-almanac.com/players/player.php?p=bauertr01,Cincinnati Reds,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CN5,2020,National League,ERA,1.73,pitcher,1
+Tyler Rogers,https://www.baseball-almanac.com/players/player.php?p=rogerty01,San Francisco Giants,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=SFN,2020,National League,Games,29,pitcher,1
+Josh Hader,https://www.baseball-almanac.com/players/player.php?p=haderjo01,Milwaukee Brewers,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=ML4,2020,National League,Saves,13,pitcher,1
+Trevor Bauer,https://www.baseball-almanac.com/players/player.php?p=bauertr01,Cincinnati Reds,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CN5,2020,National League,Shutouts,2,pitcher,1
+Jacob deGrom,https://www.baseball-almanac.com/players/player.php?p=degroja01,New York Mets,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=NYN,2020,National League,Strikeouts,104,pitcher,1
+Max Fried,https://www.baseball-almanac.com/players/player.php?p=friedma01,Atlanta Braves,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=ATL,2020,National League,Winning Percentage,1.000,pitcher,1
+Yu Darvish,https://www.baseball-almanac.com/players/player.php?p=darviyu01,Chicago Cubs,https://www.baseball-almanac.com/teamstats/roster.php?y=2020&t=CHN,2020,National League,Wins,8,pitcher,1

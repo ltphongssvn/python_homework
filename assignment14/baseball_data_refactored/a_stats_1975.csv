@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+John Mayberry,https://www.baseball-almanac.com/players/player.php?p=maybejo01,Kansas City,,1975,American League,Base on Balls,119,player,1
+Rod Carew,https://www.baseball-almanac.com/players/player.php?p=carewro01,Minnesota,,1975,American League,Batting Average,.359,player,1
+Fred Lynn,https://www.baseball-almanac.com/players/player.php?p=lynnfr01,Boston,,1975,American League,Doubles,47,player,1
+George Brett,https://www.baseball-almanac.com/players/player.php?p=brettge01,Kansas City,,1975,American League,Hits,195,player,1
+Reggie Jackson,https://www.baseball-almanac.com/players/player.php?p=jacksre01,Oakland,,1975,American League,Home Runs,36,player,1
+George Scott,https://www.baseball-almanac.com/players/player.php?p=scottge02,Milwaukee,,1975,American League,Home Runs,36,player,1
+Rod Carew,https://www.baseball-almanac.com/players/player.php?p=carewro01,Minnesota,,1975,American League,On Base Percentage,.428,player,1
+George Scott,https://www.baseball-almanac.com/players/player.php?p=scottge02,Milwaukee,,1975,American League,RBI,109,player,1
+Fred Lynn,https://www.baseball-almanac.com/players/player.php?p=lynnfr01,Boston,,1975,American League,Runs,103,player,1
+Fred Lynn,https://www.baseball-almanac.com/players/player.php?p=lynnfr01,Boston,,1975,American League,Slugging Average,.566,player,1
+Mickey Rivers,https://www.baseball-almanac.com/players/player.php?p=rivermi01,California,,1975,American League,Stolen Bases,70,player,1
+George Scott,https://www.baseball-almanac.com/players/player.php?p=scottge02,Milwaukee,,1975,American League,Total Bases,318,player,1
+George Brett,https://www.baseball-almanac.com/players/player.php?p=brettge01,Kansas City,,1975,American League,Triples,13,player,1
+Mickey Rivers,https://www.baseball-almanac.com/players/player.php?p=rivermi01,California,,1975,American League,Triples,13,player,1
+Catfish Hunter,https://www.baseball-almanac.com/players/player.php?p=hunteca01,New York,,1975,American League,Complete Games,30,pitcher,1
+Jim Palmer,https://www.baseball-almanac.com/players/player.php?p=palmeji01,Baltimore,,1975,American League,ERA,2.09,pitcher,1
+Rollie Fingers,https://www.baseball-almanac.com/players/player.php?p=fingero01,Oakland,,1975,American League,Games,75,pitcher,1
+Rich Gossage,https://www.baseball-almanac.com/players/player.php?p=gossari01,Chicago,,1975,American League,Saves,26,pitcher,1
+Jim Palmer,https://www.baseball-almanac.com/players/player.php?p=palmeji01,Baltimore,,1975,American League,Shutouts,10,pitcher,1
+Frank Tanana,https://www.baseball-almanac.com/players/player.php?p=tananfr01,California,,1975,American League,Strikeouts,269,pitcher,1
+Mike Torrez,https://www.baseball-almanac.com/players/player.php?p=torremi01,Baltimore,,1975,American League,Winning Percentage,.690,pitcher,1
+Catfish Hunter,https://www.baseball-almanac.com/players/player.php?p=hunteca01,New York,,1975,American League,Wins,23,pitcher,1
+Jim Palmer,https://www.baseball-almanac.com/players/player.php?p=palmeji01,Baltimore,,1975,American League,Wins,23,pitcher,1

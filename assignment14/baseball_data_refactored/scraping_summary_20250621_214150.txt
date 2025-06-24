@@ -1,0 +1,28 @@
+
+================================================================================
+BASEBALL ALMANAC HISTORICAL DATA SCRAPING SUMMARY
+================================================================================
+Scraping Duration: 0:06:19.173293
+Output Directory: C:\Users\LENOVO\python_homework\assignment14\baseball_data_refactored
+
+SCOPE:
+  - American League: 1901-2025 (125 years)
+  - National League: 1876-2025 (150 years)
+  - Total Years Attempted: 275
+
+PERFORMANCE METRICS:
+  - Total Requests Made: 275
+  - Failed Requests: 0
+  - Success Rate: 100.0%
+  - Years Successfully Processed: 275
+
+DATA EXTRACTED:
+  - Player Statistics: 3,522
+  - Pitcher Statistics: 2,707
+  - Team Standings: 2,934
+  - Total Records: 9,163
+
+FAILED YEARS:
+  - None (100% success!)
+
+================================================================================

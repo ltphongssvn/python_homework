@@ -1,0 +1,13 @@
+year,league,division,team,wins,losses,winning_percentage,games_back,ties,payroll
+1986,National League,East,New York Mets,108,54,0.667,.667,0,
+1986,National League,East,Philadelphia Phillies,86,75,0.534,.534,0,
+1986,National League,East,St. Louis Cardinals,79,82,0.491,.491,0,
+1986,National League,East,Montreal Expos,78,83,0.484,.484,0,
+1986,National League,East,Chicago Cubs,70,90,0.438,.438,0,
+1986,National League,East,Pittsburgh Pirates,64,98,0.395,.395,0,
+1986,National League,West,Houston Astros,96,66,0.593,.593,0,
+1986,National League,West,Cincinnati Reds,86,76,0.531,.531,0,
+1986,National League,West,San Francisco Giants,83,79,0.512,.512,0,
+1986,National League,West,San Diego Padres,74,88,0.457,.457,0,
+1986,National League,West,Los Angeles Dodgers,73,89,0.451,.451,0,
+1986,National League,West,Atlanta Braves,72,89,0.447,.447,0,

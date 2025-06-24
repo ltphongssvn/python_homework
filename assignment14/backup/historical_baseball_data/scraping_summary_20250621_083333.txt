@@ -1,0 +1,49 @@
+
+================================================================================
+BASEBALL ALMANAC HISTORICAL DATA SCRAPING SUMMARY
+================================================================================
+Scraping Duration: 0:10:00.524454
+Output Directory: historical_baseball_data
+
+SCOPE:
+  - American League: 1901-2025 (125 years)
+  - National League: 1876-2025 (150 years)
+  - Total Years Attempted: 275
+
+PERFORMANCE METRICS:
+  - Total Requests Made: 275
+  - Failed Requests: 0
+  - Success Rate: 100.0%
+  - Years Successfully Processed: 275
+
+DATA EXTRACTED:
+  - Player Statistics: 35
+  - Pitcher Statistics: 95
+  - Team Standings: 1,031
+  - Total Records: 1,161
+
+FAILED YEARS:
+  - None (100% success!)
+
+OUTPUT FILES:
+  League-Specific Historical Files:
+    - a_player_statistics_historical.csv (American League players)
+    - a_pitcher_statistics_historical.csv (American League pitchers)
+    - a_standings_historical.csv (American League standings)
+    - n_player_statistics_historical.csv (National League players)
+    - n_pitcher_statistics_historical.csv (National League pitchers)
+    - n_standings_historical.csv (National League standings)
+
+  Year-Specific Files:
+    - [league]_stats_[year].csv (individual year statistics)
+    - [league]_standings_[year].csv (individual year standings)
+
+  Checkpoint Files:
+    - checkpoint_a.json (American League progress)
+    - checkpoint_n.json (National League progress)
+
+NOTES:
+  - Data availability varies by era (older years may have fewer statistics)
+  - Some statistics were not tracked in early baseball history
+  - Failed years can be retried by running the scraper again (checkpoints will resume)
+================================================================================

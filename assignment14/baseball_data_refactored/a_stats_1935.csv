@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1935,American League,Base on Balls,132,player,1
+Buddy Myer,https://www.baseball-almanac.com/players/player.php?p=myerbu01,Washington,,1935,American League,Batting Average,.349,player,1
+Joe Vosmik,https://www.baseball-almanac.com/players/player.php?p=vosmijo01,Cleveland,,1935,American League,Doubles,47,player,1
+Joe Vosmik,https://www.baseball-almanac.com/players/player.php?p=vosmijo01,Cleveland,,1935,American League,Hits,216,player,1
+Jimmie Foxx,https://www.baseball-almanac.com/players/player.php?p=foxxji01,Philadelphia,,1935,American League,Home Runs,36,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1935,American League,Home Runs,36,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1935,American League,On Base Percentage,.466,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1935,American League,RBI,170,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1935,American League,Runs,125,player,1
+Jimmie Foxx,https://www.baseball-almanac.com/players/player.php?p=foxxji01,Philadelphia,,1935,American League,Slugging Average,.636,player,1
+Billy Werber,https://www.baseball-almanac.com/players/player.php?p=werbebi01,Boston,,1935,American League,Stolen Bases,29,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1935,American League,Total Bases,389,player,1
+Joe Vosmik,https://www.baseball-almanac.com/players/player.php?p=vosmijo01,Cleveland,,1935,American League,Triples,20,player,1
+Wes Ferrell,https://www.baseball-almanac.com/players/player.php?p=ferrewe01,Boston,,1935,American League,Complete Games,31,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Boston,,1935,American League,ERA,2.70,pitcher,1
+Russ Van Atta,https://www.baseball-almanac.com/players/player.php?p=vanatru01,New York,,1935,American League,Games,58,pitcher,1
+Russ Van Atta,https://www.baseball-almanac.com/players/player.php?p=vanatru01,St. Louis,,1935,American League,Games,58,pitcher,1
+Jack Knott,https://www.baseball-almanac.com/players/player.php?p=knottja01,St. Louis,,1935,American League,Saves,7,pitcher,1
+Schoolboy Rowe,https://www.baseball-almanac.com/players/player.php?p=rowesc01,Detroit,,1935,American League,Shutouts,6,pitcher,1
+Tommy Bridges,https://www.baseball-almanac.com/players/player.php?p=bridgto01,Detroit,,1935,American League,Strikeouts,163,pitcher,1
+Elden Auker,https://www.baseball-almanac.com/players/player.php?p=aukerel01,Detroit,,1935,American League,Winning Percentage,.720,pitcher,1
+Wes Ferrell,https://www.baseball-almanac.com/players/player.php?p=ferrewe01,Boston,,1935,American League,Wins,25,pitcher,1

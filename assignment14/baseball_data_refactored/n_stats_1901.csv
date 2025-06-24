@@ -1,0 +1,27 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Roy Thomas,https://www.baseball-almanac.com/players/player.php?p=thomaro01,Philadelphia,,1901,National League,Base on Balls,100,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,St. Louis,,1901,National League,Batting Average,.376,player,1
+Tom Daly,https://www.baseball-almanac.com/players/player.php?p=dalyto01,Brooklyn,,1901,National League,Doubles,38,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1901,National League,Doubles,38,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,St. Louis,,1901,National League,Hits,226,player,1
+Sam Crawford,https://www.baseball-almanac.com/players/player.php?p=crawfsa01,Cincinnati,,1901,National League,Home Runs,16,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,St. Louis,,1901,National League,On Base Percentage,.440,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1901,National League,RBI,126,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,St. Louis,,1901,National League,Runs,142,player,1
+Jimmy Sheckard,https://www.baseball-almanac.com/players/player.php?p=sheckji01,Brooklyn,,1901,National League,Slugging Average,.534,player,1
+Honus Wagner,https://www.baseball-almanac.com/players/player.php?p=wagneho01,Pittsburgh,,1901,National League,Stolen Bases,49,player,1
+Jesse Burkett,https://www.baseball-almanac.com/players/player.php?p=burkeje01,St. Louis,,1901,National League,Total Bases,306,player,1
+Jimmy Sheckard,https://www.baseball-almanac.com/players/player.php?p=sheckji01,Brooklyn,,1901,National League,Triples,19,player,1
+Noodles Hahn,https://www.baseball-almanac.com/players/player.php?p=hahnno01,Cincinnati,,1901,National League,Complete Games,41,pitcher,1
+Jesse Tannehill,https://www.baseball-almanac.com/players/player.php?p=tanneje01,Pittsburgh,,1901,National League,ERA,2.18,pitcher,1
+Bill Donovan,https://www.baseball-almanac.com/players/player.php?p=donovbi01,Brooklyn,,1901,National League,Games,45,pitcher,1
+Jack Powell,https://www.baseball-almanac.com/players/player.php?p=powelja01,St.Louis,,1901,National League,Games,45,pitcher,1
+Dummy Taylor,https://www.baseball-almanac.com/players/player.php?p=taylodu01,New York,,1901,National League,Games,45,pitcher,1
+Bill Donovan,https://www.baseball-almanac.com/players/player.php?p=donovbi01,Brooklyn,,1901,National League,Saves,3,pitcher,1
+Jack Powell,https://www.baseball-almanac.com/players/player.php?p=powelja01,St. Louis,,1901,National League,Saves,3,pitcher,1
+Jack Chesbro,https://www.baseball-almanac.com/players/player.php?p=chesbja01,Pittsburgh,,1901,National League,Shutouts,6,pitcher,1
+Al Orth,https://www.baseball-almanac.com/players/player.php?p=orthal01,Philadelphia,,1901,National League,Shutouts,6,pitcher,1
+Vic Willis,https://www.baseball-almanac.com/players/player.php?p=willivi01,Boston,,1901,National League,Shutouts,6,pitcher,1
+Noodles Hahn,https://www.baseball-almanac.com/players/player.php?p=hahnno01,Cincinnati,,1901,National League,Strikeouts,239,pitcher,1
+Jack Chesbro,https://www.baseball-almanac.com/players/player.php?p=chesbja01,Pittsburgh,,1901,National League,Winning Percentage,.677,pitcher,1
+Bill Donovan,https://www.baseball-almanac.com/players/player.php?p=donovbi01,Brooklyn,,1901,National League,Wins,25,pitcher,1

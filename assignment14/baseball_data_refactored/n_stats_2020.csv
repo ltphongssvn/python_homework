@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Bryce Harper,https://www.baseball-almanac.com/players/player.php?p=harpebr03,Philadelphia Phillies,,2020,National League,Base on Balls,49,player,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,Washington Nationals,,2020,National League,Batting Average,.351,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Atlanta Braves,,2020,National League,Doubles,23,player,1
+Trea Turner,https://www.baseball-almanac.com/players/player.php?p=turnetr01,Washington Nationals,,2020,National League,Hits,78,player,1
+Marcell Ozuna,https://www.baseball-almanac.com/players/player.php?p=ozunama01,Atlanta Braves,,2020,National League,Home Runs,18,player,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,Washington Nationals,,2020,National League,On Base Percentage,.490,player,1
+Marcell Ozuna,https://www.baseball-almanac.com/players/player.php?p=ozunama01,Atlanta Braves,,2020,National League,RBI,56,player,1
+Freddie Freeman,https://www.baseball-almanac.com/players/player.php?p=freemfr01,Atlanta Braves,,2020,National League,Runs,51,player,1
+Juan Soto,https://www.baseball-almanac.com/players/player.php?p=sotoju01,Washington Nationals,,2020,National League,Slugging Average,.695,player,1
+Trevor Story,https://www.baseball-almanac.com/players/player.php?p=storytr01,Colorado Rockies,,2020,National League,Stolen Bases,15,player,1
+Marcell Ozuna,https://www.baseball-almanac.com/players/player.php?p=ozunama01,Atlanta Braves,,2020,National League,Total Bases,145,player,1
+Trevor Story,https://www.baseball-almanac.com/players/player.php?p=storytr01,Colorado Rockies,,2020,National League,Triples,4,player,1
+Trea Turner,https://www.baseball-almanac.com/players/player.php?p=turnetr01,Washington Nationals,,2020,National League,Triples,4,player,1
+Mike Yastrzemski,https://www.baseball-almanac.com/players/player.php?p=yastrmi01,San Francisco Giants,,2020,National League,Triples,4,player,1
+Trevor Bauer,https://www.baseball-almanac.com/players/player.php?p=bauertr01,Cincinnati Reds,,2020,National League,Complete Games,2,pitcher,1
+Aaron Nola,https://www.baseball-almanac.com/players/player.php?p=nolaaa01,Philadelphia Phillies,,2020,National League,Complete Games,2,pitcher,1
+Adam Wainwright,https://www.baseball-almanac.com/players/player.php?p=wainwad01,St. Louis Cardinals,,2020,National League,Complete Games,2,pitcher,1
+Trevor Bauer,https://www.baseball-almanac.com/players/player.php?p=bauertr01,Cincinnati Reds,,2020,National League,ERA,1.73,pitcher,1
+Tyler Rogers,https://www.baseball-almanac.com/players/player.php?p=rogerty01,San Francisco Giants,,2020,National League,Games,29,pitcher,1
+Josh Hader,https://www.baseball-almanac.com/players/player.php?p=haderjo01,Milwaukee Brewers,,2020,National League,Saves,13,pitcher,1
+Trevor Bauer,https://www.baseball-almanac.com/players/player.php?p=bauertr01,Cincinnati Reds,,2020,National League,Shutouts,2,pitcher,1
+Jacob deGrom,https://www.baseball-almanac.com/players/player.php?p=degroja01,New York Mets,,2020,National League,Strikeouts,104,pitcher,1
+Max Fried,https://www.baseball-almanac.com/players/player.php?p=friedma01,Atlanta Braves,,2020,National League,Winning Percentage,1.000,pitcher,1
+Yu Darvish,https://www.baseball-almanac.com/players/player.php?p=darviyu01,Chicago Cubs,,2020,National League,Wins,8,pitcher,1

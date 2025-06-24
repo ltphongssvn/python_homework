@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Eddie Mathews,https://www.baseball-almanac.com/players/player.php?p=matheed01,Milwaukee,,1963,National League,Base on Balls,124,player,1
+Tommy Davis,https://www.baseball-almanac.com/players/player.php?p=davisto02,Los Angeles,,1963,National League,Batting Average,.326,player,1
+Dick Groat,https://www.baseball-almanac.com/players/player.php?p=groatdi01,St. Louis,,1963,National League,Doubles,43,player,1
+Vada Pinson,https://www.baseball-almanac.com/players/player.php?p=pinsova01,Cincinnati,,1963,National League,Hits,204,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1963,National League,Home Runs,44,player,1
+Willie McCovey,https://www.baseball-almanac.com/players/player.php?p=mccovwi01,San Francisco,,1963,National League,Home Runs,44,player,1
+Eddie Mathews,https://www.baseball-almanac.com/players/player.php?p=matheed01,Milwaukee,,1963,National League,On Base Percentage,.400,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1963,National League,RBI,130,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1963,National League,Runs,121,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1963,National League,Slugging Average,.586,player,1
+Maury Wills,https://www.baseball-almanac.com/players/player.php?p=willsma01,Los Angeles,,1963,National League,Stolen Bases,40,player,1
+Hank Aaron,https://www.baseball-almanac.com/players/player.php?p=aaronha01,Milwaukee,,1963,National League,Total Bases,370,player,1
+Vada Pinson,https://www.baseball-almanac.com/players/player.php?p=pinsova01,Cincinnati,,1963,National League,Triples,14,player,1
+Warren Spahn,https://www.baseball-almanac.com/players/player.php?p=spahnwa01,Milwaukee,,1963,National League,Complete Games,22,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1963,National League,ERA,1.88,pitcher,1
+Ron Perranoski,https://www.baseball-almanac.com/players/player.php?p=perraro01,Los Angeles,,1963,National League,Games,69,pitcher,1
+Lindy McDaniel,https://www.baseball-almanac.com/players/player.php?p=mcdanli01,Chicago,,1963,National League,Saves,22,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1963,National League,Shutouts,11,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1963,National League,Strikeouts,306,pitcher,1
+Ron Perranoski,https://www.baseball-almanac.com/players/player.php?p=perraro01,Los Angeles,,1963,National League,Winning Percentage,.842,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1963,National League,Wins,25,pitcher,1
+Juan Marichal,https://www.baseball-almanac.com/players/player.php?p=maricju01,San Francisco,,1963,National League,Wins,25,pitcher,1

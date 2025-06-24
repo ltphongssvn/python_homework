@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1921,American League,Base on Balls,145,player,1
+Harry Heilmann,https://www.baseball-almanac.com/players/player.php?p=heilmha01,Detroit,,1921,American League,Batting Average,.394,player,1
+Tris Speaker,https://www.baseball-almanac.com/players/player.php?p=speaktr01,Cleveland,,1921,American League,Doubles,52,player,1
+Harry Heilmann,https://www.baseball-almanac.com/players/player.php?p=heilmha01,Detroit,,1921,American League,Hits,237,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1921,American League,Home Runs,59,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1921,American League,On Base Percentage,.512,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1921,American League,RBI,171,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1921,American League,Runs,177,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1921,American League,Slugging Average,.846,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1921,American League,Stolen Bases,35,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,New York,,1921,American League,Total Bases,457,player,1
+Howie Shanks,https://www.baseball-almanac.com/players/player.php?p=shankho01,Washington,,1921,American League,Triples,18,player,1
+George Sisler,https://www.baseball-almanac.com/players/player.php?p=sislege01,St. Louis,,1921,American League,Triples,18,player,1
+Jack Tobin,https://www.baseball-almanac.com/players/player.php?p=tobinja01,St. Louis,,1921,American League,Triples,18,player,1
+Red Faber,https://www.baseball-almanac.com/players/player.php?p=faberre01,Chicago,,1921,American League,Complete Games,32,pitcher,1
+Red Faber,https://www.baseball-almanac.com/players/player.php?p=faberre01,Chicago,,1921,American League,ERA,2.48,pitcher,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,New York,,1921,American League,Games,49,pitcher,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,New York,,1921,American League,Saves,7,pitcher,1
+Jim Middleton,https://www.baseball-almanac.com/players/player.php?p=middlji01,Detroit,,1921,American League,Saves,7,pitcher,1
+Sam Jones,https://www.baseball-almanac.com/players/player.php?p=jonessa01,Boston,,1921,American League,Shutouts,5,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1921,American League,Strikeouts,143,pitcher,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,New York,,1921,American League,Winning Percentage,.750,pitcher,1
+Carl Mays,https://www.baseball-almanac.com/players/player.php?p=maysca01,New York,,1921,American League,Wins,27,pitcher,1
+Urban Shocker,https://www.baseball-almanac.com/players/player.php?p=shockur01,St. Louis,,1921,American League,Wins,27,pitcher,1

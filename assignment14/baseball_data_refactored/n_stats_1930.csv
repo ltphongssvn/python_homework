@@ -1,0 +1,24 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Hack Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsoha01,Chicago,,1930,National League,Base on Balls,105,player,1
+Bill Terry,https://www.baseball-almanac.com/players/player.php?p=terrybi01,New York,,1930,National League,Batting Average,.401,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1930,National League,Doubles,59,player,1
+Bill Terry,https://www.baseball-almanac.com/players/player.php?p=terrybi01,New York,,1930,National League,Hits,254,player,1
+Hack Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsoha01,Chicago,,1930,National League,Home Runs,56,player,1
+Mel Ott,https://www.baseball-almanac.com/players/player.php?p=ottme01,New York,,1930,National League,On Base Percentage,.458,player,1
+Hack Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsoha01,Chicago,,1930,National League,RBI,191,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1930,National League,Runs,158,player,1
+Hack Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsoha01,Chicago,,1930,National League,Slugging Average,.723,player,1
+Kiki Cuyler,https://www.baseball-almanac.com/players/player.php?p=cuyleki01,Chicago,,1930,National League,Stolen Bases,37,player,1
+Chuck Klein,https://www.baseball-almanac.com/players/player.php?p=kleinch01,Philadelphia,,1930,National League,Total Bases,445,player,1
+Adam Comorosky,https://www.baseball-almanac.com/players/player.php?p=comorad01,Pittsburgh,,1930,National League,Triples,23,player,1
+Erv Brame,https://www.baseball-almanac.com/players/player.php?p=brameer01,Pittsburgh,,1930,National League,Complete Games,22,pitcher,1
+Pat Malone,https://www.baseball-almanac.com/players/player.php?p=malonpa02,Chicago,,1930,National League,Complete Games,22,pitcher,1
+Dazzy Vance,https://www.baseball-almanac.com/players/player.php?p=vanceda01,Brooklyn,,1930,National League,ERA,2.61,pitcher,1
+Hal Elliott,https://www.baseball-almanac.com/players/player.php?p=ellioha01,Philadelphia,,1930,National League,Games,48,pitcher,1
+Hi Bell,https://www.baseball-almanac.com/players/player.php?p=bellhi01,St. Louis,,1930,National League,Saves,8,pitcher,1
+Charlie Root,https://www.baseball-almanac.com/players/player.php?p=rootch01,Chicago,,1930,National League,Shutouts,4,pitcher,1
+Dazzy Vance,https://www.baseball-almanac.com/players/player.php?p=vanceda01,Brooklyn,,1930,National League,Shutouts,4,pitcher,1
+Bill Hallahan,https://www.baseball-almanac.com/players/player.php?p=hallabi01,St. Louis,,1930,National League,Strikeouts,177,pitcher,1
+Freddie Fitzsimmons,https://www.baseball-almanac.com/players/player.php?p=fitzsfr01,New York,,1930,National League,Winning Percentage,.731,pitcher,1
+Ray Kremer,https://www.baseball-almanac.com/players/player.php?p=kremera01,Pittsburgh,,1930,National League,Wins,20,pitcher,1
+Pat Malone,https://www.baseball-almanac.com/players/player.php?p=malonpa02,Chicago,,1930,National League,Wins,20,pitcher,1

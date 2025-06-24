@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1936,American League,Base on Balls,130,player,1
+Luke Appling,https://www.baseball-almanac.com/players/player.php?p=applilu01,Chicago,,1936,American League,Batting Average,.388,player,1
+Charlie Gehringer,https://www.baseball-almanac.com/players/player.php?p=gehrich01,Detroit,,1936,American League,Doubles,60,player,1
+Earl Averill,https://www.baseball-almanac.com/players/player.php?p=averiea01,Cleveland,,1936,American League,Hits,232,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1936,American League,Home Runs,49,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1936,American League,On Base Percentage,.478,player,1
+Hal Trosky,https://www.baseball-almanac.com/players/player.php?p=troskha01,Cleveland,,1936,American League,RBI,162,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1936,American League,Runs,167,player,1
+Lou Gehrig,https://www.baseball-almanac.com/players/player.php?p=gehrilo01,New York,,1936,American League,Slugging Average,.696,player,1
+Lyn Lary,https://www.baseball-almanac.com/players/player.php?p=laryly01,St. Louis,,1936,American League,Stolen Bases,37,player,1
+Hal Trosky,https://www.baseball-almanac.com/players/player.php?p=troskha01,Cleveland,,1936,American League,Total Bases,405,player,1
+Earl Averill,https://www.baseball-almanac.com/players/player.php?p=averiea01,Cleveland,,1936,American League,Triples,18,player,1
+Joe DiMaggio,https://www.baseball-almanac.com/players/player.php?p=dimagjo01,New York,,1936,American League,Triples,18,player,1
+Red Rolfe,https://www.baseball-almanac.com/players/player.php?p=rolfere01,New York,,1936,American League,Triples,18,player,1
+Wes Ferrell,https://www.baseball-almanac.com/players/player.php?p=ferrewe01,Boston,,1936,American League,Complete Games,28,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1936,American League,ERA,2.81,pitcher,1
+Russ Van Atta,https://www.baseball-almanac.com/players/player.php?p=vanatru01,St. Louis,,1936,American League,Games,52,pitcher,1
+Pat Malone,https://www.baseball-almanac.com/players/player.php?p=malonpa02,New York,,1936,American League,Saves,9,pitcher,1
+Lefty Grove,https://www.baseball-almanac.com/players/player.php?p=grovele01,Philadelphia,,1936,American League,Shutouts,6,pitcher,1
+Tommy Bridges,https://www.baseball-almanac.com/players/player.php?p=bridgto01,Detroit,,1936,American League,Strikeouts,175,pitcher,1
+Bump Hadley,https://www.baseball-almanac.com/players/player.php?p=hadlebu01,New York,,1936,American League,Winning Percentage,.778,pitcher,1
+Tommy Bridges,https://www.baseball-almanac.com/players/player.php?p=bridgto01,Detroit,,1936,American League,Wins,23,pitcher,1

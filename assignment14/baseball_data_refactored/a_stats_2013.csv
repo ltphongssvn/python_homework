@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2013,American League,Base on Balls,110,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2013,American League,Batting Average,.348,player,1
+Manny Machado,https://www.baseball-almanac.com/players/player.php?p=machama01,Baltimore,,2013,American League,Doubles,51,player,1
+Adrian Beltre,https://www.baseball-almanac.com/players/player.php?p=beltrad01,Texas,,2013,American League,Hits,199,player,1
+Chris Davis,https://www.baseball-almanac.com/players/player.php?p=davisch02,Baltimore,,2013,American League,Home Runs,53,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2013,American League,On Base Percentage,.442,player,1
+Chris Davis,https://www.baseball-almanac.com/players/player.php?p=davisch02,Baltimore,,2013,American League,RBI,138,player,1
+Mike Trout,https://www.baseball-almanac.com/players/player.php?p=troutmi01,Los Angeles,,2013,American League,Runs,109,player,1
+Miguel Cabrera,https://www.baseball-almanac.com/players/player.php?p=cabremi01,Detroit,,2013,American League,Slugging Average,.636,player,1
+Jacoby Ellsbury,https://www.baseball-almanac.com/players/player.php?p=ellsbja01,Boston,,2013,American League,Stolen Bases,52,player,1
+Chris Davis,https://www.baseball-almanac.com/players/player.php?p=davisch02,Baltimore,,2013,American League,Total Bases,370,player,1
+Brett Gardner,https://www.baseball-almanac.com/players/player.php?p=gardnbr01,New York,,2013,American League,Triples,10,player,1
+David Price,https://www.baseball-almanac.com/players/player.php?p=priceda01,Tampa Bay,,2013,American League,Complete Games,4,pitcher,1
+Chris Sale,https://www.baseball-almanac.com/players/player.php?p=salech01,Chicago,,2013,American League,Complete Games,4,pitcher,1
+Anibal Sanchez,https://www.baseball-almanac.com/players/player.php?p=sanchan01,Detroit,,2013,American League,ERA,2.57,pitcher,1
+Joel Peralta,https://www.baseball-almanac.com/players/player.php?p=peraljo01,Tampa Bay,,2013,American League,Games,80,pitcher,1
+Jim Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsji04,Baltimore,,2013,American League,Saves,50,pitcher,1
+Bartolo Colon,https://www.baseball-almanac.com/players/player.php?p=colonba01,Oakland,,2013,American League,Shutouts,3,pitcher,1
+Justin Masterson,https://www.baseball-almanac.com/players/player.php?p=masteju01,Cleveland,,2013,American League,Shutouts,3,pitcher,1
+Yu Darvish,https://www.baseball-almanac.com/players/player.php?p=darviyu01,Texas,,2013,American League,Strikeouts,277,pitcher,1
+Max Scherzer,https://www.baseball-almanac.com/players/player.php?p=scherma01,Detroit,,2013,American League,Winning Percentage,.875,pitcher,1
+Max Scherzer,https://www.baseball-almanac.com/players/player.php?p=scherma01,Detroit,,2013,American League,Wins,21,pitcher,1

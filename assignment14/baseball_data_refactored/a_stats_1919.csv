@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jack Graney,https://www.baseball-almanac.com/players/player.php?p=graneja01,Cleveland,,1919,American League,Base on Balls,105,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1919,American League,Batting Average,.384,player,1
+BobbyVeach,https://www.baseball-almanac.com/players/player.php?p=veachbo01,Detroit,,1919,American League,Doubles,45,player,1
+Ty Cobb,https://www.baseball-almanac.com/players/player.php?p=cobbty01,Detroit,,1919,American League,Hits,191,player,1
+BobbyVeach,https://www.baseball-almanac.com/players/player.php?p=veachbo01,Detroit,,1919,American League,Hits,191,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1919,American League,Home Runs,29,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1919,American League,On Base Percentage,.456,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1919,American League,RBI,114,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1919,American League,Runs,103,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1919,American League,Slugging Average,.657,player,1
+Eddie Collins,https://www.baseball-almanac.com/players/player.php?p=collied01,Chicago,,1919,American League,Stolen Bases,33,player,1
+Babe Ruth,https://www.baseball-almanac.com/players/player.php?p=ruthba01,Boston,,1919,American League,Total Bases,284,player,1
+BobbyVeach,https://www.baseball-almanac.com/players/player.php?p=veachbo01,Detroit,,1919,American League,Triples,17,player,1
+Eddie Cicotte,https://www.baseball-almanac.com/players/player.php?p=cicoted01,Chicago,,1919,American League,Complete Games,30,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1919,American League,ERA,1.49,pitcher,1
+Jim Shaw,https://www.baseball-almanac.com/players/player.php?p=shawji01,Washington,,1919,American League,Games,45,pitcher,1
+Allan Russell,https://www.baseball-almanac.com/players/player.php?p=russeal01,New York,,1919,American League,Saves,5,pitcher,1
+Allan Russell,https://www.baseball-almanac.com/players/player.php?p=russeal01,Boston,,1919,American League,Saves,5,pitcher,1
+Bob Shawkey,https://www.baseball-almanac.com/players/player.php?p=shawkbo01,New York,,1919,American League,Saves,5,pitcher,1
+Jim Shaw,https://www.baseball-almanac.com/players/player.php?p=shawji01,Washington,,1919,American League,Saves,5,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1919,American League,Shutouts,7,pitcher,1
+Walter Johnson,https://www.baseball-almanac.com/players/player.php?p=johnswa01,Washington,,1919,American League,Strikeouts,147,pitcher,1
+Eddie Cicotte,https://www.baseball-almanac.com/players/player.php?p=cicoted01,Chicago,,1919,American League,Winning Percentage,.806,pitcher,1
+Eddie Cicotte,https://www.baseball-almanac.com/players/player.php?p=cicoted01,Chicago,,1919,American League,Wins,29,pitcher,1

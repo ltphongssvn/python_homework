@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Jack Crooks,https://www.baseball-almanac.com/players/player.php?p=crookja01,St. Louis,,1892,National League,Base on Balls,136,player,1
+Dan Brouthers,https://www.baseball-almanac.com/players/player.php?p=broutda01,Brooklyn,,1892,National League,Batting Average,.335,player,1
+Roger Connor,https://www.baseball-almanac.com/players/player.php?p=connoro01,Philadelphia,,1892,National League,Doubles,37,player,1
+Dan Brouthers,https://www.baseball-almanac.com/players/player.php?p=broutda01,Brooklyn,,1892,National League,Hits,197,player,1
+Bug Holliday,https://www.baseball-almanac.com/players/player.php?p=hollibu01,Cincinnati,,1892,National League,Home Runs,13,player,1
+Cupid Childs,https://www.baseball-almanac.com/players/player.php?p=childcu01,Cleveland,,1892,National League,On Base Percentage,.443,player,1
+Dan Brouthers,https://www.baseball-almanac.com/players/player.php?p=broutda01,Brooklyn,,1892,National League,RBI,124,player,1
+Cupid Childs,https://www.baseball-almanac.com/players/player.php?p=childcu01,Cleveland,,1892,National League,Runs,136,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1892,National League,Slugging Average,.495,player,1
+John Ward,https://www.baseball-almanac.com/players/player.php?p=wardjo01,Brooklyn,,1892,National League,Stolen Bases,88,player,1
+Dan Brouthers,https://www.baseball-almanac.com/players/player.php?p=broutda01,Brooklyn,,1892,National League,Total Bases,282,player,1
+Ed Delahanty,https://www.baseball-almanac.com/players/player.php?p=delahed01,Philadelphia,,1892,National League,Triples,21,player,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1892,National League,Complete Games,67,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Cleveland,,1892,National League,ERA,1.93,pitcher,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1892,National League,Games,75,pitcher,1
+Gus Weyhing,https://www.baseball-almanac.com/players/player.php?p=weyhigu01,Philadelphia,,1892,National League,Saves,3,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Cleveland,,1892,National League,Shutouts,9,pitcher,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1892,National League,Strikeouts,314,pitcher,1
+Mike Sullivan,https://www.baseball-almanac.com/players/player.php?p=sullimi02,Cincinnati,,1892,National League,Winning Percentage,.750,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Cleveland,,1892,National League,Winning Percentage,.750,pitcher,1
+Bill Hutchison,https://www.baseball-almanac.com/players/player.php?p=hutchbi01,Chicago,,1892,National League,Wins,36,pitcher,1
+Cy Young,https://www.baseball-almanac.com/players/player.php?p=youngcy01,Cleveland,,1892,National League,Wins,36,pitcher,1

@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Eddie Mathews,https://www.baseball-almanac.com/players/player.php?p=matheed01,Milwaukee,,1962,National League,Base on Balls,101,player,1
+Tommy Davis,https://www.baseball-almanac.com/players/player.php?p=davisto02,Los Angeles,,1962,National League,Batting Average,.346,player,1
+Frank Robinson,https://www.baseball-almanac.com/players/player.php?p=robinfr02,Cincinnati,,1962,National League,Doubles,51,player,1
+Tommy Davis,https://www.baseball-almanac.com/players/player.php?p=davisto02,Los Angeles,,1962,National League,Hits,230,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1962,National League,Home Runs,49,player,1
+Frank Robinson,https://www.baseball-almanac.com/players/player.php?p=robinfr02,Cincinnati,,1962,National League,On Base Percentage,.424,player,1
+Tommy Davis,https://www.baseball-almanac.com/players/player.php?p=davisto02,Los Angeles,,1962,National League,RBI,153,player,1
+Frank Robinson,https://www.baseball-almanac.com/players/player.php?p=robinfr02,Cincinnati,,1962,National League,Runs,134,player,1
+Frank Robinson,https://www.baseball-almanac.com/players/player.php?p=robinfr02,Cincinnati,,1962,National League,Slugging Average,.624,player,1
+Maury Wills,https://www.baseball-almanac.com/players/player.php?p=willsma01,Los Angeles,,1962,National League,Stolen Bases,104,player,1
+Willie Mays,https://www.baseball-almanac.com/players/player.php?p=mayswi01,San Francisco,,1962,National League,Total Bases,382,player,1
+JohnnyCallison,https://www.baseball-almanac.com/players/player.php?p=callijo01,Philadelphia,,1962,National League,Triples,10,player,1
+Willie Davis,https://www.baseball-almanac.com/players/player.php?p=daviswi02,Los Angeles,,1962,National League,Triples,10,player,1
+Bill Virdon,https://www.baseball-almanac.com/players/player.php?p=virdobi01,Pittsburgh,,1962,National League,Triples,10,player,1
+Maury Wills,https://www.baseball-almanac.com/players/player.php?p=willsma01,Los Angeles,,1962,National League,Triples,10,player,1
+Warren Spahn,https://www.baseball-almanac.com/players/player.php?p=spahnwa01,Milwaukee,,1962,National League,Complete Games,22,pitcher,1
+Sandy Koufax,https://www.baseball-almanac.com/players/player.php?p=koufasa01,Los Angeles,,1962,National League,ERA,2.54,pitcher,1
+RonPerranoski,https://www.baseball-almanac.com/players/player.php?p=perraro01,Los Angeles,,1962,National League,Games,70,pitcher,1
+Roy Face,https://www.baseball-almanac.com/players/player.php?p=facero01,Pittsburgh,,1962,National League,Saves,28,pitcher,1
+Bob Friend,https://www.baseball-almanac.com/players/player.php?p=frienbo01,Pittsburgh,,1962,National League,Shutouts,5,pitcher,1
+Bob Gibson,https://www.baseball-almanac.com/players/player.php?p=gibsobo01,St. Louis,,1962,National League,Shutouts,5,pitcher,1
+Don Drysdale,https://www.baseball-almanac.com/players/player.php?p=drysddo01,Los Angeles,,1962,National League,Strikeouts,232,pitcher,1
+Bob Purkey,https://www.baseball-almanac.com/players/player.php?p=purkebo01,Cincinnati,,1962,National League,Winning Percentage,.821,pitcher,1
+Don Drysdale,https://www.baseball-almanac.com/players/player.php?p=drysddo01,Los Angeles,,1962,National League,Wins,25,pitcher,1

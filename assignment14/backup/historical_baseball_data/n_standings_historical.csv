@@ -1,0 +1,697 @@
+year,league,division,team,wins,losses,winning_percentage,games_back
+1876,National League,League,Boston Red Caps,39,31,0.5571428571428572,.557
+1877,National League,League,Boston Red Caps,42,18,0.7,.700
+1878,National League,League,Boston Red Caps,41,19,0.6833333333333333,.683
+1878,National League,League,Cincinnati Reds,37,23,0.6166666666666667,.617
+1878,National League,League,Providence Grays,33,27,0.55,.550
+1879,National League,League,Providence Grays,59,25,0.7023809523809523,.702
+1879,National League,League,Boston Red Caps,54,30,0.6428571428571429,.643
+1879,National League,League,Cincinnati Reds,43,37,0.5375,.538
+1879,National League,League,Syracuse Stars,22,48,0.3142857142857143,.314
+1880,National League,League,Providence Grays,52,32,0.6190476190476191,.619
+1880,National League,League,Troy Trojans,41,42,0.4939759036144578,25½
+1880,National League,League,Boston Red Caps,40,44,0.47619047619047616,.476
+1880,National League,League,Cincinnati Reds,21,59,0.2625,.263
+1881,National League,League,Providence Grays,47,37,0.5595238095238095,.560
+1881,National League,League,Troy Trojans,39,45,0.4642857142857143,.464
+1881,National League,League,Boston Red Caps,38,45,0.4578313253012048,17½
+1882,National League,League,Providence Grays,52,32,0.6190476190476191,.619
+1882,National League,League,Boston Red Caps,45,39,0.5357142857142857,.536
+1882,National League,League,Troy Trojans,35,48,0.42168674698795183,19½
+1883,National League,League,Boston Beaneaters,63,35,0.6428571428571429,.643
+1883,National League,League,Providence Grays,58,40,0.5918367346938775,.592
+1884,National League,League,Providence Grays,84,28,0.75,.750
+1884,National League,League,Boston Beaneaters,73,38,0.6576576576576577,10½
+1885,National League,League,Providence Grays,53,57,0.4818181818181818,.482
+1885,National League,League,Boston Beaneaters,46,66,0.4107142857142857,.411
+1886,National League,League,Boston Beaneaters,56,61,0.47863247863247865,30½
+1887,National League,League,Boston Beaneaters,61,60,0.5041322314049587,16½
+1888,National League,League,Boston Beaneaters,70,64,0.5223880597014925,15½
+1889,National League,League,Boston Beaneaters,83,45,0.6484375,.648
+1890,National League,League,Cincinnati Reds,77,55,0.5833333333333334,10½
+1890,National League,League,Boston Beaneaters,76,57,0.5714285714285714,.571
+1891,National League,League,Boston Beaneaters,87,51,0.6304347826086957,.630
+1891,National League,League,Cincinnati Reds,56,81,0.40875912408759124,30½
+1891,National League,League,Pittsburgh Pirates,55,80,0.4074074074074074,30½
+1892,National League,League,Boston Beaneaters,52,22,0.7027027027027027,+2½
+1892,National League,League,(b),50,26,0.6578947368421053,.658
+1892,National League,League,(b),53,23,0.6973684210526315,+3
+1892,National League,League,(b),44,33,0.5714285714285714,9½
+1892,National League,League,(b),41,36,0.5324675324675324,12½
+1892,National League,League,Cincinnati Reds,44,31,0.5866666666666667,8½
+1892,National League,League,(b),38,37,0.5066666666666667,14½
+1892,National League,League,Pittsburgh Pirates,37,39,0.4868421052631579,.487
+1892,National League,League,(b),43,34,0.5584415584415584,10½
+1892,National League,League,(b),39,37,0.5131578947368421,.513
+1892,National League,League,(b),40,37,0.5194805194805194,13½
+1892,National League,League,(b),33,42,0.44,19½
+1892,National League,League,(b),23,52,0.30666666666666664,24½
+1892,National League,League,(b),25,52,0.3246753246753247,28½
+1892,National League,League,(b),26,46,0.3611111111111111,.361
+1893,National League,League,Boston Beaneaters,86,43,0.6666666666666666,.667
+1893,National League,League,Pittsburgh Pirates,81,48,0.627906976744186,.628
+1893,National League,League,Cincinnati Reds,65,63,0.5078125,20½
+1894,National League,League,Boston Beaneaters,83,49,0.6287878787878788,.629
+1894,National League,League,Pittsburgh Pirates,65,65,0.5,.500
+1894,National League,League,Cincinnati Reds,55,75,0.4230769230769231,.423
+1895,National League,League,Boston Beaneaters,71,60,0.5419847328244275,16½
+1895,National League,League,Pittsburgh Pirates,71,61,0.5378787878787878,.538
+1895,National League,League,Cincinnati Reds,66,64,0.5076923076923077,.508
+1896,National League,League,Cincinnati Reds,77,50,0.6062992125984252,.606
+1896,National League,League,Boston Beaneaters,74,57,0.5648854961832062,.565
+1896,National League,League,Pittsburgh Pirates,66,63,0.5116279069767442,.512
+1897,National League,League,Boston Beaneaters,93,39,0.7045454545454546,.705
+1897,National League,League,Cincinnati Reds,76,56,0.5757575757575758,.576
+1897,National League,League,Pittsburgh Pirates,60,71,0.4580152671755725,32½
+1898,National League,League,Boston Beaneaters,102,47,0.6845637583892618,.685
+1898,National League,League,Cincinnati Reds,92,60,0.6052631578947368,11½
+1898,National League,League,Chicago Orphans,85,65,0.5666666666666667,17½
+1898,National League,League,Pittsburgh Pirates,72,76,0.4864864864864865,29½
+1899,National League,League,Boston Beaneaters,95,57,0.625,.625
+1899,National League,League,Cincinnati Reds,83,67,0.5533333333333333,.553
+1899,National League,League,Pittsburgh Pirates,76,73,0.5100671140939598,25½
+1899,National League,League,Chicago Orphans,75,73,0.5067567567567568,.507
+1900,National League,League,Pittsburgh Pirates,79,60,0.5683453237410072,4½
+1900,National League,League,Boston Beaneaters,66,72,0.4782608695652174,.478
+1900,National League,League,Chicago Orphans,65,75,0.4642857142857143,.464
+1900,National League,League,Cincinnati Reds,62,77,0.4460431654676259,21½
+1901,National League,League,Pittsburgh Pirates,90,49,0.6474820143884892,.647
+1901,National League,League,Boston Beaneaters,69,69,0.5,20½
+1901,National League,League,Chicago Orphans,53,86,0.381294964028777,.381
+1901,National League,League,Cincinnati Reds,52,87,0.37410071942446044,.374
+1902,National League,League,Pittsburgh Pirates,103,36,0.7410071942446043,.741
+1902,National League,League,Boston Beaneaters,73,64,0.5328467153284672,.533
+1902,National League,League,Cincinnati Reds,70,70,0.5,33½
+1902,National League,League,Chicago Cubs,68,69,0.49635036496350365,.496
+1903,National League,League,Pittsburgh Pirates,91,49,0.65,.650
+1903,National League,League,Chicago Cubs,82,56,0.5942028985507246,.594
+1903,National League,League,Cincinnati Reds,74,65,0.5323741007194245,16½
+1903,National League,League,Boston Beaneaters,58,80,0.42028985507246375,.420
+1904,National League,League,Chicago Cubs,93,60,0.6078431372549019,.608
+1904,National League,League,Cincinnati Reds,88,65,0.5751633986928104,.575
+1904,National League,League,Pittsburgh Pirates,87,66,0.5686274509803921,.569
+1904,National League,League,Boston Beaneaters,55,98,0.35947712418300654,.359
+1905,National League,League,Pittsburgh Pirates,96,57,0.6274509803921569,.627
+1905,National League,League,Chicago Cubs,92,61,0.6013071895424836,.601
+1905,National League,League,Cincinnati Reds,79,74,0.5163398692810458,.516
+1905,National League,League,Boston Beaneaters,51,103,0.33116883116883117,54½
+1906,National League,League,Chicago Cubs,116,36,0.7631578947368421,.763
+1906,National League,League,Pittsburgh Pirates,93,60,0.6078431372549019,23½
+1906,National League,League,Cincinnati Reds,64,87,0.423841059602649,51½
+1906,National League,League,Boston Beaneaters,49,102,0.32450331125827814,66½
+1907,National League,League,Chicago Cubs,107,45,0.7039473684210527,.704
+1907,National League,League,Pittsburgh Pirates,91,63,0.5909090909090909,.591
+1907,National League,League,Cincinnati Reds,66,87,0.43137254901960786,41½
+1907,National League,League,Boston Doves,58,90,0.3918918918918919,.392
+1908,National League,League,Chicago Cubs,99,55,0.6428571428571429,.643
+1908,National League,League,Pittsburgh Pirates,98,56,0.6363636363636364,.636
+1908,National League,League,Cincinnati Reds,73,81,0.474025974025974,.474
+1908,National League,League,Boston Doves,63,91,0.4090909090909091,.409
+1909,National League,League,Pittsburgh Pirates,110,42,0.7236842105263158,.724
+1909,National League,League,Chicago Cubs,104,49,0.6797385620915033,6½
+1909,National League,League,Cincinnati Reds,77,76,0.5032679738562091,33½
+1909,National League,League,Boston Doves,45,108,0.29411764705882354,65½
+1910,National League,League,Chicago Cubs,104,50,0.6753246753246753,.675
+1910,National League,League,Pittsburgh Pirates,86,67,0.5620915032679739,17½
+1910,National League,League,Cincinnati Reds,75,79,0.487012987012987,.487
+1910,National League,League,Boston Doves,53,100,0.3464052287581699,50½
+1911,National League,League,Chicago Cubs,92,62,0.5974025974025974,7½
+1911,National League,League,Pittsburgh Pirates,85,69,0.551948051948052,14½
+1911,National League,League,Cincinnati Reds,70,83,0.45751633986928103,.458
+1912,National League,League,Pittsburgh Pirates,93,58,0.6158940397350994,.616
+1912,National League,League,Chicago Cubs,91,59,0.6066666666666667,11½
+1912,National League,League,Cincinnati Reds,75,78,0.49019607843137253,.490
+1912,National League,League,Boston Braves,52,101,0.33986928104575165,.340
+1913,National League,League,Chicago Cubs,88,65,0.5751633986928104,13½
+1913,National League,League,Pittsburgh Pirates,78,71,0.5234899328859061,21½
+1913,National League,League,Boston Braves,69,82,0.45695364238410596,31½
+1913,National League,League,Cincinnati Reds,64,89,0.41830065359477125,37½
+1914,National League,League,Boston Braves,94,59,0.6143790849673203,.614
+1914,National League,League,Chicago Cubs,78,76,0.5064935064935064,16½
+1914,National League,League,Pittsburgh Pirates,69,85,0.44805194805194803,25½
+1914,National League,League,Cincinnati Reds,60,94,0.38961038961038963,34½
+1915,National League,League,Boston Braves,83,69,0.5460526315789473,.546
+1915,National League,League,Chicago Cubs,73,80,0.477124183006536,17½
+1915,National League,League,Pittsburgh Pirates,73,81,0.474025974025974,.474
+1915,National League,League,Cincinnati Reds,71,83,0.461038961038961,.461
+1916,National League,League,Boston Braves,89,63,0.5855263157894737,.586
+1916,National League,League,Chicago Cubs,67,86,0.43790849673202614,26½
+1916,National League,League,Pittsburgh Pirates,65,89,0.42207792207792205,.422
+1916,National League,League,Cincinnati Reds,60,93,0.39215686274509803,33½
+1917,National League,League,Cincinnati Reds,78,76,0.5064935064935064,.506
+1917,National League,League,Chicago Cubs,74,80,0.4805194805194805,.481
+1917,National League,League,Boston Braves,72,81,0.47058823529411764,25½
+1917,National League,League,Pittsburgh Pirates,51,103,0.33116883116883117,.331
+1918,National League,League,Chicago Cubs,84,45,0.6511627906976745,.651
+1918,National League,League,Cincinnati Reds,68,60,0.53125,15½
+1918,National League,League,Pittsburgh Pirates,65,60,0.52,.520
+1918,National League,League,Boston Braves,53,71,0.4274193548387097,28½
+1919,National League,League,Cincinnati Reds,96,44,0.6857142857142857,.686
+1919,National League,League,Chicago Cubs,75,65,0.5357142857142857,.536
+1919,National League,League,Pittsburgh Pirates,71,68,0.5107913669064749,24½
+1919,National League,League,Boston Braves,57,82,0.41007194244604317,38½
+1920,National League,League,Cincinnati Reds,82,71,0.5359477124183006,10½
+1920,National League,League,Pittsburgh Pirates,79,75,0.512987012987013,.513
+1920,National League,League,Chicago Cubs,75,79,0.487012987012987,.487
+1920,National League,League,Boston Braves,62,90,0.40789473684210525,.408
+1921,National League,League,Pittsburgh Pirates,90,63,0.5882352941176471,.588
+1921,National League,League,Boston Braves,79,74,0.5163398692810458,.516
+1921,National League,League,Cincinnati Reds,70,83,0.45751633986928103,.458
+1921,National League,League,Chicago Cubs,64,89,0.41830065359477125,.418
+1922,National League,League,Cincinnati Reds,86,68,0.5584415584415584,.558
+1922,National League,League,Pittsburgh Pirates,85,69,0.551948051948052,.552
+1922,National League,League,Chicago Cubs,80,74,0.5194805194805194,.519
+1922,National League,League,Boston Braves,53,100,0.3464052287581699,39½
+1923,National League,League,Cincinnati Reds,91,63,0.5909090909090909,4½
+1923,National League,League,Pittsburgh Pirates,87,67,0.564935064935065,8½
+1923,National League,League,Chicago Cubs,83,71,0.538961038961039,12½
+1923,National League,League,Boston Braves,54,100,0.35064935064935066,41½
+1924,National League,League,Pittsburgh Pirates,90,63,0.5882352941176471,.588
+1924,National League,League,Cincinnati Reds,83,70,0.5424836601307189,.542
+1924,National League,League,Chicago Cubs,81,72,0.5294117647058824,.529
+1924,National League,League,Boston Braves,53,100,0.3464052287581699,.346
+1925,National League,League,Pittsburgh Pirates,95,58,0.6209150326797386,.621
+1925,National League,League,Cincinnati Reds,80,73,0.5228758169934641,.523
+1925,National League,League,Boston Braves,70,83,0.45751633986928103,.458
+1925,National League,League,Chicago Cubs,68,86,0.44155844155844154,27½
+1926,National League,League,Cincinnati Reds,87,67,0.564935064935065,.565
+1926,National League,League,Pittsburgh Pirates,84,69,0.5490196078431373,4½
+1926,National League,League,Chicago Cubs,82,72,0.5324675324675324,.532
+1926,National League,League,Boston Braves,66,86,0.4342105263157895,.434
+1927,National League,League,Pittsburgh Pirates,94,60,0.6103896103896104,.610
+1927,National League,League,Chicago Cubs,85,68,0.5555555555555556,8½
+1927,National League,League,Cincinnati Reds,75,78,0.49019607843137253,18½
+1927,National League,League,Boston Braves,60,94,0.38961038961038963,.390
+1928,National League,League,Chicago Cubs,91,63,0.5909090909090909,.591
+1928,National League,League,Pittsburgh Pirates,85,67,0.5592105263157895,.559
+1928,National League,League,Cincinnati Reds,78,74,0.5131578947368421,.513
+1928,National League,League,Boston Braves,50,103,0.32679738562091504,44½
+1929,National League,League,Chicago Cubs,98,54,0.6447368421052632,.645
+1929,National League,League,Pittsburgh Pirates,88,65,0.5751633986928104,10½
+1929,National League,League,Cincinnati Reds,66,88,0.42857142857142855,.429
+1929,National League,League,Boston Braves,56,98,0.36363636363636365,.364
+1930,National League,League,Chicago Cubs,90,64,0.5844155844155844,.584
+1930,National League,League,Pittsburgh Pirates,80,74,0.5194805194805194,.519
+1930,National League,League,Boston Braves,70,84,0.45454545454545453,.455
+1930,National League,League,Cincinnati Reds,59,95,0.38311688311688313,.383
+1931,National League,League,Chicago Cubs,84,70,0.5454545454545454,.545
+1931,National League,League,Pittsburgh Pirates,75,79,0.487012987012987,.487
+1931,National League,League,Boston Braves,64,90,0.4155844155844156,.416
+1931,National League,League,Cincinnati Reds,58,96,0.37662337662337664,.377
+1932,National League,League,Chicago Cubs,90,64,0.5844155844155844,.584
+1932,National League,League,Pittsburgh Pirates,86,68,0.5584415584415584,.558
+1932,National League,League,Boston Braves,77,77,0.5,.500
+1932,National League,League,Cincinnati Reds,60,94,0.38961038961038963,.390
+1933,National League,League,Pittsburgh Pirates,87,67,0.564935064935065,.565
+1933,National League,League,Chicago Cubs,86,68,0.5584415584415584,.558
+1933,National League,League,Boston Braves,83,71,0.538961038961039,.539
+1933,National League,League,Cincinnati Reds,58,94,0.3815789473684211,.382
+1934,National League,League,Chicago Cubs,86,65,0.5695364238410596,.570
+1934,National League,League,Boston Braves,78,73,0.5165562913907285,.517
+1934,National League,League,Pittsburgh Pirates,74,76,0.49333333333333335,19½
+1934,National League,League,Cincinnati Reds,52,99,0.3443708609271523,.344
+1935,National League,League,Chicago Cubs,100,54,0.6493506493506493,.649
+1935,National League,League,Pittsburgh Pirates,86,67,0.5620915032679739,13½
+1935,National League,League,Cincinnati Reds,68,85,0.4444444444444444,31½
+1935,National League,League,Boston Braves,38,115,0.24836601307189543,61½
+1936,National League,League,Chicago Cubs,87,67,0.564935064935065,.565
+1936,National League,League,Pittsburgh Pirates,84,70,0.5454545454545454,.545
+1936,National League,League,Cincinnati Reds,74,80,0.4805194805194805,.481
+1936,National League,League,Boston Bees,71,83,0.461038961038961,.461
+1937,National League,League,Chicago Cubs,93,61,0.6038961038961039,.604
+1937,National League,League,Pittsburgh Pirates,86,68,0.5584415584415584,.558
+1937,National League,League,Boston Bees,79,73,0.5197368421052632,.520
+1937,National League,League,Cincinnati Reds,56,98,0.36363636363636365,.364
+1938,National League,League,Chicago Cubs,89,63,0.5855263157894737,.586
+1938,National League,League,Pittsburgh Pirates,86,64,0.5733333333333334,.573
+1938,National League,League,Cincinnati Reds,82,68,0.5466666666666666,.547
+1938,National League,League,Boston Bees,77,75,0.506578947368421,.507
+1939,National League,League,Cincinnati Reds,97,57,0.6298701298701299,.630
+1939,National League,League,Chicago Cubs,84,70,0.5454545454545454,.545
+1939,National League,League,Pittsburgh Pirates,68,85,0.4444444444444444,28½
+1939,National League,League,Boston Bees,63,88,0.41721854304635764,32½
+1940,National League,League,Cincinnati Reds,100,53,0.6535947712418301,.654
+1940,National League,League,Pittsburgh Pirates,78,76,0.5064935064935064,22½
+1940,National League,League,Chicago Cubs,75,79,0.487012987012987,25½
+1940,National League,League,Boston Bees,65,87,0.4276315789473684,34½
+1941,National League,League,Cincinnati Reds,88,66,0.5714285714285714,.571
+1941,National League,League,Pittsburgh Pirates,81,73,0.525974025974026,.526
+1941,National League,League,Chicago Cubs,70,84,0.45454545454545453,.455
+1941,National League,League,Boston Braves,62,92,0.4025974025974026,.403
+1942,National League,League,Cincinnati Reds,76,76,0.5,.500
+1942,National League,League,Pittsburgh Pirates,66,81,0.4489795918367347,36½
+1942,National League,League,Chicago Cubs,68,86,0.44155844155844154,.442
+1942,National League,League,Boston Braves,59,89,0.39864864864864863,.399
+1943,National League,League,Cincinnati Reds,87,67,0.564935064935065,.565
+1943,National League,League,Pittsburgh Pirates,80,74,0.5194805194805194,.519
+1943,National League,League,Chicago Cubs,74,79,0.48366013071895425,30½
+1943,National League,League,Boston Braves,68,85,0.4444444444444444,36½
+1944,National League,League,Pittsburgh Pirates,90,63,0.5882352941176471,14½
+1944,National League,League,Cincinnati Reds,89,65,0.577922077922078,.578
+1944,National League,League,Chicago Cubs,75,79,0.487012987012987,.487
+1944,National League,League,Boston Braves,65,89,0.42207792207792205,.422
+1945,National League,League,Chicago Cubs,98,56,0.6363636363636364,.636
+1945,National League,League,Pittsburgh Pirates,82,72,0.5324675324675324,.532
+1945,National League,League,Boston Braves,67,85,0.4407894736842105,.441
+1945,National League,League,Cincinnati Reds,61,93,0.3961038961038961,.396
+1946,National League,League,Chicago Cubs,82,71,0.5359477124183006,14½
+1946,National League,League,Boston Braves,81,72,0.5294117647058824,15½
+1946,National League,League,Cincinnati Reds,67,87,0.43506493506493504,.435
+1946,National League,League,Pittsburgh Pirates,63,91,0.4090909090909091,.409
+1947,National League,League,Boston Braves,86,68,0.5584415584415584,.558
+1947,National League,League,Cincinnati Reds,73,81,0.474025974025974,.474
+1947,National League,League,Chicago Cubs,69,85,0.44805194805194803,.448
+1947,National League,League,Pittsburgh Pirates,62,92,0.4025974025974026,.403
+1948,National League,League,Boston Braves,91,62,0.5947712418300654,.595
+1948,National League,League,Pittsburgh Pirates,83,71,0.538961038961039,8½
+1948,National League,League,Cincinnati Reds,64,89,0.41830065359477125,.418
+1948,National League,League,Chicago Cubs,64,90,0.4155844155844156,27½
+1949,National League,League,Boston Braves,75,79,0.487012987012987,.487
+1949,National League,League,Pittsburgh Pirates,71,83,0.461038961038961,.461
+1949,National League,League,Cincinnati Reds,62,92,0.4025974025974026,.403
+1949,National League,League,Chicago Cubs,61,93,0.3961038961038961,.396
+1950,National League,League,Boston Braves,83,71,0.538961038961039,.539
+1950,National League,League,Cincinnati Reds,66,87,0.43137254901960786,24½
+1950,National League,League,Chicago Cubs,64,89,0.41830065359477125,26½
+1950,National League,League,Pittsburgh Pirates,57,96,0.37254901960784315,33½
+1951,National League,League,Boston Braves,76,78,0.4935064935064935,20½
+1951,National League,League,Cincinnati Reds,68,86,0.44155844155844154,28½
+1951,National League,League,Pittsburgh Pirates,64,90,0.4155844155844156,32½
+1951,National League,League,Chicago Cubs,62,92,0.4025974025974026,34½
+1952,National League,League,Chicago Cubs,77,77,0.5,19½
+1952,National League,League,Cincinnati Reds,69,85,0.44805194805194803,27½
+1952,National League,League,Boston Braves,64,89,0.41830065359477125,.418
+1952,National League,League,Pittsburgh Pirates,42,112,0.2727272727272727,54½
+1953,National League,League,Chicago Cubs,65,89,0.42207792207792205,.422
+1953,National League,League,Pittsburgh Pirates,50,104,0.3246753246753247,.325
+1954,National League,League,Chicago Cubs,64,90,0.4155844155844156,.416
+1954,National League,League,Pittsburgh Pirates,53,101,0.34415584415584416,.344
+1955,National League,League,Chicago Cubs,72,81,0.47058823529411764,.471
+1955,National League,League,Pittsburgh Pirates,60,94,0.38961038961038963,38½
+1956,National League,League,Pittsburgh Pirates,66,88,0.42857142857142855,.429
+1956,National League,League,Chicago Cubs,60,94,0.38961038961038963,.390
+1957,National League,League,Pittsburgh Pirates,62,92,0.4025974025974026,.403
+1957,National League,League,Chicago Cubs,62,92,0.4025974025974026,.403
+1958,National League,League,Pittsburgh Pirates,84,70,0.5454545454545454,.545
+1958,National League,League,San Francisco Giants,80,74,0.5194805194805194,.519
+1958,National League,League,Chicago Cubs,72,82,0.4675324675324675,.468
+1959,National League,League,San Francisco Giants,83,71,0.538961038961039,.539
+1959,National League,League,Pittsburgh Pirates,78,76,0.5064935064935064,.506
+1959,National League,League,Chicago Cubs,74,80,0.4805194805194805,.481
+1959,National League,League,Cincinnati Reds,74,80,0.4805194805194805,.481
+1960,National League,League,Pittsburgh Pirates,95,59,0.6168831168831169,.617
+1960,National League,League,San Francisco Giants,79,75,0.512987012987013,.513
+1960,National League,League,Cincinnati Reds,67,87,0.43506493506493504,.435
+1960,National League,League,Chicago Cubs,60,94,0.38961038961038963,.390
+1961,National League,League,Cincinnati Reds,93,61,0.6038961038961039,.604
+1961,National League,League,San Francisco Giants,85,69,0.551948051948052,.552
+1961,National League,League,Pittsburgh Pirates,75,79,0.487012987012987,.487
+1961,National League,League,Chicago Cubs,64,90,0.4155844155844156,.416
+1962,National League,League,San Francisco Giants,103,62,0.6242424242424243,.624
+1962,National League,League,Cincinnati Reds,98,64,0.6049382716049383,3½
+1962,National League,League,Pittsburgh Pirates,93,68,0.577639751552795,.578
+1962,National League,League,Chicago Cubs,59,103,0.36419753086419754,42½
+1963,National League,League,San Francisco Giants,88,74,0.5432098765432098,.543
+1963,National League,League,Cincinnati Reds,86,76,0.5308641975308642,.531
+1963,National League,League,Chicago Cubs,82,80,0.5061728395061729,.506
+1963,National League,League,Pittsburgh Pirates,74,88,0.4567901234567901,.457
+1964,National League,League,Cincinnati Reds,92,70,0.5679012345679012,.568
+1964,National League,League,San Francisco Giants,90,72,0.5555555555555556,.556
+1964,National League,League,Pittsburgh Pirates,80,82,0.49382716049382713,.494
+1964,National League,League,Chicago Cubs,76,86,0.4691358024691358,.469
+1965,National League,League,San Francisco Giants,95,67,0.5864197530864198,.586
+1965,National League,League,Pittsburgh Pirates,90,72,0.5555555555555556,.556
+1965,National League,League,Cincinnati Reds,89,73,0.5493827160493827,.549
+1965,National League,League,Chicago Cubs,72,90,0.4444444444444444,.444
+1965,National League,League,Houston Astros,65,97,0.4012345679012346,.401
+1966,National League,League,San Francisco Giants,93,68,0.577639751552795,1½
+1966,National League,League,Pittsburgh Pirates,92,70,0.5679012345679012,.568
+1966,National League,League,Cincinnati Reds,76,84,0.475,.475
+1966,National League,League,Houston Astros,72,90,0.4444444444444444,.444
+1966,National League,League,Chicago Cubs,59,103,0.36419753086419754,.364
+1967,National League,League,San Francisco Giants,91,71,0.5617283950617284,10½
+1967,National League,League,Chicago Cubs,84,74,0.5316455696202531,.540
+1967,National League,League,Cincinnati Reds,87,75,0.5370370370370371,14½
+1967,National League,League,Pittsburgh Pirates,81,81,0.5,20½
+1967,National League,League,Houston Astros,69,93,0.42592592592592593,32½
+1968,National League,League,San Francisco Giants,88,74,0.5432098765432098,.543
+1968,National League,League,Chicago Cubs,84,78,0.5185185185185185,.519
+1968,National League,League,Cincinnati Reds,83,79,0.5123456790123457,.512
+1968,National League,League,Pittsburgh Pirates,80,82,0.49382716049382713,.494
+1968,National League,League,Houston Astros,72,90,0.4444444444444444,.444
+1969,National League,East,Chicago Cubs,92,70,0.5679012345679012,.568
+1969,National League,East,Pittsburgh Pirates,88,74,0.5432098765432098,.543
+1969,National League,West,San Francisco Giants,90,72,0.5555555555555556,.556
+1969,National League,West,Cincinnati Reds,89,73,0.5493827160493827,.549
+1969,National League,West,Houston Astros,81,81,0.5,.500
+1969,National League,West,San Diego Padres,52,110,0.32098765432098764,.321
+1970,National League,East,Pittsburgh Pirates,89,73,0.5493827160493827,.549
+1970,National League,East,Chicago Cubs,84,78,0.5185185185185185,.519
+1970,National League,West,Cincinnati Reds,102,60,0.6296296296296297,.630
+1970,National League,West,San Francisco Giants,86,76,0.5308641975308642,.531
+1970,National League,West,Houston Astros,79,83,0.4876543209876543,.488
+1970,National League,West,San Diego Padres,63,99,0.3888888888888889,.389
+1971,National League,East,Pittsburgh Pirates,97,65,0.5987654320987654,.599
+1971,National League,East,Chicago Cubs,83,79,0.5123456790123457,.512
+1971,National League,West,San Francisco Giants,90,72,0.5555555555555556,.556
+1971,National League,West,Houston Astros,79,83,0.4876543209876543,.488
+1971,National League,West,Cincinnati Reds,79,83,0.4876543209876543,.488
+1971,National League,West,San Diego Padres,61,100,0.37888198757763975,28½
+1972,National League,East,Pittsburgh Pirates,96,59,0.6193548387096774,.619
+1972,National League,East,Chicago Cubs,85,70,0.5483870967741935,.548
+1972,National League,West,Cincinnati Reds,95,59,0.6168831168831169,.617
+1972,National League,West,Houston Astros,84,69,0.5490196078431373,10½
+1972,National League,West,San Francisco Giants,69,86,0.44516129032258067,26½
+1972,National League,West,San Diego Padres,58,95,0.3790849673202614,36½
+1973,National League,East,Pittsburgh Pirates,80,82,0.49382716049382713,2½
+1973,National League,East,Chicago Cubs,77,84,0.4782608695652174,.478
+1973,National League,West,Cincinnati Reds,99,63,0.6111111111111112,.611
+1973,National League,West,San Francisco Giants,88,74,0.5432098765432098,.543
+1973,National League,West,Houston Astros,82,80,0.5061728395061729,.506
+1973,National League,West,San Diego Padres,60,102,0.37037037037037035,.370
+1974,National League,East,Pittsburgh Pirates,88,74,0.5432098765432098,.543
+1974,National League,East,Chicago Cubs,66,96,0.4074074074074074,.407
+1974,National League,West,Cincinnati Reds,98,64,0.6049382716049383,.605
+1974,National League,West,Houston Astros,81,81,0.5,.500
+1974,National League,West,San Francisco Giants,72,90,0.4444444444444444,.444
+1974,National League,West,San Diego Padres,60,102,0.37037037037037035,.370
+1975,National League,East,Pittsburgh Pirates,92,69,0.5714285714285714,.571
+1975,National League,East,Chicago Cubs,75,87,0.46296296296296297,17½
+1975,National League,West,Cincinnati Reds,108,54,0.6666666666666666,.667
+1975,National League,West,San Francisco Giants,80,81,0.4968944099378882,27½
+1975,National League,West,San Diego Padres,71,91,0.4382716049382716,.438
+1975,National League,West,Houston Astros,64,97,0.39751552795031053,43½
+1976,National League,East,Pittsburgh Pirates,92,70,0.5679012345679012,.568
+1976,National League,East,Chicago Cubs,75,87,0.46296296296296297,.463
+1976,National League,West,Cincinnati Reds,102,60,0.6296296296296297,.630
+1976,National League,West,Houston Astros,80,82,0.49382716049382713,.494
+1976,National League,West,San Francisco Giants,74,88,0.4567901234567901,.457
+1976,National League,West,San Diego Padres,73,89,0.4506172839506173,.451
+1977,National League,East,Pittsburgh Pirates,96,66,0.5925925925925926,.593
+1977,National League,East,Chicago Cubs,81,81,0.5,.500
+1977,National League,West,Cincinnati Reds,88,74,0.5432098765432098,.543
+1977,National League,West,Houston Astros,81,81,0.5,.500
+1977,National League,West,San Francisco Giants,75,87,0.46296296296296297,.463
+1977,National League,West,San Diego Padres,69,93,0.42592592592592593,.426
+1978,National League,East,Pittsburgh Pirates,88,73,0.546583850931677,1½
+1978,National League,East,Chicago Cubs,79,83,0.4876543209876543,.488
+1978,National League,West,Cincinnati Reds,92,69,0.5714285714285714,2½
+1978,National League,West,San Francisco Giants,89,73,0.5493827160493827,.549
+1978,National League,West,San Diego Padres,84,78,0.5185185185185185,.519
+1978,National League,West,Houston Astros,74,88,0.4567901234567901,.457
+1979,National League,East,Pittsburgh Pirates,98,64,0.6049382716049383,.605
+1979,National League,East,Chicago Cubs,80,82,0.49382716049382713,.494
+1979,National League,West,Cincinnati Reds,90,71,0.5590062111801242,.559
+1979,National League,West,Houston Astros,89,73,0.5493827160493827,1½
+1979,National League,West,San Francisco Giants,71,91,0.4382716049382716,19½
+1979,National League,West,San Diego Padres,68,93,0.422360248447205,.422
+1980,National League,East,Pittsburgh Pirates,83,79,0.5123456790123457,.512
+1980,National League,East,Chicago Cubs,64,98,0.3950617283950617,.395
+1980,National League,West,Houston Astros,93,70,0.5705521472392638,.571
+1980,National League,West,Cincinnati Reds,89,73,0.5493827160493827,3½
+1980,National League,West,San Francisco Giants,75,86,0.4658385093167702,.466
+1980,National League,West,San Diego Padres,73,89,0.4506172839506173,19½
+1981,National League,East,Pittsburgh Pirates,46,56,0.45098039215686275,.451
+1981,National League,East,Chicago Cubs,38,65,0.36893203883495146,21½
+1981,National League,West,Cincinnati Reds,66,42,0.6111111111111112,.611
+1981,National League,West,Houston Astros,61,49,0.5545454545454546,.555
+1981,National League,West,San Francisco Giants,56,55,0.5045045045045045,11½
+1981,National League,West,San Diego Padres,41,69,0.37272727272727274,.373
+1982,National League,East,Pittsburgh Pirates,84,78,0.5185185185185185,.519
+1982,National League,East,Chicago Cubs,73,89,0.4506172839506173,.451
+1982,National League,West,San Francisco Giants,87,75,0.5370370370370371,.537
+1982,National League,West,San Diego Padres,81,81,0.5,.500
+1982,National League,West,Houston Astros,77,85,0.47530864197530864,.475
+1982,National League,West,Cincinnati Reds,61,101,0.3765432098765432,.377
+1983,National League,East,Pittsburgh Pirates,84,78,0.5185185185185185,.519
+1983,National League,East,Chicago Cubs,71,91,0.4382716049382716,.438
+1983,National League,West,Houston Astros,85,77,0.5246913580246914,.525
+1983,National League,West,San Diego Padres,81,81,0.5,.500
+1983,National League,West,San Francisco Giants,79,83,0.4876543209876543,.488
+1983,National League,West,Cincinnati Reds,74,88,0.4567901234567901,.457
+1984,National League,East,Chicago Cubs,96,65,0.5962732919254659,.596
+1984,National League,East,Pittsburgh Pirates,75,87,0.46296296296296297,21½
+1984,National League,West,San Diego Padres,92,70,0.5679012345679012,.568
+1984,National League,West,Houston Astros,80,82,0.49382716049382713,.494
+1984,National League,West,Cincinnati Reds,70,92,0.43209876543209874,.432
+1984,National League,West,San Francisco Giants,66,96,0.4074074074074074,.407
+1985,National League,East,Chicago Cubs,77,84,0.4782608695652174,"$13,478,225"
+1985,National League,East,Pittsburgh Pirates,57,104,0.35403726708074534,"$10,223,945"
+1985,National League,West,Cincinnati Reds,89,72,0.5527950310559007,"$9,258,848"
+1985,National League,West,San Diego Padres,83,79,0.5123456790123457,"$9,801,052"
+1985,National League,West,Houston Astros,83,79,0.5123456790123457,"$10,153,335"
+1985,National League,West,San Francisco Giants,62,100,0.38271604938271603,"$7,777,945"
+1986,National League,East,Chicago Cubs,70,90,0.4375,"$16,904,832"
+1986,National League,East,Pittsburgh Pirates,64,98,0.3950617283950617,"$10,231,500"
+1986,National League,West,Houston Astros,96,66,0.5925925925925926,"$10,368,276"
+1986,National League,West,Cincinnati Reds,86,76,0.5308641975308642,"$11,785,036"
+1986,National League,West,San Francisco Giants,83,79,0.5123456790123457,"$8,682,000"
+1986,National League,West,San Diego Padres,74,88,0.4567901234567901,"$11,897,522"
+1987,National League,East,Pittsburgh Pirates,80,82,0.49382716049382713,"$7,589,500"
+1987,National League,East,Chicago Cubs,76,85,0.4720496894409938,"$12,968,026"
+1987,National League,West,San Francisco Giants,90,72,0.5555555555555556,"$10,628,000"
+1987,National League,West,Cincinnati Reds,84,78,0.5185185185185185,"$8,536,500"
+1987,National League,West,Houston Astros,76,86,0.4691358024691358,"$11,508,371"
+1987,National League,West,San Diego Padres,65,97,0.4012345679012346,"$10,484,429"
+1988,National League,East,Pittsburgh Pirates,85,75,0.53125,"$8,647,500"
+1988,National League,East,Chicago Cubs,77,86,0.4723926380368098,"$12,849,333"
+1988,National League,West,Cincinnati Reds,87,74,0.5403726708074534,"$9,998,833"
+1988,National League,West,San Diego Padres,83,78,0.515527950310559,"$10,978,168"
+1988,National League,West,San Francisco Giants,83,79,0.5123456790123457,"$12,332,000"
+1988,National League,West,Houston Astros,82,80,0.5061728395061729,"$13,565,576"
+1989,National League,East,Chicago Cubs,93,69,0.5740740740740741,"$12,167,000"
+1989,National League,East,Pittsburgh Pirates,74,88,0.4567901234567901,"$12,463,000"
+1989,National League,West,San Francisco Giants,92,70,0.5679012345679012,"$17,255,083"
+1989,National League,West,San Diego Padres,89,73,0.5493827160493827,"$14,004,000"
+1989,National League,West,Houston Astros,86,76,0.5308641975308642,"$16,761,625"
+1989,National League,West,Cincinnati Reds,75,87,0.46296296296296297,"$12,257,000"
+1990,National League,East,Pittsburgh Pirates,95,67,0.5864197530864198,"$14,740,000"
+1990,National League,East,Chicago Cubs,77,85,0.47530864197530864,"$13,654,500"
+1990,National League,West,Cincinnati Reds,91,71,0.5617283950617284,"$14,870,166"
+1990,National League,West,San Francisco Giants,85,77,0.5246913580246914,"$18,804,272"
+1990,National League,West,San Diego Padres,75,87,0.46296296296296297,"$16,677,834"
+1990,National League,West,Houston Astros,75,87,0.46296296296296297,"$17,123,000"
+1991,National League,East,Pittsburgh Pirates,98,64,0.6049382716049383,"$25,288,666"
+1991,National League,East,Chicago Cubs,77,83,0.48125,"$26,568,867"
+1991,National League,West,San Diego Padres,84,78,0.5185185185185185,"$23,323,558"
+1991,National League,West,San Francisco Giants,75,87,0.46296296296296297,"$32,111,053"
+1991,National League,West,Cincinnati Reds,74,88,0.4567901234567901,"$26,224,166"
+1991,National League,West,Houston Astros,65,97,0.4012345679012346,"$12,009,514"
+1992,National League,East,Pittsburgh Pirates,96,66,0.5925925925925926,"$32,444,320"
+1992,National League,East,Chicago Cubs,78,84,0.48148148148148145,"$31,798,680"
+1992,National League,West,Cincinnati Reds,90,72,0.5555555555555556,"$36,471,500"
+1992,National League,West,San Diego Padres,82,80,0.5061728395061729,"$25,781,500"
+1992,National League,West,Houston Astros,81,81,0.5,"$14,671,500"
+1992,National League,West,San Francisco Giants,72,90,0.4444444444444444,"$31,712,170"
+1993,National League,East,Chicago Cubs,84,78,0.5185185185185185,"$36,005,976"
+1993,National League,East,Pittsburgh Pirates,75,87,0.46296296296296297,"$24,318,667"
+1993,National League,West,San Francisco Giants,103,59,0.6358024691358025,"$36,342,322"
+1993,National League,West,Houston Astros,85,77,0.5246913580246914,"$30,130,233"
+1993,National League,West,Cincinnati Reds,73,89,0.4506172839506173,"$41,641,387"
+1993,National League,West,San Diego Padres,61,101,0.3765432098765432,"$12,842,333"
+1994,National League,Central,Cincinnati Reds,66,48,0.5789473684210527,"$41,458,042"
+1994,National League,Central,Houston Astros,66,49,0.5739130434782609,"$33,092,500"
+1994,National League,Central,Pittsburgh Pirates,53,61,0.4649122807017544,"$21,503,250"
+1994,National League,Central,Chicago Cubs,49,64,0.4336283185840708,"$32,456,333"
+1994,National League,West,San Francisco Giants,55,60,0.4782608695652174,"$42,260,538"
+1994,National League,West,San Diego Padres,47,70,0.4017094017094017,"$13,774,268"
+1995,National League,Central,Cincinnati Reds,85,59,0.5902777777777778,"$47,739,109"
+1995,National League,Central,Houston Astros,76,68,0.5277777777777778,"$33,614,668"
+1995,National League,Central,Chicago Cubs,73,71,0.5069444444444444,"$36,797,696"
+1995,National League,Central,Pittsburgh Pirates,58,86,0.4027777777777778,"$17,665,833"
+1995,National League,West,San Diego Padres,70,74,0.4861111111111111,"$25,008,834"
+1995,National League,West,San Francisco Giants,67,77,0.4652777777777778,"$33,798,683"
+1996,National League,Central,Houston Astros,82,80,0.5061728395061729,"$29,613,000"
+1996,National League,Central,Cincinnati Reds,81,81,0.5,"$43,696,946"
+1996,National League,Central,Chicago Cubs,76,86,0.4691358024691358,"$32,605,000"
+1996,National League,Central,Pittsburgh Pirates,73,89,0.4506172839506173,"$16,994,160"
+1996,National League,West,San Diego Padres,91,71,0.5617283950617284,"$33,376,026"
+1996,National League,West,San Francisco Giants,68,94,0.41975308641975306,"$34,646,793"
+1997,National League,Central,Houston Astros,84,78,0.5185185185185185,"$34,932,500"
+1997,National League,Central,Pittsburgh Pirates,79,83,0.4876543209876543,"$15,124,166"
+1997,National League,Central,Cincinnati Reds,76,86,0.4691358024691358,"$38,206,000"
+1997,National League,Central,Chicago Cubs,68,94,0.41975308641975306,"$30,791,000"
+1997,National League,West,San Francisco Giants,90,72,0.5555555555555556,"$43,067,378"
+1997,National League,West,San Diego Padres,76,86,0.4691358024691358,"$32,765,172"
+1998,National League,Central,Houston Astros,102,60,0.6296296296296297,"$48,354,000"
+1998,National League,Central,Chicago Cubs,90,73,0.5521472392638037,"$51,061,000"
+1998,National League,Central,Cincinnati Reds,77,85,0.47530864197530864,"$20,707,333"
+1998,National League,Central,Pittsburgh Pirates,69,93,0.42592592592592593,"$13,695,000"
+1998,National League,West,San Diego Padres,98,64,0.6049382716049383,"$53,081,166"
+1998,National League,West,San Francisco Giants,89,74,0.5460122699386503,"$47,939,715"
+1998,National League,West,Arizona Diamondbacks,65,97,0.4012345679012346,"$32,814,500"
+1999,National League,Central,Houston Astros,97,65,0.5987654320987654,"$56,389,000"
+1999,National League,Central,Cincinnati Reds,96,67,0.588957055214724,"$38,031,285"
+1999,National League,Central,Pittsburgh Pirates,78,83,0.484472049689441,"$23,682,420"
+1999,National League,Central,Chicago Cubs,67,95,0.41358024691358025,"$55,419,648"
+1999,National League,West,Arizona Diamondbacks,100,62,0.6172839506172839,"$70,046,818"
+1999,National League,West,San Francisco Giants,86,76,0.5308641975308642,"$45,991,934"
+1999,National League,West,San Diego Padres,74,88,0.4567901234567901,"$46,507,179"
+2000,National League,Central,Cincinnati Reds,85,77,0.5246913580246914,"$46,867,200"
+2000,National League,Central,Houston Astros,72,90,0.4444444444444444,"$51,289,111"
+2000,National League,Central,Pittsburgh Pirates,69,93,0.42592592592592593,"$28,928,333"
+2000,National League,Central,Chicago Cubs,65,97,0.4012345679012346,"$60,539,333"
+2000,National League,West,San Francisco Giants,97,65,0.5987654320987654,"$53,737,826"
+2000,National League,West,Arizona Diamondbacks,85,77,0.5246913580246914,"$81,027,333"
+2000,National League,West,San Diego Padres,76,86,0.4691358024691358,"$54,821,000"
+2001,National League,Central,Houston Astros,93,69,0.5740740740740741,"$60,382,667"
+2001,National League,Central,Chicago Cubs,88,74,0.5432098765432098,"$64,015,833"
+2001,National League,Central,Cincinnati Reds,66,96,0.4074074074074074,"$45,227,882"
+2001,National League,Central,Pittsburgh Pirates,62,100,0.38271604938271603,"$52,698,333"
+2001,National League,West,Arizona Diamondbacks,92,70,0.5679012345679012,"$81,206,513"
+2001,National League,West,San Francisco Giants,90,72,0.5555555555555556,"$63,332,667"
+2001,National League,West,San Diego Padres,79,83,0.4876543209876543,"$38,333,117"
+2002,National League,Central,Houston Astros,84,78,0.5185185185185185,"$63,448,417"
+2002,National League,Central,Cincinnati Reds,78,84,0.48148148148148145,"$45,050,390"
+2002,National League,Central,Pittsburgh Pirates,72,89,0.4472049689440994,"$42,323,598"
+2002,National League,Central,Chicago Cubs,67,95,0.41358024691358025,"$75,690,833"
+2002,National League,West,Arizona Diamondbacks,98,64,0.6049382716049383,"$102,820,000"
+2002,National League,West,San Francisco Giants,95,66,0.5900621118012422,"$78,299,835"
+2002,National League,West,San Diego Padres,66,96,0.4074074074074074,"$41,425,000"
+2003,National League,Central,Chicago Cubs,88,74,0.5432098765432098,"$79,868,333"
+2003,National League,Central,Houston Astros,87,75,0.5370370370370371,"$71,040,000"
+2003,National League,Central,Pittsburgh Pirates,75,87,0.46296296296296297,"$54,812,429"
+2003,National League,Central,Cincinnati Reds,69,93,0.42592592592592593,"$59,355,667"
+2003,National League,West,San Francisco Giants,100,61,0.6211180124223602,"$82,852,167"
+2003,National League,West,Arizona Diamondbacks,84,78,0.5185185185185185,"$80,640,333"
+2003,National League,West,San Diego Padres,64,98,0.3950617283950617,"$47,928,000"
+2004,National League,Central,Houston Astros,92,70,0.5679012345679012,"$74,666,303"
+2004,National League,Central,Chicago Cubs,89,73,0.5493827160493827,"$91,101,667"
+2004,National League,Central,Cincinnati Reds,76,86,0.4691358024691358,"$43,067,858"
+2004,National League,Central,Pittsburgh Pirates,72,89,0.4472049689440994,"$32,227,929"
+2004,National League,West,San Francisco Giants,91,71,0.5617283950617284,"$82,019,167"
+2004,National League,West,San Diego Padres,87,75,0.5370370370370371,"$54,639,503"
+2004,National League,West,Arizona Diamondbacks,51,111,0.3148148148148148,"$70,204,984"
+2005,National League,Central,Houston Astros,89,73,0.5493827160493827,"$76,779,000"
+2005,National League,Central,Chicago Cubs,79,83,0.4876543209876543,"$87,032,933"
+2005,National League,Central,Cincinnati Reds,73,89,0.4506172839506173,"$61,892,583"
+2005,National League,Central,Pittsburgh Pirates,67,95,0.41358024691358025,"$38,133,000"
+2005,National League,West,San Diego Padres,82,80,0.5061728395061729,"$63,290,833"
+2005,National League,West,Arizona Diamondbacks,77,85,0.47530864197530864,"$62,329,166"
+2005,National League,West,San Francisco Giants,75,87,0.46296296296296297,"$90,199,500"
+2006,National League,Central,Houston Astros,82,80,0.5061728395061729,"$92,551,503"
+2006,National League,Central,Cincinnati Reds,80,82,0.49382716049382713,"$60,909,519"
+2006,National League,Central,Pittsburgh Pirates,67,95,0.41358024691358025,"$46,717,750"
+2006,National League,Central,Chicago Cubs,66,96,0.4074074074074074,"$94,424,499"
+2006,National League,West,San Diego Padres,88,74,0.5432098765432098,"$69,896,141"
+2006,National League,West,San Francisco Giants,76,85,0.4720496894409938,"$90,056,419"
+2006,National League,West,Arizona Diamondbacks,76,86,0.4691358024691358,"$59,684,226"
+2007,National League,Central,Chicago Cubs,85,77,0.5246913580246914,"$99,670,332"
+2007,National League,Central,Houston Astros,73,89,0.4506172839506173,"$87,759,000"
+2007,National League,Central,Cincinnati Reds,72,90,0.4444444444444444,"$68,904,980"
+2007,National League,Central,Pittsburgh Pirates,68,94,0.41975308641975306,"$38,537,833"
+2007,National League,West,Arizona Diamondbacks,90,72,0.5555555555555556,"$52,067,546"
+2007,National League,West,San Diego Padres,89,74,0.5460122699386503,"$58,110,567"
+2007,National League,West,San Francisco Giants,71,91,0.4382716049382716,"$90,219,056"
+2008,National League,Central,Chicago Cubs,97,64,0.6024844720496895,"$118,595,833"
+2008,National League,Central,Houston Astros,86,75,0.5341614906832298,"$88,930,415"
+2008,National League,Central,Cincinnati Reds,74,88,0.4567901234567901,"$74,277,685"
+2008,National League,Central,Pittsburgh Pirates,67,95,0.41358024691358025,"$49,365,283"
+2008,National League,West,Arizona Diamondbacks,82,80,0.5061728395061729,"$66,202,713"
+2008,National League,West,San Francisco Giants,72,90,0.4444444444444444,"$76,904,500"
+2008,National League,West,San Diego Padres,63,99,0.3888888888888889,"$73,677,617"
+2009,National League,Central,Chicago Cubs,83,78,0.515527950310559,"$134,809,000"
+2009,National League,Central,Cincinnati Reds,78,84,0.48148148148148145,"$73,558,500"
+2009,National League,Central,Houston Astros,74,88,0.4567901234567901,"$102,996,414"
+2009,National League,Central,Pittsburgh Pirates,62,99,0.38509316770186336,"$48,693,001"
+2009,National League,West,San Francisco Giants,88,74,0.5432098765432098,"$82,616,450"
+2009,National League,West,San Diego Padres,75,87,0.46296296296296297,"$43,734,200"
+2009,National League,West,Arizona Diamondbacks,70,92,0.43209876543209874,"$73,516,666"
+2010,National League,Central,Cincinnati Reds,91,71,0.5617283950617284,"$72,386,544"
+2010,National League,Central,Houston Astros,76,86,0.4691358024691358,"$92,355,500"
+2010,National League,Central,Chicago Cubs,75,87,0.46296296296296297,"$146,859,000"
+2010,National League,Central,Pittsburgh Pirates,57,105,0.35185185185185186,"$34,943,000"
+2010,National League,West,San Francisco Giants,92,70,0.5679012345679012,"$97,828,833"
+2010,National League,West,San Diego Padres,90,72,0.5555555555555556,"$37,799,300"
+2010,National League,West,Arizona Diamondbacks,65,97,0.4012345679012346,"$60,718,167"
+2011,National League,Central,Cincinnati Reds,79,83,0.4876543209876543,"$75,947,134"
+2011,National League,Central,Pittsburgh Pirates,72,90,0.4444444444444444,"$45,047,000"
+2011,National League,Central,Chicago Cubs,71,91,0.4382716049382716,"$125,047,329"
+2011,National League,Central,Houston Astros,56,106,0.345679012345679,"$70,694,000"
+2011,National League,West,Arizona Diamondbacks,94,68,0.5802469135802469,"$53,639,833"
+2011,National League,West,San Francisco Giants,86,76,0.5308641975308642,"$118,198,333"
+2011,National League,West,San Diego Padres,71,91,0.4382716049382716,"$45,869,140"
+2012,National League,Central,Cincinnati Reds,97,65,0.5987654320987654,"$82,203,616"
+2012,National League,Central,Pittsburgh Pirates,79,83,0.4876543209876543,"$63,431,999"
+2012,National League,Central,Chicago Cubs,61,101,0.3765432098765432,"$88,197,033"
+2012,National League,Central,Houston Astros,55,107,0.3395061728395062,"$60,651,000"
+2012,National League,West,San Francisco Giants,94,68,0.5802469135802469,"$117,620,683"
+2012,National League,West,Arizona Diamondbacks,81,81,0.5,"$74,284,833"
+2012,National League,West,San Diego Padres,76,86,0.4691358024691358,"$55,244,700"
+2013,National League,Central,Pittsburgh Pirates,94,68,0.5802469135802469,$
+2013,National League,Central,Cincinnati Reds,90,72,0.5555555555555556,$
+2013,National League,Central,Chicago Cubs,66,96,0.4074074074074074,$
+2013,National League,West,Arizona Diamondbacks,81,81,0.5,$
+2013,National League,West,San Diego Padres,76,86,0.4691358024691358,$
+2013,National League,West,San Francisco Giants,76,86,0.4691358024691358,$
+2014,National League,Central,Pittsburgh Pirates,88,74,0.5432098765432098,"$78,111,667"
+2014,National League,Central,Cincinnati Reds,76,86,0.4691358024691358,"$112,390,772"
+2014,National League,Central,Chicago Cubs,73,89,0.4506172839506173,"$89,007,857"
+2014,National League,West,San Francisco Giants,88,74,0.5432098765432098,"$154,185,878"
+2014,National League,West,San Diego Padres,77,85,0.47530864197530864,"$90,094,196"
+2014,National League,West,Arizona Diamondbacks,64,98,0.3950617283950617,"$112,688,666"
+2015,National League,Central,Pittsburgh Pirates,98,64,0.6049382716049383,.605
+2015,National League,Central,Chicago Cubs,97,65,0.5987654320987654,.599
+2015,National League,Central,Cincinnati Reds,64,98,0.3950617283950617,.395
+2015,National League,West,San Francisco Giants,84,78,0.5185185185185185,.519
+2015,National League,West,Arizona Diamondbacks,79,83,0.4876543209876543,.488
+2015,National League,West,San Diego Padres,74,88,0.4567901234567901,.457
+2016,National League,Central,Chicago Cubs,103,58,0.639751552795031,--
+2016,National League,Central,Pittsburgh Pirates,78,83,0.484472049689441,.484
+2016,National League,Central,Cincinnati Reds,68,94,0.41975308641975306,35.5
+2016,National League,West,San Francisco Giants,87,75,0.5370370370370371,.537
+2016,National League,West,Arizona Diamondbacks,69,93,0.42592592592592593,.426
+2016,National League,West,San Diego Padres,68,94,0.41975308641975306,.420
+2017,National League,Central,Chicago Cubs,92,70,0.5679012345679012,--
+2017,National League,Central,Pittsburgh Pirates,75,87,0.46296296296296297,17.0
+2017,National League,Central,Cincinnati Reds,68,94,0.41975308641975306,24.0
+2017,National League,West,Arizona Diamondbacks,93,69,0.5740740740740741,11.0
+2017,National League,West,San Diego Padres,71,91,0.4382716049382716,33.0
+2017,National League,West,San Francisco Giants,64,98,0.3950617283950617,40.0
+2018,National League,Central,Chicago Cubs,95,68,0.5828220858895705,1.0
+2018,National League,Central,Pittsburgh Pirates,82,79,0.5093167701863354,13.0
+2018,National League,Central,Cincinnati Reds,67,95,0.41358024691358025,28.5
+2018,National League,West,Arizona Diamondbacks,82,80,0.5061728395061729,9.5
+2018,National League,West,San Francisco Giants,73,89,0.4506172839506173,18.5
+2018,National League,West,San Diego Padres,66,96,0.4074074074074074,24.5
+2019,National League,Central,Chicago Cubs,84,78,0.5185185185185185,"$210,358,488"
+2019,National League,Central,Cincinnati Reds,75,87,0.46296296296296297,"$126,423,214"
+2019,National League,Central,Pittsburgh Pirates,69,93,0.42592592592592593,"$76,589,154"
+2019,National League,West,Arizona Diamondbacks,85,77,0.5246913580246914,"$123,932,983"
+2019,National League,West,San Francisco Giants,77,85,0.47530864197530864,"$178,286,222"
+2019,National League,West,San Diego Padres,70,92,0.43209876543209874,"$99,205,017"
+2020,National League,Central,Chicago Cubs,34,26,0.5666666666666667,--
+2020,National League,Central,Cincinnati Reds,31,29,0.5166666666666667,3.0
+2020,National League,West,San Diego Padres,37,23,0.6166666666666667,6.0
+2020,National League,West,San Francisco Giants,29,31,0.48333333333333334,14.0
+2020,National League,West,Arizona Diamondbacks,25,35,0.4166666666666667,18.0
+2021,National League,Central,Cincinnati Reds,83,79,0.5123456790123457,12.0
+2021,National League,Central,Chicago Cubs,71,91,0.4382716049382716,24.0
+2021,National League,Central,Pittsburgh Pirates,61,101,0.3765432098765432,34.0
+2021,National League,West,San Francisco Giants,107,55,0.6604938271604939,--
+2021,National League,West,San Diego Padres,79,83,0.4876543209876543,28.0
+2021,National League,West,Arizona Diamondbacks,52,110,0.32098765432098764,55.0
+2022,National League,Central,Chicago Cubs,74,88,0.4567901234567901,19.0
+2022,National League,Central,Cincinnati Reds,62,100,0.38271604938271603,31.0
+2022,National League,Central,Pittsburgh Pirates,62,100,0.38271604938271603,31.0
+2022,National League,West,San Diego Padres,89,73,0.5493827160493827,22.0
+2022,National League,West,San Francisco Giants,81,81,0.5,30.0
+2022,National League,West,Arizona Diamondbacks,74,88,0.4567901234567901,37.0
+2023,National League,Central,Chicago Cubs,83,79,0.5123456790123457,9.0
+2023,National League,Central,Cincinnati Reds,82,80,0.5061728395061729,10.0
+2023,National League,Central,Pittsburgh Pirates,76,86,0.4691358024691358,16.0
+2023,National League,West,Arizona Diamondbacks,84,78,0.5185185185185185,16.0
+2023,National League,West,San Diego Padres,82,80,0.5061728395061729,18.0
+2023,National League,West,San Francisco Giants,79,83,0.4876543209876543,21.0
+2024,National League,Central,Chicago Cubs,83,79,0.5123456790123457,10.0
+2024,National League,Central,Cincinnati Reds,77,85,0.47530864197530864,16.0
+2024,National League,Central,Pittsburgh Pirates,76,86,0.4691358024691358,17.0
+2024,National League,West,San Diego Padres,93,69,0.5740740740740741,5.0
+2024,National League,West,Arizona Diamondbacks,89,73,0.5493827160493827,9.0
+2024,National League,West,San Francisco Giants,80,82,0.49382716049382713,18.0
+2025,National League,Central,Chicago Cubs,45,30,0.6,0
+2025,National League,Central,Cincinnati Reds,39,37,0.5131578947368421,6.5
+2025,National League,Central,Pittsburgh Pirates,30,47,0.38961038961038963,16.0
+2025,National League,West,San Francisco Giants,42,34,0.5526315789473685,4.5
+2025,National League,West,San Diego Padres,40,35,0.5333333333333333,6.0
+2025,National League,West,Arizona Diamondbacks,38,37,0.5066666666666667,8.0

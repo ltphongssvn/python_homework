@@ -1,0 +1,23 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Adam Dunn,https://www.baseball-almanac.com/players/player.php?p=dunnad01,Arizona,,2008,National League,Base on Balls,122,player,1
+Chipper Jones,https://www.baseball-almanac.com/players/player.php?p=jonesch06,Atlanta,,2008,National League,Batting Average,.364,player,1
+Lance Berkman,https://www.baseball-almanac.com/players/player.php?p=berkmla01,Houston,,2008,National League,Doubles,46,player,1
+Nate McLouth,https://www.baseball-almanac.com/players/player.php?p=mclouna01,Pittsburgh,,2008,National League,Doubles,46,player,1
+Jose Reyes,https://www.baseball-almanac.com/players/player.php?p=reyesjo01,New York,,2008,National League,Hits,204,player,1
+Ryan Howard,https://www.baseball-almanac.com/players/player.php?p=howarry01,Philadelphia,,2008,National League,Home Runs,48,player,1
+Chipper Jones,https://www.baseball-almanac.com/players/player.php?p=jonesch06,Atlanta,,2008,National League,On Base Percentage,.470,player,1
+Ryan Howard,https://www.baseball-almanac.com/players/player.php?p=howarry01,Philadelphia,,2008,National League,RBI,146,player,1
+Hanley Ramirez,https://www.baseball-almanac.com/players/player.php?p=ramirha01,Florida,,2008,National League,Runs,125,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2008,National League,Slugging Average,.653,player,1
+Willy Taveras,https://www.baseball-almanac.com/players/player.php?p=taverwi01,Colorado,,2008,National League,Stolen Bases,68,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2008,National League,Total Bases,342,player,1
+Jose Reyes,https://www.baseball-almanac.com/players/player.php?p=reyesjo01,New York,,2008,National League,Triples,19,player,1
+C.C. Sabathia,https://www.baseball-almanac.com/players/player.php?p=sabatcc01,Milwaukee,,2008,National League,Complete Games,7,pitcher,1
+Johan Santana,https://www.baseball-almanac.com/players/player.php?p=santajo02,New York,,2008,National League,ERA,2.53,pitcher,1
+Pedro Feliciano,https://www.baseball-almanac.com/players/player.php?p=felicpe01,New York,,2008,National League,Games,86,pitcher,1
+Jose Valverde,https://www.baseball-almanac.com/players/player.php?p=valvejo01,Houston,,2008,National League,Saves,44,pitcher,1
+C.C. Sabathia,https://www.baseball-almanac.com/players/player.php?p=sabatcc01,Milwaukee,,2008,National League,Shutouts,3,pitcher,1
+Ben Sheets,https://www.baseball-almanac.com/players/player.php?p=sheetbe01,Milwaukee,,2008,National League,Shutouts,3,pitcher,1
+Tim Lincecum,https://www.baseball-almanac.com/players/player.php?p=linceti01,San Francisco,,2008,National League,Strikeouts,265,pitcher,1
+Tim Lincecum,https://www.baseball-almanac.com/players/player.php?p=linceti01,San Francisco,,2008,National League,Winning Percentage,.783,pitcher,1
+Brandon Webb,https://www.baseball-almanac.com/players/player.php?p=webbbr01,Arizona,,2008,National League,Wins,22,pitcher,1

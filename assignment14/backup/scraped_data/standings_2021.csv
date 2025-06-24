@@ -1,0 +1,12 @@
+year,league,division,team,wins,losses,winning_percentage,games_back
+2021,American League,East,Tampa Bay Rays,100,62,0.6172839506172839,.617
+2021,American League,East,Boston Red Sox,92,70,0.5679012345679012,.568
+2021,American League,Central,Detroit Tigers,77,85,0.47530864197530864,.475
+2021,American League,West,Houston Astros,95,67,0.5864197530864198,.586
+2021,American League,West,Texas Rangers,60,102,0.37037037037037035,.370
+2021,National League,Central,Cincinnati Reds,83,79,0.5123456790123457,.512
+2021,National League,Central,Chicago Cubs,71,91,0.4382716049382716,.438
+2021,National League,Central,Pittsburgh Pirates,61,101,0.3765432098765432,.377
+2021,National League,West,San Francisco Giants,107,55,0.6604938271604939,.660
+2021,National League,West,San Diego Padres,79,83,0.4876543209876543,.488
+2021,National League,West,Arizona Diamondbacks,52,110,0.32098765432098764,.321

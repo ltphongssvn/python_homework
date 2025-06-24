@@ -1,0 +1,25 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2004,National League,Base on Balls,232,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2004,National League,Batting Average,.362,player,1
+Lyle Overbay,https://www.baseball-almanac.com/players/player.php?p=overbly01,Milwaukee,,2004,National League,Doubles,53,player,1
+Juan Pierre,https://www.baseball-almanac.com/players/player.php?p=pierrju01,Florida,,2004,National League,Hits,221,player,1
+Adrian Beltre,https://www.baseball-almanac.com/players/player.php?p=beltrad01,Los Angeles,,2004,National League,Home Runs,48,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2004,National League,On Base Percentage,.609,player,1
+Vinny Castilla,https://www.baseball-almanac.com/players/player.php?p=castivi02,Colorado,,2004,National League,RBI,131,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2004,National League,Runs,133,player,1
+Barry Bonds,https://www.baseball-almanac.com/players/player.php?p=bondsba01,San Francisco,,2004,National League,Slugging Average,.812,player,1
+Scott Podsednik,https://www.baseball-almanac.com/players/player.php?p=podsesc01,Milwaukee,,2004,National League,Stolen Bases,70,player,1
+Albert Pujols,https://www.baseball-almanac.com/players/player.php?p=pujolal01,St. Louis,,2004,National League,Total Bases,389,player,1
+Juan Pierre,https://www.baseball-almanac.com/players/player.php?p=pierrju01,Florida,,2004,National League,Triples,12,player,1
+Jimmy Rollins,https://www.baseball-almanac.com/players/player.php?p=rolliji01,Philadelphia,,2004,National League,Triples,12,player,1
+Jack Wilson,https://www.baseball-almanac.com/players/player.php?p=wilsoja02,Pittsburgh,,2004,National League,Triples,12,player,1
+Livan Hernandez,https://www.baseball-almanac.com/players/player.php?p=hernali01,Montreal,,2004,National League,Complete Games,9,pitcher,1
+Jake Peavy,https://www.baseball-almanac.com/players/player.php?p=peavyja01,San Diego,,2004,National League,ERA,2.27,pitcher,1
+Jim Brower,https://www.baseball-almanac.com/players/player.php?p=broweji01,San Francisco,,2004,National League,Games,89,pitcher,1
+Armando Benitez,https://www.baseball-almanac.com/players/player.php?p=benitar01,Florida,,2004,National League,Saves,47,pitcher,1
+Jason Isringhausen,https://www.baseball-almanac.com/players/player.php?p=isrinja01,St. Louis,,2004,National League,Saves,47,pitcher,1
+Cory Lidle,https://www.baseball-almanac.com/players/player.php?p=lidleco01,Philadelphia,,2004,National League,Shutouts,3,pitcher,1
+Jason Schmidt,https://www.baseball-almanac.com/players/player.php?p=schmija01,San Francisco,,2004,National League,Shutouts,3,pitcher,1
+Randy Johnson,https://www.baseball-almanac.com/players/player.php?p=johnsra05,Arizona,,2004,National League,Strikeouts,290,pitcher,1
+Roger Clemens,https://www.baseball-almanac.com/players/player.php?p=clemero02,Houston,,2004,National League,Winning Percentage,.818,pitcher,1
+Roy Oswalt,https://www.baseball-almanac.com/players/player.php?p=oswalro01,Houston,,2004,National League,Wins,20,pitcher,1

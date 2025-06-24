@@ -1,0 +1,22 @@
+name,url,team,team_url,year,league,statistic,value,stat_type,rank
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1946,American League,Base on Balls,156,player,1
+Mickey Vernon,https://www.baseball-almanac.com/players/player.php?p=vernomi01,Washington,,1946,American League,Batting Average,.353,player,1
+Mickey Vernon,https://www.baseball-almanac.com/players/player.php?p=vernomi01,Washington,,1946,American League,Doubles,51,player,1
+Johnny Pesky,https://www.baseball-almanac.com/players/player.php?p=peskyjo01,Boston,,1946,American League,Hits,208,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1946,American League,Home Runs,44,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1946,American League,On Base Percentage,.497,player,1
+Hank Greenberg,https://www.baseball-almanac.com/players/player.php?p=greenha01,Detroit,,1946,American League,RBI,127,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1946,American League,Runs,142,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1946,American League,Slugging Average,.667,player,1
+George Case,https://www.baseball-almanac.com/players/player.php?p=casege01,Cleveland,,1946,American League,Stolen Bases,28,player,1
+Ted Williams,https://www.baseball-almanac.com/players/player.php?p=willite01,Boston,,1946,American League,Total Bases,343,player,1
+Hank Edwards,https://www.baseball-almanac.com/players/player.php?p=edwarha01,Cleveland,,1946,American League,Triples,16,player,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1946,American League,Complete Games,36,pitcher,1
+Hal Newhouser,https://www.baseball-almanac.com/players/player.php?p=newhoha01,Detroit,,1946,American League,ERA,1.94,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1946,American League,Games,48,pitcher,1
+Bob Klinger,https://www.baseball-almanac.com/players/player.php?p=klingbo01,Boston,,1946,American League,Saves,9,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1946,American League,Shutouts,10,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1946,American League,Strikeouts,348,pitcher,1
+Dave Ferriss,https://www.baseball-almanac.com/players/player.php?p=ferrida01,Boston,,1946,American League,Winning Percentage,.806,pitcher,1
+Bob Feller,https://www.baseball-almanac.com/players/player.php?p=fellebo01,Cleveland,,1946,American League,Wins,26,pitcher,1
+Hal Newhouser,https://www.baseball-almanac.com/players/player.php?p=newhoha01,Detroit,,1946,American League,Wins,26,pitcher,1
