@@ -6,10 +6,8 @@ This project implements interactive dashboards for analyzing baseball history da
 
 ## 🚀 Live Deployments
 
-- **Streamlit Dashboard**: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+- **Streamlit Dashboard**: https://pythonhomework-nz6p6b9ecjgky2gt9unqiz.streamlit.app
 - **Dash Dashboard**: [Coming Soon - Render Deployment]
-
-> **Note**: Replace `your-app-name` with your actual Streamlit app URL after deployment
 
 ## 📊 Features
 
@@ -38,14 +36,19 @@ This project implements interactive dashboards for analyzing baseball history da
 ```
 assignment14/
 ├── dashboards/
-│   ├── streamlit_dashboard.py    # Streamlit implementation
-│   ├── dash_dashboard.py         # Dash implementation
-│   ├── requirements.txt          # Python dependencies
-│   └── explore_data.py          # Data exploration utility
-├── baseball_history.db          # SQLite database
+│   ├── streamlit_dashboard_1876_2024_v2.py                    # Streamlit implementation
+│   ├── dash_dashboard_1876_2024_v3.py                         # Dash implementation
+│   ├── requirements.txt                                       # Python dependencies
+│   └── README.md                                              # This file
 ├── .streamlit/
-│   └── config.toml              # Streamlit configuration
-└── README.md                    # This file
+│    └── config.toml                                           # Streamlit configuration
+├── _01_web_scraping_program_1876_2024_v3.py                   # Web Scraping Program
+├── _02_database_import_program_1876_2024_v1.py                # Database Import Program
+├── _03_database_query_program_1876_2024_v2.py                 # Database Query Program
+├── baseball_history.db                                        # SQLite database
+├── custom_sql_query_1876_2024_v6.py                           # Customed Database Query Program
+├── custom_sql_query_1876_2024_v6.sql                          # Customed SQL statements
+├── inspect_schema_1876_2024_v1.py                             # Find out about Database schema
 ```
 
 ## 🚦 Quick Start
@@ -70,13 +73,13 @@ assignment14/
 3. **Run Streamlit Dashboard**
    ```bash
    cd dashboards
-   streamlit run streamlit_dashboard.py
+   streamlit run streamlit_dashboard_1876_2024_v2.py
    ```
 
 4. **Run Dash Dashboard**
    ```bash
    cd dashboards
-   python dash_dashboard.py
+   python dash_dashboard_1876_2024_v3.py
    ```
 
 ## 📊 Database Schema
@@ -84,45 +87,60 @@ assignment14/
 The project uses a SQLite database (`baseball_history.db`) with the following expected structure:
 
 ```sql
--- Example table structure (adapt based on your actual schema)
-CREATE TABLE baseball_data (
-    id INTEGER PRIMARY KEY,
-    year INTEGER,
-    team TEXT,
-    wins INTEGER,
-    losses INTEGER,
-    attendance INTEGER,
-    runs_scored INTEGER,
-    runs_allowed INTEGER
+-- Table structure (based on the schema)
+CREATE TABLE pitcher_stats (
+  id INTEGER PRIMARY KEY,
+  year INTEGER,
+  league TEXT,
+  stat_type TEXT,
+  statistic TEXT,
+  name TEXT,
+  team TEXT,
+  value TEXT,
+  UNIQUE (year, league, statistic, name, team)
+);
+
+CREATE TABLE player_stats (
+  id INTEGER PRIMARY KEY,
+  year INTEGER,
+  league TEXT,
+  stat_type TEXT,
+  statistic TEXT,
+  name TEXT,
+  team TEXT,
+  value TEXT,
+  UNIQUE (year, league, statistic, name, team)
+);
+
+CREATE TABLE team_standings (
+  id INTEGER PRIMARY KEY,
+  year INTEGER,
+  league TEXT,
+  division TEXT,
+  team TEXT,
+  wins INTEGER,
+  losses INTEGER,
+  winning_percentage REAL,
+  games_back TEXT,
+  UNIQUE (year, league, team)
 );
 ```
-
-## 🎨 Dashboard Features Comparison
-
-| Feature | Streamlit | Dash |
-|---------|-----------|------|
-| Development Speed | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| Customization | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Interactive Controls | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Deployment Ease | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| Performance | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-
 ## 🚀 Deployment Instructions
 
 ### Streamlit.io Deployment
 
-1. Push your code to GitHub
-2. Connect your GitHub repo to Streamlit.io
-3. Set the main file path: `dashboards/streamlit_dashboard.py`
+1. Push the code to GitHub
+2. Connect the GitHub repo to Streamlit.io
+3. Set the main file path: `python_homework ∙ assignment14 ∙ assignment14/dashboards/streamlit_dashboard_1876_2024_v2.py`
 4. Deploy automatically
 
 ### Render Deployment
 
 1. Create a new Web Service on Render
-2. Connect your GitHub repository
+2. Connect the GitHub repository
 3. Configure build settings:
    - **Build Command**: `pip install -r dashboards/requirements.txt`
-   - **Start Command**: `python dashboards/dash_dashboard.py`
+   - **Start Command**: `python dashboards/dash_dashboard_1876_2024_v3.py`
 4. Deploy
 
 ## 🔧 Configuration
@@ -179,7 +197,7 @@ Located in `.streamlit/config.toml`:
 
 1. Fork the repository
 2. Create a feature branch
-3. Make your changes
+3. Make the changes
 4. Test thoroughly
 5. Submit a pull request
 

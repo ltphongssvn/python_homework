@@ -54,4 +54,6 @@ Thumbs.db
 
 # Temporary files
 *.tmp
-*.temp
+*.tempbackup/
+*.prof
+pattern_test_results.json

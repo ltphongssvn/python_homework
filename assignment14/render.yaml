@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: baseball-history-dashboard
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "cd dashboards && gunicorn dash_dashboard_1876_2024_v3:server --bind 0.0.0.0:$PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.18

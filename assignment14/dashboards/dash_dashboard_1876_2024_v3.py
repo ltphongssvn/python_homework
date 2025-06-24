@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# dash_dashboard_1876_2024_v3_production.py
+# dash_dashboard_1876_2024_v3.py
 """
 Baseball History Dashboard - Production Ready Version
 
@@ -59,6 +59,9 @@ app = dash.Dash(
         {"name": "viewport", "content": "width=device-width, initial-scale=1"}
     ],
 )
+
+# Add this line for Render deployment
+server = app.server
 
 app.title = "Baseball History Dashboard"
 
@@ -152,6 +155,14 @@ class Config:
         Raises:
             FileNotFoundError: If database cannot be found in any location
         """
+
+        # Check for Render deployment - database will be in same directory as script
+        if os.environ.get("RENDER"):
+            render_db_path = Path(__file__).parent / cls.DATABASE_NAME
+            if render_db_path.exists():
+                logger.info(f"Found database on Render at: {render_db_path}")
+                return render_db_path
+
         # List of paths to check, in order of preference
         possible_paths = [
             # Parent directory (when running from dashboards subdirectory)
